@@ -563,10 +563,10 @@ HIND3615323,How many bags are them ?,3
 HIND3615323,How many bags are their ?,3
 HIND3615323,How many bags are there ?,3
 HIND3615323,,3
-HIND3142214,They speak English.,"\\\""are\\\"" लगाने की ज़रुरत नहीं है. \\\""They speak\\\"" = वे बोलते हैं."""
-HIND3142214,They speaks English.,"\\\""are\\\"" लगाने की ज़रुरत नहीं है. \\\""They speak\\\"" = वे बोलते हैं."""
-HIND3142214,They are speak English.,"\\\""are\\\"" लगाने की ज़रुरत नहीं है. \\\""They speak\\\"" = वे बोलते हैं."""
-HIND3142214,They are speaks English.,"\\\""are\\\"" लगाने की ज़रुरत नहीं है. \\\""They speak\\\"" = वे बोलते हैं."""
+HIND3142214,They speak English.,1
+HIND3142214,They speaks English.,1
+HIND3142214,They are speak English.,1
+HIND3142214,They are speaks English.,1
 HIND4846703,He has a apples.,3
 HIND4846703,He has any apples.,3
 HIND4846703,He has some apples.,3
