@@ -458,3 +458,83 @@ SNo,Options,Error
 458,['We do sleep in our bedroom right now.'],No error found
 459,['We sleeping in our bedroom right now.'],Missing verb
 460,['They play soccer on Sundays.'],No error found
+461,['They are playing soccer on Sundays.'],No error found
+462,['They playing soccer on Sundays.'],Missing verb
+463,['They plays soccer on Sundays.'],Missing verb
+464,['Everyone are talking about the trip.'],Incorrect verb form
+465,['Everyone do talk about the trip.'],Incorrect verb form
+466,['Everyone is talk about the trip.'],Wrong verb form
+467,['Everyone is talking about the trip.'],No error found
+468,['They is going home.'],Incorrect verb form with personal pronoun
+469,['They goes home.'],Incorrect verb form with personal pronoun
+470,['They are going home.'],No error found
+471,['They are go home.'],Incorrect verb form
+472,['They do not reading books right now.'],Incorrect verb form after do or does
+473,['They are not reading books right now.'],No error found
+474,['They are read books right now.'],No error found
+475,['They have been read books right now.'],No error found
+476,['I am study to become an Engineer.'],Incorrect verb form
+477,['I am studying to become an Engineer.'],No error found
+478,['I do study to become an Engineer.'],Missing article
+479,['I studies to become an Engineer.'],Incorrect verb form with personal pronoun
+480,"[""I don't going to Rama's house right now.""]",Incorrect verb form after do or does
+481,"[""I are not going to Rama's house right now.""]",Incorrect verb form with personal pronoun
+482,"[""I am not going to Rama's house right now.""]",No error found
+483,"[""I am not go to Rama's house right now.""]",Incorrect verb form
+484,['We read a book right now.'],No error found
+485,['We do read a book right now.'],No error found
+486,['We reading a book right now.'],Missing verb
+487,['We are reading a book right now.'],Missing verb
+488,['You are taking a bath right now.'],No error found
+489,['You are take a bath right now.'],Incorrect verb form
+490,['You do take a bath right now.'],No error found
+491,['You taking a bath right now.'],Missing verb
+492,['I never rude to servants.'],No error found
+493,['I am never rude to servants.'],No error found
+494,['I rarely rude to servants.'],No error found
+495,['I can never rude to servants.'],No error found
+496,['I do not never drive to work.'],Double negative
+497,['I do not usual drive to work.'],Adjective instead of adverb
+498,['I do not usually drive to work.'],No error found
+499,['I do not rare drive to work.'],Adjective instead of adverb
+500,['It rare rains in December.'],No error found
+501,['It rarely rains in December.'],No error found
+502,['It usual rains in December.'],No error found
+503,['It sometime rains in December.'],No error found
+504,['She dances beautiful.'],Adjective instead of adverb
+505,['She dances beautifully.'],No error found
+506,['She dances with beautiful.'],No error found
+507,['She works very hard.'],No error found
+508,['She works very hardly.'],No error found
+509,['She works a lot hard.'],No error found
+510,['She runs fastly.'],No error found
+511,['She runs fast.'],No error found
+512,['She runs faster.'],No error found
+513,['Rabbits run very fast.'],No error found
+514,['Rabbits run fastly.'],No error found
+515,['Rabbits run very fastly.'],No error found
+516,['Ram does his work careful.'],No error found
+517,['Ram does his work carefully.'],No error found
+518,['Ram does his work with careful.'],No error found
+519,['He washes properly the clothes.'],No error found
+520,['He washes proper the clothes.'],Adjective instead of adverb
+521,['He washes the clothes proper.'],Adjective instead of adverb
+522,['He washes the clothes properly.'],No error found
+523,['She danced wonderful at her wedding.'],Adjective instead of adverb
+524,['She danced wonderfully at her wedding.'],No error found
+525,['She danced with wonderful at her wedding.'],No error found
+526,['Are you play cricket?'],No error found
+527,['Can you play cricket?'],No error found
+528,['Can you are play cricket?'],Incorrect verb form after modal
+529,['You can be play cricket?'],Incorrect verb form
+530,"['Yes', ' my mother is drive a car.']",Incorrect verb form
+531,"['Yes', ' my mother drive a car.']",Incorrect verb form with singular subject
+532,"['Yes', ' my mother can drive a car.']",No error found
+533,"['Yes', ' my mother drive can a car.']",No error found
+534,['I can not speak English.'],No error found
+535,['I am not speak English.'],Incorrect verb form
+536,['I do not can speak English.'],Do with modal verb
+537,['I not can speak English.'],No error found
+538,['I am not speak German.'],Incorrect verb form
+539,['I can speak not German.'],No error found
+540,['I not can speak German.'],No error found
