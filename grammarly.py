@@ -13,8 +13,8 @@ import random
 import csv
 
 #credentials
-user = ''
-pas = ''
+user = 'anik.samanta@iitkgp.ac.in'
+pas = 'atdc@iitkgp2017'
 
 #Function that simulates human typing
 def human_type(element, text):
@@ -47,7 +47,7 @@ newElem = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CSS
 print('Clearing pre-filled text...')
 
 #List of Query Text
-with open('questions.csv', 'r') as f:
+with open('questions_missing_words.csv', 'r') as f:
   reader = csv.reader(f)
   texts = list(reader)
 count = len(texts)
@@ -64,14 +64,14 @@ for i,text in enumerate(texts):
 	print('Looking for any possible grammatical error...')
 	error = 'No error found'
 	try:
-		Elem = WebDriverWait(driver, 4).until(EC.presence_of_element_located((By.CSS_SELECTOR, "span._ed4374-buttonWrapper:nth-child(1)")))
+		Elem = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "span._ed4374-buttonWrapper:nth-child(1)")))
 		print('Error Found')
 		driver.find_element_by_css_selector('span._ed4374-buttonWrapper:nth-child(1)').click()
 		error = driver.find_element_by_css_selector('._8da58b-plainTextTitle').text
 		print('Error is "' + error + '"')
 	except TimeoutException:
 		print(error)
-	row = [i+1, text, error]
+	row = [i+161, text, error]
 
 	with open('errors.csv', 'a') as csvFile:
 	    writer = csv.writer(csvFile)

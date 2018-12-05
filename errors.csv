@@ -1,985 +1,160 @@
 SNo,Options,Error
-1,['How much are those shoes in the window over there?'],No error found
-2,['How much are these shoes in the window over there?'],No error found
-3,['How much are that shoes in the window over there?'],No error found
-4,['How much are this shoes in the window over there?'],No error found
-5,['My brown skirt fit me well.'],No error found
-6,['My brown skirt fits me well.'],No error found
-7,['My brown skirt is fit me well.'],No error found
-8,['My brown skirt is fits me well.'],Incorrect verb form
-9,['Mohan is go to be three in June.'],Incorrect verb form
-10,['Mohan is going to be three in June.'],No error found
-11,['Mohan is will be three in June.'],No error found
-12,['Mohan is going to three in June.'],No error found
-13,['I prefer relaxed on weekends.'],No error found
-14,['I prefer relax on weekends.'],Missing word
-15,['I prefer relaxing on weekends.'],No error found
-16,['I prefer to relaxed on weekends.'],Non-infinitive after to
-17,['Are there a supermarket in this neighborhood.'],No error found
-18,"[""There isn't a supermarket in this neighborhood.""]",No error found
-19,['Is there a supermarket in this neighborhood.'],No error found
-20,['a supermarket in this neighborhood.'],No error found
-21,['John and I is good chess players.'],Incorrect verb form with compound subject
-22,['John and I am good chess players.'],Incorrect verb form with compound subject
-23,['John and I are good chess players.'],No error found
-24,['John and I  good chess players.'],No error found
-25,['New York has busy streets.'],No error found
-26,['New York has busy place.'],Missing article
-27,['New York has busy city.'],Missing article
-28,['New York has busy is street.'],No error found
-29,['Your friend speak Japanese.'],Incorrect verb form with singular subject
-30,['Your friend speaking Japanese.'],Missing verb
-31,['Your friend speaks Japanese.'],No error found
-32,['Your friend  Japanese.'],No error found
-33,['Does your sisters speak English?'],No error found
-34,['Do your sisters speak English?'],No error found
-35,['Are your sisters speak English?'],No error found
-36,['your sisters speak English?'],No error found
-37,['Can I try this skirt on?'],No error found
-38,['Can I try these skirt on?'],No error found
-39,['Can I try those skirt on?'],No error found
-40,['Can I try  skirt on?'],Missing article
-41,['We will go out for breakfast.'],No error found
-42,['We will have out for breakfast.'],No error found
-43,['We will to have out for breakfast.'],To after modal verb
-44,['We will going out for breakfast.'],Incorrect verb form after modal
-45,['Does Rachel has a daughter?'],Incorrect verb form after do or does
-46,['Does Rachel have a daughter?'],No error found
-47,['Does Rachel is has a daughter?'],Incorrect verb form after do or does
-48,['Does Rachel  a daughter?'],No error found
-49,['Our brothers speak Japanese.'],No error found
-50,['Our brothers speaking Japanese.'],Missing verb
-51,['Our brothers speaks Japanese.'],Incorrect verb form with plural subject
-52,['Our brothers  Japanese.'],No error found
-53,['Congrats on your promotion.'],No error found
-54,['Congrats to your promotion.'],No error found
-55,['Congrats from your promotion.'],No error found
-56,['Congrats .'],No error found
-57,['John sits next to me in the class.'],No error found
-58,['John sits behind to me in the class.'],No error found
-59,['John sits under to me in the class.'],No error found
-60,['John sits in front of to me in the class.'],Redundant preposition
-61,['I hope you feeling better soon.'],Missing verb
-62,['I hope you are feeling better soon.'],No error found
-63,['I hope you feel better soon.'],No error found
-64,['I hope you will felt better soon.'],Wrong verb form
-65,"[""Let's have for dinner together.""]",No error found
-66,"[""Let's go dinner together.""]",No error found
-67,"[""Let's gets dinner together.""]",No error found
-68,"[""Let's have dinner together.""]",No error found
-69,['Do you want any biscuit?'],No error found
-70,['Do you want a biscuit?'],No error found
-71,['Do you want an biscuit?'],The use of a versus an
-72,['Do you want  biscuit?'],Missing article
-73,['Your childrens are very smart.'],Misspelled word
-74,['Your children are very smart.'],No error found
-77,['Where does Rachel live?'],No error found
-78,['Where does Rachel lives?'],Incorrect verb form after do or does
-79,['Where does Rachel living?'],No error found
-80,['Where does Rachel ?'],No error found
-81,['I want a kg of apples.'],No error found
-82,['I want an kg of apples.'],The use of a versus an
-83,['I want any kg of apples.'],No error found
-84,['I want  kg of apples.'],No error found
-85,['I am from France. I is French.'],No error found
-86,['I am from France. I am Francian.'],No error found
-87,['I am from France. I am French.'],No error found
-88,['I am from France. I French.'],No error found
-89,['Are there any teachers in the school?'],No error found
-90,['Is there any teachers in the school?'],Incorrect verb form
-91,['There is any teachers in the school?'],Incorrect verb form
-92,['any teachers in the school?'],No error found
-93,['I work at Microsoft'],No error found
-94,['I work at a Microsoft'],No error found
-95,['I work from Microsoft'],No error found
-96,['I work on Microsoft'],No error found
-97,"[""John's bag is under the bed.""]",No error found
-98,"[""John's bag is at the bed.""]",No error found
-99,"[""John's bag is in the bed.""]",Wrong article with set expression
-100,"[""John's bag is  the bed.""]",No error found
-101,"[""Are there the letter 'f' in the word photograph.""]",No error found
-102,"[""There isn't the letter 'f' in the word photograph.""]",No error found
-103,"[""Are the letter 'f' in the word photograph.""]",No error found
-104,"[""the letter 'f' in the word photograph.""]",No error found
-105,['Tom Cruise have black and white hair.'],Incorrect verb form
-106,['Tom Cruise has a black and white hair.'],Incorrect article use
-107,['Tom Cruise has black and white hair.'],No error found
-108,['Tom Cruise  black and white hair.'],No error found
-109,['Your father is a smart man.'],No error found
-110,['Your father is smart man.'],Missing article
-111,['Your father is smarty man.'],Missing article
-112,['Your father is  man.'],Missing article
-113,['How much is this pants for?'],Incorrect verb form with plural subject
-114,['How much are these pants for?'],No error found
-115,['How much is these pants for?'],Incorrect verb form with plural subject
-116,['How much are that pants for?'],No error found
-117,['How much bottles of water.'],No error found
-118,['How many bottles of water.'],No error found
-97,['bottles of water.'],No error found
-98,['My red pants fit me well.'],No error found
-99,['My red pant fit me well.'],No error found
-100,['My red pants are fit me well.'],No error found
-101,['My red  fit me well.'],No error found
-102,['Do they have a cat?'],No error found
-103,['Does they have a cat?'],Incorrect verb form with personal pronoun
-104,['Are they have a cat?'],No error found
-105,['they have a cat?'],Missing auxiliary verb in question
-106,['Rachel and Rachel work at a school.'],No error found
-107,['Rachel work at a school.'],No error found
-108,['Rachel work at a school.'],No error found
-109,['work at a school.'],No error found
-110,['I dances very well.'],Incorrect verb form with personal pronoun
-111,['I dance very well.'],No error found
-112,['I am dance very well.'],No error found
-113,['I dancing very well.'],Missing verb
-114,['They eats bread.'],Incorrect verb form with personal pronoun
-115,['They eat bread.'],No error found
-116,['They are eat bread.'],Incorrect verb form
-117,['They does eat bread.'],Incorrect verb form with personal pronoun
-118,['Are there any windows in the room?'],No error found
-119,"[""There isn't any windows in the room?""]",Incorrect verb form
-120,['Is there any windows in the room?'],Incorrect verb form
-121,['any windows in the room?'],No error found
-122,['He drinks water'],No error found
-123,['He drink water'],No error found
-124,['He are drink water'],No error found
-125,['He do drink water'],No error found
-126,['She live next to the mall in Mumbai'],No error found
-127,['They live next to the mall in Mumbai'],No error found
-128,['He live next to the mall in Mumbai'],No error found
-129,['live next to the mall in Mumbai'],No error found
-130,['Do John have a son?'],Incorrect verb form with singular subject
-131,['Does John have a son?'],No error found
-132,['Is John have a son?'],No error found
-133,['John have a son?'],Incorrect verb form
-134,['Where do they live?'],No error found
-135,['Where does they live?'],Incorrect verb form with personal pronoun
-136,['Where are they live?'],No error found
-137,['Where  they live?'],No error found
-138,"[""There isn't many tea in the cup.""]",Singular noun after plural quantifier
-139,"[""There isn't much tea in the cup.""]",No error found
-140,"[""There isn't a tea in the cup.""]",No error found
-141,"[""There isn't  tea in the cup.""]",No error found
-142,['Rachel lives behind my house in Mumbai.'],No error found
-143,['Rachel does lives behind my house in Mumbai.'],No error found
-144,['Rachel live behind my house in Mumbai.'],Incorrect verb form with singular subject
-145,['Rachel is lives behind my house in Mumbai.'],No error found
-146,['Where are John work?'],Incorrect verb form with singular subject
-147,['Where is John work?'],No error found
-148,['Where does John work?'],No error found
-149,['Where  John work?'],Missing auxiliary verb in question
-150,['This is there sister.'],Possibly confused there and their
-151,['This is their sister.'],No error found
-152,['This is theirs sister.'],Incorrect possessive form
-153,['This is  sister.'],Missing article
-154,['Do you have a children?'],Indefinite article with plural noun
-155,['Do you have an children?'],Indefinite article with plural noun
-156,['Do you have any children?'],No error found
-157,['Do you have  children?'],No error found
-158,['How many money do you have?'],No error found
-159,['How much money do you have?'],No error found
-160,['money do you have?'],No error found
-161,['money do you have?'],No error found
-162,['Are there a apples in the fridge?'],Indefinite article with plural noun
-163,['Are there an apples in the fridge?'],Indefinite article with plural noun
-164,['Are there any apples in the fridge?'],No error found
-165,['Are there  apples in the fridge?'],No error found
-166,['She is from England. She is England.'],No error found
-167,['She is from England. She are British.'],Incorrect verb form with personal pronoun
-168,['She is from England. She is British.'],No error found
-169,['She is from England. She am British.'],Incorrect verb form with personal pronoun
-170,['Look there is John.'],No error found
-171,['Look there am John.'],No error found
-172,['Look there are John.'],Incorrect verb form
-173,['Look there  John.'],No error found
-174,['I would like some oranges.'],No error found
-175,['I want like some oranges.'],No error found
-176,['I have like some oranges.'],No error found
-177,['I am like some oranges.'],No error found
-178,['She is smart woman.'],Missing article
-179,['She is smarty woman.'],Missing article
-180,['She is a smart woman.'],No error found
-181,['She is  woman.'],Missing article
-182,['Is she a student?'],No error found
-183,['Is you a student?'],Incorrect verb form with personal pronoun
-184,['Is she is a student?'],Incorrect verb form with personal pronoun
-185,['Does she a student?'],No error found
-186,['I have seen DDLJ fifth times.'],No error found
-187,['I have seen DDLJ five times.'],No error found
-213,"['How much are those pants', ' the ones displayed here?']",No error found
-214,"['How much are these pants', ' the ones displayed here?']",No error found
-215,"['How much are this pants', ' the ones displayed here?']",No error found
-216,"['How much are that pants', ' the ones displayed here?']",No error found
-217,['Do you have a girlfriend?'],No error found
-218,['Does you have a girlfriend?'],Incorrect verb form with personal pronoun
-219,['Are you have a girlfriend?'],No error found
-220,['you have a girlfriend?'],Missing auxiliary verb in question
-221,['How much is this house for?'],No error found
-222,['How much is these house for?'],No error found
-223,['How much is those house for?'],No error found
-224,['How much are this house for?'],No error found
-225,"[""Are a of those shoes Rachel's?""]",The use of a versus an
-226,"[""Are any of those shoes Rachel's?""]",No error found
-227,"[""Are the of those shoes Rachel's?""]",No error found
-228,"[""Are  of those shoes Rachel's?""]",No error found
-229,['They dance very well.'],No error found
-230,['They dances very well.'],Incorrect verb form with personal pronoun
-231,['They are dance very well.'],No error found
-232,['They dancing very well.'],Missing verb
-233,['Is there a bathroom in this house?'],No error found
-234,['There are a bathroom in this house?'],Incorrect verb form
-235,['Is a bathroom in this house?'],No error found
-236,['a bathroom in this house?'],No error found
-237,['Are they from America?'],No error found
-238,['Is they from America?'],Incorrect verb form with personal pronoun
-239,['Are they are from America?'],No error found
-240,['Do they are from America?'],No error found
-241,['Is there a milk in the fridge?'],Redundant indefinite article
-242,['Is there any milk in the fridge?'],No error found
-243,['Is there an milk in the fridge?'],Redundant indefinite article
-244,['Is there the milk in the fridge?'],No error found
-245,['Do you drinks water?'],Incorrect verb form after do or does
-246,['Do you drink water?'],No error found
-247,['Do you are drink water?'],Incorrect verb form
-248,['Do you  water?'],No error found
-249,"[""There aren't a kitchen in this house?""]",Incorrect verb form
-250,"[""There isn't a kitchen in this house?""]",No error found
-251,['Is there a kitchen in this house?'],No error found
-252,['a kitchen in this house?'],No error found
-253,['He speak English.'],Incorrect verb form with personal pronoun
-254,['She speak English.'],Incorrect verb form with personal pronoun
-255,['We speak English.'],No error found
-256,['Us speak English.'],No error found
-257,['John sits between Rachel and Rachel.'],No error found
-258,['John sits in front Rachel and Rachel.'],No error found
-259,['John sits next Rachel and Rachel.'],Missing preposition
-260,['John sits  Rachel and Rachel.'],No error found
-261,['My books are in my room.'],No error found
-262,['My books are on my room.'],Confused preposition
-263,['My books are at my room.'],Confused preposition
-264,['My books are  my room.'],No error found
-265,['Silver are expensive.'],Incorrect verb form
-266,['Silver is expensive.'],No error found
-267,['Silver does expensive.'],No error found
-268,['Silver has expensive.'],No error found
-269,['How much bottles of Pepsi do you have?'],Incorrect quantifier
-270,['How many bottles of Pepsi do you have?'],No error found
-271,['bottles of Pepsi do you have?'],No error found
-272,['bottles of Pepsi do you have?'],No error found
-273,['How old your mother?'],No error found
-274,['How old is your mother?'],No error found
-275,['How many years is your mother?'],No error found
-276,['How old are your mother?'],Incorrect verb form
-277,['Rachel and I works at a school.'],Incorrect verb form with compound subject
-278,['Rachel and I are work at a school.'],No error found
-279,['Rachel and I work at a school.'],No error found
-280,['Rachel and I  at a school.'],No error found
-281,['The shoes are very expensive.'],No error found
-282,['The shoes is very expensive.'],Incorrect verb form with plural subject
-283,['The shoes has very expensive.'],Incorrect verb form with plural subject
-284,['The shoes have very expensive.'],No error found
-285,"[""There aren't much water in the glass.""]",Incorrect verb form
-286,"[""There isn't much water in the glass.""]",No error found
-287,"[""There isn't many water in the glass.""]",Singular noun after plural quantifier
-288,"[""There isn't a water in the glass.""]",Redundant indefinite article
-289,['Their is a bank next to the school.'],Possibly confused there and their
-290,['There are a bank next to the school.'],Incorrect verb form
-291,['There is a bank next to the school.'],No error found
-292,['a bank next to the school.'],No error found
-293,['How many airports are in Mumbai?'],No error found
-294,['How many airports there are in Mumbai?'],No error found
-295,['How many airports are there in Mumbai?'],No error found
-296,['How many airports  in Mumbai?'],No error found
-297,['He is China. He is Chinese.'],No error found
-298,['He from China. He is Chinese.'],No error found
-299,['He is from China. He is Chinese.'],No error found
-300,['He . He is Chinese.'],No error found
-301,['How much sugar do you have?'],No error found
-302,['How many sugar do you have?'],Singular noun after plural quantifier
-303,['sugar do you have?'],No error found
-304,['sugar do you have?'],No error found
-305,"[""They don't have a chocolates.""]",Indefinite article with plural noun
-306,"[""They don't have any chocolates.""]",No error found
-307,"[""They don't have some chocolates.""]",No error found
-308,"[""They don't have  chocolates.""]",No error found
-309,['He is not China. He is not Chinese.'],No error found
-310,['He is from not China. He is not Chinese.'],No error found
-311,['He is not from China. He is not Chinese.'],No error found
-312,['He is not is from China. He is not Chinese.'],No error found
-313,"[""She's isn't from England, she is not British.""]",No error found
-314,"[""She isn't not from England, she is not British.""]",Double negative
-315,"[""She isn't from England, she is not British.""]",No error found
-316,"[""She's not is from England, she is not British.""]",No error found
-317,['Does she have some sisters?'],No error found
-318,['Does she have a sisters?'],Indefinite article with plural noun
-319,['Does she have any sisters?'],No error found
-320,['Does she have much sisters?'],Incorrect quantifier
-321,['Her wife is smart.'],No error found
-322,['His wife is smart.'],No error found
-323,['She wife is smart.'],Confused pronoun
-324,['wife is smart.'],No error found
-325,['Rachel has two daughters.'],No error found
-326,['Rachel have two daughters.'],Incorrect verb form with singular subject
-327,['Rachel is have two daughters.'],Incorrect verb form
-328,['Rachel  two daughters.'],No error found
-329,"[""There aren't any students in the school.""]",No error found
-330,"[""There isn't any students in the school.""]",No error found
-331,['There is any students in the school.'],Incorrect verb form
-332,['any students in the school.'],No error found
-333,"[""+918765200232 is don't my number.""]",No error found
-334,"[""+918765200232 isn't my number.""]",No error found
-335,"[""+918765200232 aren't my number.""]",No error found
-336,"[""+918765200232 doesn't my number.""]",No error found
-337,['Are there a mall on this street?'],Incorrect verb form
-338,['There a mall on this street?'],No error found
-339,['Is there a mall on this street?'],No error found
-340,['a mall on this street?'],No error found
-341,['These am my water bottles.'],Incorrect verb form with personal pronoun
-342,['These are my water bottles.'],No error found
-343,['These has my water bottles.'],Incorrect verb form with personal pronoun
-344,['These is my water bottles.'],Incorrect verb form with personal pronoun
-345,"[""John's bag is heavy.""]",No error found
-346,"[""John's bag am heavy.""]",No error found
-347,"[""John's bag are heavy.""]",No error found
-348,"[""John's bag  heavy.""]",No error found
-349,['Their brothers are smart.'],No error found
-350,['They brothers are smart.'],No error found
-351,['Them brothers are smart.'],No error found
-352,['There brothers are smart.'],Possibly confused there and their
-353,['I am from China. I am Chinese.'],No error found
-354,['I am China. I am Chinese.'],No error found
-355,['I from China. I am Chinese.'],No error found
-356,['I belong China. I am Chinese.'],Missing preposition
-357,['I have 2 reds bags.'],No error found
-358,['I have 2 a red bags.'],Indefinite article with plural noun
-359,['I have 2 red bags.'],No error found
-360,['I have 2  bags.'],No error found
-361,['How many flowers.'],No error found
-362,['How much flowers.'],No error found
-363,['flowers.'],No error found
-364,['flowers.'],No error found
-365,['How much is this ice cream here?'],No error found
-366,['How much is that ice cream here?'],No error found
-367,['How much is these ice cream here?'],No error found
-368,['How much is  ice cream here?'],No error found
-369,['Does Mr. Khan has a car?'],Incorrect verb form after do or does
-370,['Does Mr. Khan have a car?'],No error found
-371,['Does Mr. Khan is has a car?'],Incorrect verb form after do or does
-372,['Does Mr. Khan  a car?'],No error found
-373,['He works at a school.'],No error found
-374,['He work at a school.'],Incorrect verb form with personal pronoun
-375,['He is work at a school.'],No error found
-376,['He  at a school.'],No error found
-377,"[""Rachel doesn't has two daughters.""]",Incorrect verb form after do or does
-378,"[""Rachel doesn't have two daughters.""]",No error found
-379,"[""Rachel don't has two daughters.""]",Incorrect verb form with singular subject
-380,['Rachel is not have two daughters.'],Incorrect verb form
-381,"[""They aren't Chinese.""]",No error found
-382,"[""They're aren't Chinese.""]",No error found
-385,"[""He doesn't have a apples.""]",Indefinite article with plural noun
-386,"[""He doesn't have some apples.""]",No error found
-387,"[""He doesn't have any apples.""]",No error found
-388,"[""He doesn't have  apples.""]",No error found
-389,['Your American.'],No error found
-390,"[""Your're American.""]",Possessive instead of personal pronoun
-391,"[""You're American.""]",No error found
-392,['Your are American.'],Possessive instead of personal pronoun
-393,"[""I don't has two sons.""]",Incorrect verb form
-394,"[""I don't have two sons.""]",No error found
-395,"[""I doesn't have two sons.""]",Incorrect verb form with personal pronoun
-396,['I  two sons.'],No error found
-397,['is this your daughter?'],No error found
-398,['am this your daughter?'],No error found
-399,['are this your daughter?'],Incorrect verb form with singular subject
-400,['this your daughter?'],No error found
-401,['Do you works at Microsoft?'],Incorrect verb form after do or does
-402,['Do you work at Microsoft?'],No error found
-403,['Do you working at Microsoft?'],Incorrect verb form after do or does
-404,['Do you  at Microsoft?'],No error found
-405,['How much pairs of shoes do you have?'],Incorrect quantifier
-406,['How many pairs of shoes do you have?'],No error found
-407,['Hows many pairs of shoes do you have?'],No error found
-408,"[""John's bag is in the room.""]",No error found
-409,"[""John's bag is at the room.""]",Confused preposition
-410,"[""John's bag is on the room.""]",Confused preposition
-411,"[""John's bag is  the room.""]",No error found
-412,['Our brother speak Japanese.'],Incorrect verb form with singular subject
-413,['Our brother speaking Japanese.'],Missing verb
-414,['Our brother speaks Japanese.'],No error found
-415,['Our brother  Japanese.'],No error found
-416,['Do you have a black skirt?'],No error found
-417,['Do you have the black skirt?'],Incorrect article use
-418,['Do you have an black skirt?'],The use of a versus an
-419,['Do you have  black skirt?'],Missing article
-420,['Your not American.'],Confused possessive and contraction
-421,"[""Your're not American.""]",Possessive instead of personal pronoun
-422,"[""You're not American.""]",No error found
-423,"[""Your aren't American.""]",Possessive instead of personal pronoun
-424,['Are a of your sisters married?'],The use of a versus an
-427,['Are any of your sisters married?'],No error found
-428,['Are  of your sisters married?'],No error found
-429,"[""They're Chinese.""]",No error found
-431,"[""They's Chinese.""]",No error found
-432,['Their Chinese.'],Confused possessive and contraction
-433,['I want a sugar.'],Redundant indefinite article
-434,['I want few sugar.'],Missing article
-435,['I want some sugar.'],No error found
-436,['I want many sugar.'],Singular noun after plural quantifier
-437,['Siddhivinayak is a famous beach in Mumbai.'],No error found
-438,['Siddhivinayak is a famous temple in Delhi.'],No error found
-439,['Siddhivinayak is a famous temple in Mumbai.'],No error found
-440,['Siddhivinayak is a famous .'],Incorrect article use
-441,['There is some water in the glass.'],No error found
-442,['There is few water in the glass.'],Singular noun after plural quantifier
-443,['There is a water in the glass.'],Redundant indefinite article
-444,['There  water in the glass.'],No error found
-445,['Do they have a dog?'],No error found
-446,['Do they has a dog?'],Incorrect verb form after do or does
-447,['Do they are have a dog?'],Incorrect verb form
-448,['Do they  a dog?'],No error found
-449,['I am in my thirty.'],No error found
-450,['I am in my thirtieth.'],No error found
-451,['I am in my thirty two.'],Missing hyphen in a number
-452,['I am in my thirties.'],No error found
-453,['How many tea.'],Singular noun after plural quantifier
-454,['How much tea.'],No error found
-455,['tea.'],No error found
-456,['tea.'],No error found
-457,['This is red bag.'],Missing article
-458,['This is a red bag.'],No error found
-459,['This is reds bag.'],No error found
-460,['This is  bag.'],Missing article
-461,"[""He is from France, He're French.""]",Incorrect verb form with personal pronoun
-462,"[""He is from France, He's is French.""]",No error found
-463,"[""He is from France, He's French.""]",No error found
-464,['I hear with my eyes.'],No error found
-465,['I run with my eyes.'],No error found
-466,['I see with my eyes.'],No error found
-467,['I  with my eyes.'],No error found
-468,['There is a rice in the fridge.'],Redundant indefinite article
-469,['There is the rice in the fridge.'],No error found
-470,['There is some rice in the fridge.'],No error found
-471,['There is any rice in the fridge.'],No error found
-472,['Have you have siblings?'],Incorrect verb form in perfect tense
-473,['Does you have siblings?'],Incorrect verb form with personal pronoun
-474,['Do you have siblings?'],No error found
-475,['you have siblings?'],Missing auxiliary verb in question
-476,['How much juice are there in the glass?'],Incorrect verb form
-477,['How much juice is there in the glass?'],No error found
-478,['How much juices are there in the glass?'],Incorrect quantifier
-479,['How much  there in the glass?'],No error found
-480,['Marine drive is a famous park in Mumbai.'],No error found
-481,['Marine drive is a famous street in Mumbai.'],No error found
-482,['Marine drive is a famous hospital in Mumbai.'],No error found
-483,['Marine drive is a famous  in Mumbai.'],Incorrect article use
-484,"[""John's bag is heavy.""]",No error found
-485,"[""John's bag am heavy.""]",Incorrect verb form with singular subject
-486,"[""John's bag are heavy.""]",Incorrect verb form with singular subject
-487,"[""John's bag  heavy.""]",No error found
-488,['How many cars you have?'],No error found
-489,['How many cars you has?'],Incorrect verb form
-490,['How many cars do you have?'],No error found
-491,['How many cars ?'],No error found
-492,['Excuse me! Is you a teacher?'],Incorrect verb form with personal pronoun
-493,['Excuse me! Am you a teacher?'],Incorrect verb form with personal pronoun
-494,['Excuse me! Are you a teacher?'],No error found
-495,['Excuse me! Do you a teacher?'],No error found
-496,"[""John doesn't has a dog.""]",Incorrect verb form after do or does
-497,"[""John doesn't have a dog.""]",No error found
-498,"[""John don't has a dog.""]",Incorrect verb form with singular subject
-499,['John is not have a dog.'],Incorrect verb form
-500,['My brother and sister is smart.'],Incorrect verb form with compound subject
-501,['My brother and sister are smart.'],No error found
-502,['My brother and sister am smart.'],Incorrect verb form with compound subject
-503,['My brother and sister  smart.'],No error found
-504,"[""John's bag is in the table.""]",No error found
-505,"[""John's bag is at the table.""]",No error found
-506,"[""John's bag is on the table.""]",No error found
-507,"[""John's bag is  the table.""]",No error found
-508,"[""She don't speak English.""]",Incorrect verb form with personal pronoun
-509,"[""She doesn't speak English.""]",No error found
-510,['She is not speak English.'],Incorrect verb form
-511,['She  speak English.'],Incorrect verb form with personal pronoun
-512,['They are from America. They is Chinese.'],Incorrect verb form with personal pronoun
-513,['They are from America. They are American.'],No error found
-514,['They are from America. They are Indian.'],No error found
-515,['They are from America. They have American.'],No error found
-516,"[""She's is from England, she is British.""]",No error found
-517,"[""She'm from England, she is British.""]",Incorrect verb form with personal pronoun
-518,"[""She's from England, she is British.""]",No error found
-519,"[""She're from England, she is British.""]",Incorrect verb form with personal pronoun
-520,['Can I have a milk?'],Redundant indefinite article
-521,['Can I have few milk?'],Missing article
-522,['Can I have some milk?'],No error found
-523,['Can I have ?'],No error found
-524,['I hear with my hands.'],No error found
-525,['I see with my hands.'],No error found
-526,['I eat with my hands.'],No error found
-527,['I  with my hands.'],No error found
-528,"[""They're not Chinese.""]",No error found
-533,['I cook at the kitchen.'],Confused preposition
-534,['I cook on the kitchen.'],Confused preposition
-535,['I cook in the kitchen.'],No error found
-536,['I cook  the kitchen.'],No error found
-537,['I am from a city in Rajasthan.'],No error found
-538,['I am for a city in Rajasthan.'],No error found
-539,['I am come from a city in Rajasthan.'],Intransitive verb in passive voice
-540,['I am belong to a city in Rajasthan.'],Incorrect verb form
-541,"[""My name isn't Sarah.""]",No error found
-542,['My name is not is Sarah.'],No error found
-543,"[""My name isn't not Sarah.""]",Double negative
-544,['My name  Sarah.'],No error found
-545,['My bag is a white.'],Incorrect article use
-546,['My bag is the white.'],Incorrect article use
-547,['My bag is white.'],No error found
-548,['My bag is .'],No error found
-549,['Those women am very pretty.'],Wrong verb form
-550,['Those women are very pretty.'],No error found
-551,['Those women has very pretty.'],Incorrect verb form with plural subject
-552,['Those women is very pretty.'],Incorrect verb form with plural subject
-533,['Do you have a boyfriend?'],No error found
-534,['Do you has a boyfriend?'],Incorrect verb form after do or does
-535,['Do you are have a boyfriend?'],Incorrect verb form
-536,['Do you  a boyfriend?'],No error found
-537,['There are many famous beaches in Delhi.'],No error found
-538,['There are many famous restaurants in Delhi.'],No error found
-539,['There are many famous park in Delhi.'],Singular noun after plural quantifier
-540,['There are many famous  in Delhi.'],No error found
-541,['How many bags are them ?'],No error found
-542,['How many bags are their ?'],Possibly confused there and their
-543,['How many bags are there ?'],No error found
-544,['How many bags are  ?'],No error found
-545,['They speak English.'],No error found
-546,['They speaks English.'],Incorrect verb form with personal pronoun
-547,['They are speak English.'],Incorrect verb form
-548,['They are speaks English.'],Incorrect verb form
-549,['He has a apples.'],Indefinite article with plural noun
-550,['He has any apples.'],No error found
-551,['He has some apples.'],No error found
-552,['He has  apples.'],No error found
-553,['We are not teachers.'],No error found
-554,['We is not teachers.'],Incorrect verb form with personal pronoun
-555,['We am not teachers.'],Incorrect verb form with personal pronoun
-556,['We are not a teachers.'],Indefinite article with plural noun
-557,"[""She doesn't have a ideas for the project.""]",Indefinite article with plural noun
-558,"[""She doesn't have any ideas for the project.""]",No error found
-559,"[""She doesn't have some ideas for the project.""]",No error found
-560,"[""She doesn't have  ideas for the project.""]",No error found
-561,['John is house is behind the airport.'],Missing article
-562,['John house is behind the airport.'],No error found
-563,"[""John's house is behind the airport.""]",No error found
-564,['house is behind the airport.'],Missing article
-565,"[""There isn't five rooms in this house.""]",Incorrect verb form
-566,['There are five rooms in this house.'],No error found
-567,['There is five rooms in this house.'],Incorrect verb form
-568,['five rooms in this house.'],No error found
-569,['John is not from America. He not American.'],No error found
-570,['John is not from America. He is not American.'],No error found
-571,"[""John is not from America. He's not is American.""]",No error found
-572,"[""John is not from America. He don't American.""]",Incorrect verb form with personal pronoun
-573,['Japan is capital is Tokyo.'],No error found
-574,['Japan of capital is Tokyo.'],No error found
-575,"[""Japan's capital is Tokyo.""]",No error found
-576,['capital is Tokyo.'],No error found
-577,['This is her sister.'],No error found
-578,['This is hers sister.'],Incorrect possessive form
-579,['This is she sister.'],Confused pronoun
-580,['This is  sister.'],Missing article
-581,['I has two sons.'],Incorrect verb form with personal pronoun
-582,['I have two sons.'],No error found
-583,['I am have two sons.'],Incorrect verb form
-584,['I  two sons.'],No error found
-585,['Can I have a rice.'],Redundant indefinite article
-586,['Can I have many rice.'],Incorrect quantifier with uncountable noun
-587,['Can I have some rice.'],No error found
-588,['Can I have few rice.'],Missing article
-589,"[""What's up?""]",No error found
-590,"[""What're up?""]",Incorrect verb form with singular subject
-591,['What up?'],No error found
-592,"[""How's up?""]",No error found
-593,['She is sitting in the chair.'],No error found
-594,['She is sitting at the chair.'],No error found
-595,['She is sitting on the chair.'],No error found
-596,['She is sitting  the chair.'],No error found
-597,['I hear with my feet.'],No error found
-598,['I walk with my feet.'],No error found
-599,['I see with my feet.'],No error found
-621,"[""My father's bag is under the bed.""]",No error found
-622,['My father is bag is under the bed.'],No error found
-623,['My father has bag is under the bed.'],Missing article
-624,['bag is under the bed.'],Missing article
-626,['There are one cars at the airport.'],Plural noun after singular quantifier
-627,['There are thirteen cars at the airport.'],No error found
-628,['There are  cars at the airport.'],No error found
-629,['Your father is a smart.'],Incorrect article use
-630,['Your father is smart.'],No error found
-631,['Your father is smarty.'],Missing article
-632,['Your father is .'],No error found
-633,['Can I has some milk please?'],Incorrect verb form after modal
-634,['Can I have some milk please?'],No error found
-635,['Can I am have some milk please?'],Incorrect verb form
-636,['Can I having some milk please?'],Incorrect verb form after modal
-637,['London has noisy neighborhoods.'],No error found
-638,['London has noise neighborhoods.'],No error found
-640,['London has is noisy neighborhoods.'],No error found
-641,['They are not my friends.'],No error found
-642,['They do not my friends.'],No error found
-643,['They is not my friends.'],Incorrect verb form with personal pronoun
-644,['They  not my friends.'],No error found
-645,['Is you John?'],Incorrect verb form with personal pronoun
-646,['Are you the John?'],Incorrect article use
-647,['Are you John?'],No error found
-648,['Do you John?'],No error found
-649,['Me speak English.'],Object instead of subject pronoun
-650,['I speak English.'],No error found
-651,['I am speak English.'],Incorrect verb form
-652,['I does speak English.'],Incorrect verb form with personal pronoun
-653,['Her husband is smart.'],No error found
-654,['His husband is smart.'],No error found
-655,['She husband is smart.'],Confused pronoun
-656,['husband is smart.'],No error found
-657,['I speaks a little English.'],Incorrect verb form with personal pronoun
-658,['I speak a little English.'],No error found
-659,['I am speaking a little English.'],No error found
-660,['I am speak a little English.'],Incorrect verb form
-661,['am Hindi easy?'],Incorrect verb form with singular subject
-662,['are Hindi easy?'],Incorrect verb form with singular subject
-663,['has Hindi easy?'],No error found
-664,['is Hindi easy?'],No error found
-665,['There is a bookstore near my house.'],No error found
-666,['There are a bookstore near my house.'],Incorrect verb form
-667,['Is a bookstore near my house.'],No error found
-668,['a bookstore near my house.'],No error found
-669,['Where do Mr. and Mrs. Khan live?'],No error found
-670,['Where do Mr. and Mrs. Khan lives?'],Incorrect verb form after do or does
-671,['Where do Mr. and Mrs. Khan living?'],No error found
-672,['Where do Mr. and Mrs. Khan ?'],No error found
-673,['I hear with my nose.'],No error found
-674,['I smell with my nose.'],No error found
-675,['I see with my nose.'],No error found
-676,['I  with my nose.'],No error found
-677,"[""I don't eats bread.""]",Incorrect verb form
-678,"[""I don't drinks bread.""]",Incorrect verb form
-679,"[""I don't eat bread.""]",No error found
-680,"[""I don't  bread.""]",No error found
-681,['Turn the door.'],No error found
-682,['Close the door.'],No error found
-683,['Turn off the door.'],No error found
-684,['the door.'],No error found
-685,['I speak English.'],No error found
-686,['I speaks English.'],Incorrect verb form with personal pronoun
-687,['I am speak English.'],Incorrect verb form
-688,['I speaking English.'],Missing verb
-689,['How many car.'],No error found
-690,['How many is cars.'],Incorrect verb form with plural subject
-691,['How many cars.'],No error found
-692,['How many .'],No error found
-693,"[""John's house is under the airport.""]",No error found
-694,"[""John's house is on the airport.""]",Confused preposition
-695,"[""John's house is behind the airport.""]",No error found
-696,"[""John's house is  the airport.""]",No error found
-697,"['I would like a red roses, please.']",Indefinite article with plural noun
-698,"['I would like little red roses, please.']",No error found
-699,"['I would like am red roses, please.']",No error found
-700,"['I would like some red roses, please.']",No error found
-701,['The news are good today.'],Incorrect verb form with singular subject
-702,['The news is good today.'],No error found
-703,['The news  good today.'],No error found
-704,['The news  good today.'],No error found
-705,['I buy clothes at a mall.'],No error found
-709,['I sleep in my bed.'],No error found
-710,['I sleep at my bed.'],No error found
-711,['I sleep on my bed.'],No error found
-712,['I sleep  my bed.'],No error found
-713,['How much sugar is there in the cup?'],No error found
-714,['How much sugars is there in the cup?'],Incorrect quantifier
-715,['How much  is there in the cup?'],No error found
-716,['How much  is there in the cup?'],No error found
-717,['How much oranges?'],No error found
-718,['How many oranges?'],No error found
-719,['oranges?'],No error found
-720,['oranges?'],No error found
-721,['How many bags is there?'],Incorrect verb form
-722,['How many bags has there?'],Incorrect verb form
-723,['How many bags are there?'],No error found
-724,['How many bags  there?'],No error found
-725,"['She is not from England, she is British not.']",No error found
-726,"['She is not from England, she are not British.']",Incorrect verb form with personal pronoun
-727,"['She is not from England, she is not British.']",No error found
-728,"['She is not from England, she am not British.']",Incorrect verb form with personal pronoun
-729,['I drink milk.'],No error found
-730,['I drink milks.'],No error found
-731,['I drink a milk.'],No error found
-732,['I drink .'],No error found
-733,['The water are very hot.'],Incorrect verb form with singular subject
-734,['The water is very hot.'],No error found
-736,['The water have very hot.'],Incorrect verb form with singular subject
-737,['There is one kitchen at this house.'],No error found
-738,['There is one kitchen in this house.'],No error found
-739,['There is one kitchen on this house.'],No error found
-740,['There is one kitchen  this house.'],No error found
-741,"[""They don't speak English.""]",No error found
-742,"[""They doesn't speak English.""]",Incorrect verb form with personal pronoun
-743,['They are not speak English.'],Incorrect verb form
-744,['They  speak English.'],No error found
-745,['My bag is very big.'],No error found
-746,['My bag is a very big.'],Incorrect article use
-747,['My bag is big very.'],No error found
-748,['My bag is .'],No error found
-749,['My mother buys milk at a florist.'],No error found
-750,"[""My mother buys milk at a butcher's shop.""]",No error found
-751,['My mother buys milk at a dairy.'],No error found
-752,['My mother buys milk at a fish market.'],No error found
-753,['She is many pretty.'],No error found
-754,['She is very pretty.'],No error found
-755,['She is a lot pretty.'],No error found
-756,['She is too pretty.'],No error found
-757,['I is not a student.'],Incorrect verb form with personal pronoun
-758,['I am not a student.'],No error found
-759,['I are not a student.'],Incorrect verb form with personal pronoun
-760,"[""I don't a student.""]",No error found
-761,['Where do she live?'],Incorrect verb form with personal pronoun
-762,['Where does she live?'],No error found
-763,['Where is she live?'],No error found
-764,['Where  she live?'],Incorrect verb form
-765,['I want some waters.'],No error found
-766,['I want some water.'],No error found
-767,['I want some .'],No error found
-768,['I want some .'],No error found
-769,['I buy chips at the book store.'],No error found
-770,['I buy chips at the shoe store.'],No error found
-771,['I buy chips at the temple.'],No error found
-772,['I buy chips at the grocery store.'],No error found
-773,"[""They don't drink water.""]",No error found
-774,"[""They don't drinks water.""]",Incorrect verb form
-775,"[""They don't are drink water.""]",Incorrect verb form
-776,"[""They don't  water.""]",No error found
-777,['We are Indians.'],No error found
-778,['We is Indians.'],Incorrect verb form with personal pronoun
-779,['We am Indians.'],Incorrect verb form with personal pronoun
-780,['We have Indians.'],No error found
-781,['I buy vegetables at the shoe store.'],No error found
-785,['Turn off a music.'],Redundant indefinite article
-786,['Turn off an music.'],Redundant indefinite article
-787,['Turn off the music.'],No error found
-788,['Turn off to the music.'],No error found
-789,['I buy medicine at a fish market.'],No error found
-790,['I buy medicine at a bookstore.'],No error found
-791,['I buy medicine at a medical store.'],No error found
-792,['I buy medicine at a university.'],No error found
-793,['They is smart.'],Incorrect verb form with personal pronoun
-794,['They are smart.'],No error found
-795,['They have smart.'],No error found
-796,['They are a smart.'],Incorrect article use
-797,['He is British.'],No error found
-798,['He does British.'],No error found
-799,['He are British.'],Incorrect verb form with personal pronoun
-800,['He is the British.'],No error found
-801,"['No, She is my grand-daughter!']",No error found
-802,"['No, She am my grand-daughter!']",Incorrect verb form with personal pronoun
-803,"['No, She are my grand-daughter!']",Incorrect verb form with personal pronoun
-805,['She am not Sarah.'],Incorrect verb form with personal pronoun
-806,['She is not Sarah.'],No error found
-807,['She not is Sarah.'],Incorrect negative verb form
-808,['She is not the Sarah.'],No error found
-809,"[""We don't speaks English.""]",Incorrect verb form
-810,"[""We don't are speak English.""]",Incorrect verb form
-811,"[""We don't speak English.""]",No error found
-812,"[""We don't  English.""]",No error found
-813,"[""He is not from France. He're not French""]",No error found
-814,"[""He is not from France. He's isn't French""]",No error found
-815,"[""He is not from France. He's not French""]",No error found
-816,['He is not from France.  French'],No error found
-817,['You are an engineer. You works at a factory.'],Incorrect verb form with personal pronoun
-818,['You are an engineer. You work at a factory.'],No error found
-819,['You are an engineer. You are work at a factory.'],No error found
-820,['You are an engineer. You  at a factory.'],No error found
-821,['The weather is nice today.'],No error found
-822,['The weather am nice today.'],Incorrect verb form with singular subject
-823,['The weather are nice today.'],Incorrect verb form with singular subject
-824,['The weather  nice today.'],No error found
-825,['I hears with my ears.'],Incorrect verb form with personal pronoun
-826,['I watch with my ears.'],No error found
-827,['I hear with my ears.'],No error found
-828,['I  with my ears.'],No error found
-829,['I is sixteen.'],Incorrect verb form with personal pronoun
-830,['I am sixteen.'],No error found
-831,['I am years sixteen.'],No error found
-832,['I am old sixteen.'],No error found
-833,['She am Chinese.'],Incorrect verb form with personal pronoun
-834,['She is Chinese.'],No error found
-835,['She are Chinese.'],Incorrect verb form with personal pronoun
-836,['She is the Chinese.'],No error found
-837,['I works at a hospital.'],Incorrect verb form with personal pronoun
-838,['I work at a hospital.'],No error found
-839,['I am work at a hospital.'],Incorrect verb form
-840,['I am working at a hospital.'],No error found
-841,['I is not hungry.'],Incorrect verb form with personal pronoun
-842,['I am not hungry.'],No error found
-843,['I are not hungry.'],Incorrect verb form with personal pronoun
-844,['I  not hungry.'],No error found
-845,['I is Rachel Khan.'],Incorrect verb form with personal pronoun
-846,['I am Rachel Khan.'],No error found
-847,['I are Rachel Khan.'],Incorrect verb form with personal pronoun
-848,['I  Rachel Khan.'],No error found
-849,['You am from India.'],Incorrect verb form with personal pronoun
-850,['You is from India.'],Incorrect verb form with personal pronoun
-851,['You are from India.'],No error found
-852,['You are come from India.'],Intransitive verb in passive voice
-853,['What is yours name?'],Incorrect possessive form
-854,['What is your name?'],No error found
-855,['What is you name?'],Personal instead of possessive pronoun
-856,"[""What is you're name?""]",Missing article
-857,['You live in a village in Mumbai.'],No error found
-858,['You is in a village in Mumbai.'],Incorrect verb form with personal pronoun
-859,['You lives in a village in Mumbai.'],Personal instead of possessive pronoun
-860,['You are live in a village in Mumbai.'],Personal instead of possessive pronoun
-861,['I am from India.'],No error found
-862,['I is from India.'],Incorrect verb form with personal pronoun
-863,['I are from India.'],Incorrect verb form with personal pronoun
-864,['I am come from India.'],Intransitive verb in passive voice
-865,['What is your phone number?'],No error found
-866,['What am your phone number?'],No error found
-867,['What are your phone number?'],Incorrect verb form
-868,['What does your phone number?'],No error found
-869,['I am a student.'],No error found
-870,['I am are student.'],Missing article
-871,['I am is student.'],Missing article
-872,['I am the student.'],Incorrect article use
-873,['They is American.'],Incorrect verb form with personal pronoun
-874,['They are American.'],No error found
-875,['They am American.'],Incorrect verb form with personal pronoun
-876,['They are the American.'],No error found
-877,['My father are smart.'],Incorrect verb form with singular subject
-878,['My father is smart.'],No error found
-879,['My father am smart.'],Incorrect verb form with singular subject
-880,['My father has smart.'],No error found
-881,['You is fine.'],Incorrect verb form with personal pronoun
-882,['You are the fine.'],Incorrect article use
-883,['You are fine.'],No error found
-884,['You has fine.'],Incorrect verb form with personal pronoun
-885,['Are you speak English?'],No error found
-886,['Do you speak English?'],No error found
-887,['Is you speak English?'],Incorrect verb form with personal pronoun
-888,['Does you speak English?'],Incorrect verb form with personal pronoun
-889,['What is your phone number?'],No error found
-890,['What is you phone number?'],Incorrect verb form with personal pronoun
-891,"[""What is you're phone number?""]",Incorrect verb form with personal pronoun
-892,['What is mine phone number?'],Missing article
-893,['He is not British.'],No error found
-894,['He not is British.'],No error found
-895,['He is not the British.'],No error found
-897,['I has one sister.'],Incorrect verb form with personal pronoun
-898,['I have one sister.'],No error found
-899,['I is one sister.'],Incorrect verb form with personal pronoun
-900,['I  one sister.'],No error found
-901,"[""You don't my friend.""]",No error found
-902,['You is not my friend.'],Incorrect verb form with personal pronoun
-903,['You are not my friend.'],No error found
-904,"[""You aren't not my friend.""]",Double negative
-905,['Theirs children are smart.'],Incorrect possessive form
-906,['Their children are smart.'],No error found
-907,['Their are children are smart.'],Possibly confused there and their
-908,['children are smart.'],No error found
-910,"[""We are don't from India.""]",No error found
-911,['We are not from India.'],No error found
-912,['We are  from India.'],No error found
-913,['You are not from India.'],No error found
-914,"[""You are doesn't from India.""]",No error found
-915,"[""You are don't from India.""]",No error found
-916,['You are  from India.'],No error found
-917,['Can I am help you?'],Incorrect verb form after modal
-918,['Can I help you?'],No error found
-919,['Can I helps you?'],Incorrect verb form after modal
-920,['Can I helping you?'],Incorrect verb form after modal
-921,['I is Indians.'],Incorrect verb form with personal pronoun
-922,['I am Indians.'],No error found
-923,['I are Indians.'],Incorrect verb form with personal pronoun
-924,['I has Indians.'],Incorrect verb form with personal pronoun
-925,['It am Indians.'],Incorrect verb form with personal pronoun
-926,['It is Indians.'],No error found
-927,['It are Indians.'],Incorrect verb form with personal pronoun
-928,['It is the Indians.'],No error found
-929,['He is not my friend.'],No error found
-930,"[""He is doesn't my friend.""]",No error found
-931,"[""He is don't my friend.""]",No error found
-932,['He is  my friend.'],No error found
-933,['I am many intelligent.'],No error found
-934,['I am a lot of intelligent.'],No error found
-935,['I am very intelligent.'],No error found
-936,['I am a lot intelligent.'],No error found
-937,"[""I isn't speak English.""]",Incorrect verb form with personal pronoun
-938,"[""I don't speak English.""]",No error found
-939,['I am not speak English.'],Incorrect verb form
-940,"[""I doesn't speak English.""]",Incorrect verb form with personal pronoun
-941,['This are their sister.'],Incorrect verb form with singular subject
-942,['This am their sister.'],Incorrect verb form with singular subject
-943,['This is their sister.'],No error found
-944,['This  their sister.'],No error found
-945,['My books are on the table.'],No error found
-946,['My books are it the table.'],No error found
-947,['My books are at the table.'],No error found
-948,['My books are  the table.'],No error found
-949,['My name is John.'],No error found
-950,['My name am John.'],Incorrect verb form with singular subject
-951,['My name has John.'],No error found
-952,['My name is the John.'],Incorrect article use
-953,"[""I isn't John.""]",Incorrect verb form with personal pronoun
-955,"[""I'm not John.""]",No error found
-956,['John.'],No error found
-957,"[""It's not the Indians.""]",No error found
-958,"[""It's not Indians.""]",No error found
-959,"[""It's isn't Indians.""]",No error found
-960,['Indians.'],No error found
-961,['Can I help your?.'],Confused pronoun
-962,['Can I help you?.'],No error found
-963,['Can I help yours?.'],No error found
-964,['Can I help .'],No error found
-965,['You are the American.'],Incorrect article use
-966,['You is American.'],Incorrect verb form with personal pronoun
-967,['You are American.'],No error found
-968,['You are a American.'],The use of a versus an
-969,['Do you speaks English?'],Incorrect verb form after do or does
-970,['Do you is English?'],Incorrect verb form after do or does
-971,['Do you speak English?'],No error found
-972,['Do you  English?'],No error found
-973,['There is one kitchen in this house.'],No error found
-974,['Are is one kitchen in this house.'],No error found
-975,['Here is one kitchen in this house.'],No error found
-976,['is one kitchen in this house.'],No error found
-977,['Do you speaks English?'],Incorrect verb form after do or does
-978,['Do you is speak English?'],Incorrect verb form
-979,['Do you speak English?'],No error found
-980,['Do you are speak English?'],Incorrect verb form
-981,['I lives in a city in Rajasthan'],No error found
-982,['I be live in a city in Rajasthan'],No error found
-983,['I live in a city in Rajasthan'],No error found
-984,['I am live in a city in Rajasthan'],No error found
-985,"[""I don't dances.""]",No error found
-986,"[""I don't am dance.""]",No error found
-987,"[""I don't dance.""]",No error found
-988,"[""I don't .""]",No error found
-989,['My phone number has +918765200232.'],No error found
-990,['My phone number is +918765200232.'],No error found
-991,['My phone number does +918765200232.'],No error found
-992,['My phone number are +918765200232.'],Incorrect verb form
-993,['I speak few English.'],Missing article
-994,['I speak somewhat English.'],No error found
-995,['I speak a little English.'],No error found
-996,['I speak a few English.'],No error found
-997,"[""I don't speak English.""]",No error found
-998,"[""I don't am speak English.""]",Incorrect verb form
-999,"[""I don't is speak English.""]",Incorrect verb form
-1000,"[""I don't speaks English.""]",Incorrect verb form
-1001,['Tom Cruise has black and white hair.'],No error found
-1002,['Tom Cruise has black and white hairs.'],No error found
-1003,['Tom Cruise has black and white a hair.'],No error found
-1004,['Tom Cruise has black and white .'],No error found
-1005,"[""She doesn't speaks English.""]",Incorrect verb form after do or does
-1006,"[""She doesn't are speak English.""]",Incorrect verb form
-1007,"[""She doesn't speak English.""]",No error found
-1008,"[""She doesn't  English.""]",No error found
-1009,['This is me car.'],Personal instead of possessive pronoun
-1010,['This is mine car.'],Confused pronoun
-1011,['This is my car.'],No error found
-1012,['This is  car.'],Missing article
+1,['Is there three banks next to my house.'],No error found
+2,['There three banks next to my house.'],No error found
+3,['There are three banks next to my house.'],No error found
+4,"[""There aren't three banks next to my house.""]",No error found
+5,"[""There isn't three banks next to my house.""]",Incorrect verb form
+6,['Not three banks next to my house.'],No error found
+7,['Is there a mall next to the restaurant?'],No error found
+8,['There are a mall next to the restaurant?'],Incorrect verb form
+10,['There is a temple near my house.'],No error found
+11,['There are a temple near my house.'],Incorrect verb form
+12,['Is a temple near my house.'],No error found
+13,['I want some juice.'],No error found
+14,['I want few juice.'],Missing article
+15,['I want many juice.'],Incorrect quantifier with uncountable noun
+16,['I have a videos.'],Indefinite article with plural noun
+17,['I have any videos.'],No error found
+18,['I have some videos.'],No error found
+19,['I have much videos.'],Incorrect quantifier
+20,"[""I don't have any skirts"", ' but I have a dresses.']",Indefinite article with plural noun
+21,"[""I don't have any skirts"", ' but I have any dresses.']",No error found
+22,"[""I don't have any skirts"", ' but I have some dresses.']",No error found
+23,"[""I don't have any skirts"", ' but I have much dresses.']",Incorrect quantifier
+24,['She is a student.'],No error found
+25,['She is an student.'],The use of a versus an
+26,['She is the student.'],Incorrect article use
+27,['He is an principal of my school.'],The use of a versus an
+28,['He is the principal of my school.'],No error found
+29,['He is a principal of my school.'],No error found
+30,['He is a peon.'],No error found
+31,['He is an peon.'],The use of a versus an
+32,['He is the peon.'],No error found
+33,['Ram wants an bicycle.'],The use of a versus an
+34,['Ram wants a bicycle.'],No error found
+35,['Ram wants the bicycle.'],No error found
+36,['I have a car. The car is black.'],No error found
+37,['I have a car. A car is black.'],No error found
+38,['I have a car. An car is black.'],No error found
+39,['He is the great speaker.'],Incorrect article use
+40,['He is a great speaker.'],No error found
+41,['He is an great speaker.'],The use of a versus an
+42,['Nobody lives on a moon.'],No error found
+43,['Nobody lives on an moon.'],The use of a versus an
+44,['Nobody lives on the moon.'],No error found
+45,['This is an excellent book.'],No error found
+46,['This is a excellent book.'],The use of a versus an
+47,['This is the excellent book.'],Incorrect article use
+48,['A weather in Delhi is very nice.'],Redundant indefinite article
+49,['An weather in Delhi is very nice.'],Redundant indefinite article
+50,['The weather in Delhi is very nice.'],No error found
+51,['I love to visit the Taj Mahal.'],No error found
+52,['I love to visit a Taj Mahal.'],No error found
+53,['I love to visit an Taj Mahal.'],The use of a versus an
+54,['The Statue of Liberty is one of the seven wonders in the world.'],No error found
+55,['A Statue of Liberty is one of the seven wonders in the world.'],No error found
+56,['An Statue of Liberty is one of the seven wonders in the world.'],The use of a versus an
+57,['I am a engineer.'],The use of a versus an
+58,['I am an engineer.'],No error found
+59,['I am the engineer.'],No error found
+60,['I take the train to work.'],No error found
+61,['I am take the train to work.'],Incorrect verb form
+62,['I takes the train to work.'],Incorrect verb form with personal pronoun
+63,['I have take the train to work.'],Missing word
+64,['I take the train work.'],No error found
+65,['I take the train to work.'],No error found
+66,['I take the train on work.'],No error found
+67,['I take the train to the work.'],Incorrect article use
+68,['I work at a school. I am a doctor.'],No error found
+69,['I work at a school. I am a teacher.'],No error found
+70,['I work at a school. I am teacher.'],Missing article
+71,['I work at a school. I am a dentist.'],No error found
+72,['I am a waiter. I work at a school.'],No error found
+73,['I am a waiter. I work at a restaurant.'],No error found
+74,['I am a waiter. I work at a hospital.'],No error found
+75,['I am a waiter. I work at a bank.'],No error found
+76,['I take the metro to work.'],No error found
+77,['I take the metro to working.'],Incorrect form for to-infinitive
+78,['I take the metro on work.'],No error found
+79,['I take the metro to the work.'],Wrong article with set expression
+80,['I goes to work at 7 AM.'],Incorrect verb form with personal pronoun
+81,['I go to work at 7 AM.'],No error found
+82,['I am go to work at 7 AM.'],Incorrect verb form
+83,['I going to work at 7 AM.'],Missing verb
+84,['Neha go to work at 9 AM.'],Incorrect verb form with singular subject
+85,['Neha goes to work at 9 AM.'],No error found
+86,['Neha goes work at 9 AM.'],No error found
+87,['Neha goes to the work at 9 AM.'],Incorrect article use
+88,['My mother is housewife.'],Missing article
+89,['My mother is a housewife.'],No error found
+90,['My mother is the housewife.'],No error found
+91,['I likes my job.'],Incorrect verb form with personal pronoun
+92,['I like my job.'],No error found
+93,['I am like my job.'],No error found
+94,['I liking my job.'],Missing verb
+95,['Ankit not works at State Bank of India.'],Incorrect negative verb form
+96,"[""Ankit doesn't work at State Bank of India.""]",No error found
+97,"[""Ankit doesn't works at State Bank of India.""]",Missing article
+98,['Ankit is not work at State Bank of India.'],Incorrect verb form
+99,['What is you do?.'],Incorrect verb form with personal pronoun
+100,['What are you do?.'],No error found
+101,['What do you do?.'],No error found
+102,['What does you do?.'],Incorrect verb form with personal pronoun
+103,['What do Sheela do?'],Incorrect verb form with singular subject
+104,['What does Sheela do?'],No error found
+105,['What is Sheela do?'],No error found
+106,['What doing Sheela do?'],No error found
+107,['I go to school every day at 9 AM.'],No error found
+108,['I am go to school every day at 9 AM.'],Incorrect verb form
+109,['I going to school every day at 9 AM.'],Missing verb
+110,['I have go to school every day at 9 AM.'],Missing verb
+111,"[""I doesn't go to school on weekends.""]",Incorrect verb form with personal pronoun
+112,"[""I don't go to school on weekends.""]",No error found
+113,['I am not go to school on weekends.'],Incorrect verb form
+114,"[""I don't goes to school on weekends.""]",Incorrect verb form
+115,['You works at a restaurant.'],Incorrect verb form with personal pronoun
+116,['You are work at a restaurant.'],No error found
+117,['You working at a restaurant.'],Missing verb
+118,['You work at a restaurant.'],Missing verb
+119,"[""I doesn't like your job.""]",Incorrect verb form with personal pronoun
+120,['I are not like your job.'],Incorrect verb form with personal pronoun
+121,"[""I don't like your job.""]",No error found
+122,['I not liking your job.'],Missing verb
+123,['We check our emails every day.'],No error found
+124,['We are check our emails every day.'],Incorrect verb form
+125,['We checks our emails every day.'],Incorrect verb form with personal pronoun
+126,['We checking our emails every day.'],Missing verb
+127,['Please answers the phone.'],No error found
+128,['Please answer the phone.'],No error found
+129,['Please do answer the phone.'],No error found
+130,['Please answering the phone.'],No error found
+131,['They are play cricket on Saturdays.'],Incorrect verb form
+132,['They plays cricket on Saturdays.'],Incorrect verb form with personal pronoun
+133,['They play cricket on Saturdays.'],No error found
+134,['They playing cricket on Saturdays.'],Missing verb
+135,"[""She doesn't go to parties on Sundays.""]",No error found
+136,"[""She don't go to parties on Sundays.""]",Incorrect verb form with personal pronoun
+137,['She is not go to parties on Sundays.'],Incorrect verb form
+138,"[""She doesn't goes to parties on Sundays.""]",Incorrect verb form after do or does
+139,"[""Ramesh don't like Football.""]",Incorrect verb form with singular subject
+140,"[""Ramesh doesn't like Football.""]",No error found
+141,"[""Ramesh doesn't likes Football.""]",Incorrect verb form after do or does
+142,['Ramesh is not like Football.'],No error found
+143,['Ankit and Neha likes Indian food.'],Incorrect verb form with compound subject
+144,['Ankit and Neha like Indian food.'],No error found
+145,['Ankit and Neha are like Indian food.'],No error found
+146,['Ankit and Neha is like Indian food.'],Incorrect verb form with compound subject
+147,['My parents goes for a walk every day.'],Incorrect verb form with plural subject
+148,['My parents go for a walk every day.'],No error found
+149,['My parents are go for a walk every day.'],Incorrect verb form
+150,['My parents going for a walk every day.'],Missing verb
+151,"[""I get up at 7 o'clock.""]",No error found
+152,"[""I gets up at 7 o'clock.""]",Incorrect verb form with personal pronoun
+153,"[""I am get up at 7 o'clock.""]",Wrong verb form
+154,"[""I getting up at 7 o'clock.""]",Missing verb
+155,['I has breakfast at 9 AM.'],Incorrect verb form with personal pronoun
+156,['I have breakfast at 9 AM.'],No error found
+157,['I am have breakfast at 9 AM.'],Incorrect verb form
+158,['I having breakfast at 9 AM.'],Missing verb
+159,['I takes a shower at 9:30 AM.'],Missing verb
+160,['I am take a shower at 9:30 AM.'],Missing verb
