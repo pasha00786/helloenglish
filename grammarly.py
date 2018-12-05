@@ -64,14 +64,14 @@ for i,text in enumerate(texts):
 	print('Looking for any possible grammatical error...')
 	error = 'No error found'
 	try:
-		Elem = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "span._ed4374-buttonWrapper:nth-child(1)")))
+		Elem = WebDriverWait(driver, 4).until(EC.presence_of_element_located((By.CSS_SELECTOR, "span._ed4374-buttonWrapper:nth-child(1)")))
 		print('Error Found')
 		driver.find_element_by_css_selector('span._ed4374-buttonWrapper:nth-child(1)').click()
 		error = driver.find_element_by_css_selector('._8da58b-plainTextTitle').text
 		print('Error is "' + error + '"')
 	except TimeoutException:
 		print(error)
-	row = [i+161, text, error]
+	row = [i+344, text, error]
 
 	with open('errors.csv', 'a') as csvFile:
 	    writer = csv.writer(csvFile)
