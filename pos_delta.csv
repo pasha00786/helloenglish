@@ -1,0 +1,1013 @@
+,Slide ID,Options,Correct ID,pos_array,pos_delta
+0,HIND4700548,How much are those shoes in the window over there?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('those', 'DT')"", ""('shoes', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('window', 'NN')"", ""('over', 'IN')"", ""('there', 'RB')"", ""('?', '.')""]",[]
+1,HIND4700548,How much are these shoes in the window over there?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('these', 'DT')"", ""('shoes', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('window', 'NN')"", ""('over', 'IN')"", ""('there', 'RB')"", ""('?', '.')""]","[""('these', 'DT')""]"
+2,HIND4700548,How much are that shoes in the window over there?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('that', 'IN')"", ""('shoes', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('window', 'NN')"", ""('over', 'IN')"", ""('there', 'RB')"", ""('?', '.')""]","[""('that', 'IN')""]"
+3,HIND4700548,How much are this shoes in the window over there?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('this', 'DT')"", ""('shoes', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('window', 'NN')"", ""('over', 'IN')"", ""('there', 'RB')"", ""('?', '.')""]","[""('this', 'DT')""]"
+4,HIND4060599,My brown skirt fit me well.,2,"[""('My', 'PRP$')"", ""('brown', 'JJ')"", ""('skirt', 'NN')"", ""('fit', 'VBP')"", ""('me', 'PRP')"", ""('well', 'RB')"", ""('.', '.')""]","[""('fit', 'VBP')""]"
+5,HIND4060599,My brown skirt fits me well.,2,"[""('My', 'PRP$')"", ""('brown', 'JJ')"", ""('skirt', 'NN')"", ""('fits', 'NNS')"", ""('me', 'PRP')"", ""('well', 'RB')"", ""('.', '.')""]",[]
+6,HIND4060599,My brown skirt is fit me well.,2,"[""('My', 'PRP$')"", ""('brown', 'JJ')"", ""('skirt', 'NN')"", ""('is', 'VBZ')"", ""('fit', 'JJ')"", ""('me', 'PRP')"", ""('well', 'RB')"", ""('.', '.')""]","[""('is', 'VBZ')"", ""('fit', 'JJ')""]"
+7,HIND4060599,My brown skirt is fits me well.,2,"[""('My', 'PRP$')"", ""('brown', 'JJ')"", ""('skirt', 'NN')"", ""('is', 'VBZ')"", ""('fits', 'NNS')"", ""('me', 'PRP')"", ""('well', 'RB')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+8,HIND6462367,Mohan is go to be three in June.,2,"[""('Mohan', 'NNP')"", ""('is', 'VBZ')"", ""('go', 'VB')"", ""('to', 'TO')"", ""('be', 'VB')"", ""('three', 'CD')"", ""('in', 'IN')"", ""('June', 'NNP')"", ""('.', '.')""]","[""('go', 'VB')""]"
+9,HIND6462367,Mohan is going to be three in June.,2,"[""('Mohan', 'NNP')"", ""('is', 'VBZ')"", ""('going', 'VBG')"", ""('to', 'TO')"", ""('be', 'VB')"", ""('three', 'CD')"", ""('in', 'IN')"", ""('June', 'NNP')"", ""('.', '.')""]",[]
+10,HIND6462367,Mohan is will be three in June.,2,"[""('Mohan', 'NNP')"", ""('is', 'VBZ')"", ""('will', 'MD')"", ""('be', 'VB')"", ""('three', 'CD')"", ""('in', 'IN')"", ""('June', 'NNP')"", ""('.', '.')""]","[""('will', 'MD')""]"
+11,HIND6462367,Mohan is going to three in June.,2,"[""('Mohan', 'NNP')"", ""('is', 'VBZ')"", ""('going', 'VBG')"", ""('to', 'TO')"", ""('three', 'CD')"", ""('in', 'IN')"", ""('June', 'NNP')"", ""('.', '.')""]",[]
+12,HIND7137001,I prefer relaxed on weekends.,3,"[""('I', 'PRP')"", ""('prefer', 'VBP')"", ""('relaxed', 'VBN')"", ""('on', 'IN')"", ""('weekends', 'NNS')"", ""('.', '.')""]","[""('relaxed', 'VBN')""]"
+13,HIND7137001,I prefer relax on weekends.,3,"[""('I', 'PRP')"", ""('prefer', 'VBP')"", ""('relax', 'VB')"", ""('on', 'IN')"", ""('weekends', 'NNS')"", ""('.', '.')""]","[""('relax', 'VB')""]"
+14,HIND7137001,I prefer relaxing on weekends.,3,"[""('I', 'PRP')"", ""('prefer', 'VBP')"", ""('relaxing', 'VBG')"", ""('on', 'IN')"", ""('weekends', 'NNS')"", ""('.', '.')""]",[]
+15,HIND7137001,I prefer to relaxed on weekends.,3,"[""('I', 'PRP')"", ""('prefer', 'VBP')"", ""('to', 'TO')"", ""('relaxed', 'VB')"", ""('on', 'IN')"", ""('weekends', 'NNS')"", ""('.', '.')""]","[""('relaxed', 'VB')"", ""('to', 'TO')""]"
+16,HIND4554774,Are there a supermarket in this neighborhood.,2,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('supermarket', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('neighborhood', 'NN')"", ""('.', '.')""]","[""('Are', 'NNP')"", ""('there', 'EX')""]"
+17,HIND4554774,There isn't a supermarket in this neighborhood.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('a', 'DT')"", ""('supermarket', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('neighborhood', 'NN')"", ""('.', '.')""]",[]
+18,HIND4554774,Is there a supermarket in this neighborhood.,2,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('supermarket', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('neighborhood', 'NN')"", ""('.', '.')""]","[""('there', 'EX')"", ""('Is', 'VBZ')""]"
+19,HIND4554774,,2,[],[]
+20,HIND3453742,<default-male-name2> and I is good chess players.,3,"[""('John', 'NNP')"", ""('and', 'CC')"", ""('I', 'PRP')"", ""('is', 'VBZ')"", ""('good', 'JJ')"", ""('chess', 'NN')"", ""('players', 'NNS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+21,HIND3453742,<default-male-name2> and I am good chess players.,3,"[""('John', 'NNP')"", ""('and', 'CC')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('good', 'JJ')"", ""('chess', 'NN')"", ""('players', 'NNS')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+22,HIND3453742,<default-male-name2> and I are good chess players.,3,"[""('John', 'NNP')"", ""('and', 'CC')"", ""('I', 'PRP')"", ""('are', 'VBP')"", ""('good', 'JJ')"", ""('chess', 'NN')"", ""('players', 'NNS')"", ""('.', '.')""]",[]
+23,HIND3453742,,3,[],[]
+24,HIND4446526,New York has busy streets.,1,"[""('New', 'NNP')"", ""('York', 'NNP')"", ""('has', 'VBZ')"", ""('busy', 'JJ')"", ""('streets', 'NNS')"", ""('.', '.')""]",[]
+25,HIND4446526,New York has busy place.,1,"[""('New', 'NNP')"", ""('York', 'NNP')"", ""('has', 'VBZ')"", ""('busy', 'JJ')"", ""('place', 'NN')"", ""('.', '.')""]","[""('place', 'NN')""]"
+26,HIND4446526,New York has busy city.,1,"[""('New', 'NNP')"", ""('York', 'NNP')"", ""('has', 'VBZ')"", ""('busy', 'JJ')"", ""('city', 'NN')"", ""('.', '.')""]","[""('city', 'NN')""]"
+27,HIND4446526,New York has busy is street.,1,"[""('New', 'NNP')"", ""('York', 'NNP')"", ""('has', 'VBZ')"", ""('busy', 'JJ')"", ""('is', 'VBZ')"", ""('street', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')"", ""('street', 'NN')""]"
+28,HIND3578403,Your friend speak Japanese.,3,"[""('Your', 'PRP$')"", ""('friend', 'NN')"", ""('speak', 'JJ')"", ""('Japanese', 'JJ')"", ""('.', '.')""]","[""('speak', 'JJ')""]"
+29,HIND3578403,Your friend speaking Japanese.,3,"[""('Your', 'PRP$')"", ""('friend', 'NN')"", ""('speaking', 'VBG')"", ""('Japanese', 'JJ')"", ""('.', '.')""]","[""('speaking', 'VBG')""]"
+30,HIND3578403,Your friend speaks Japanese.,3,"[""('Your', 'PRP$')"", ""('friend', 'NN')"", ""('speaks', 'VBZ')"", ""('Japanese', 'JJ')"", ""('.', '.')""]",[]
+31,HIND3578403,,3,[],[]
+32,HIND3588242,Does your sisters speak English?,2,"[""('Does', 'VBZ')"", ""('your', 'PRP$')"", ""('sisters', 'NNS')"", ""('speak', 'VBP')"", ""('English', 'NNP')"", ""('?', '.')""]","[""('Does', 'VBZ')""]"
+33,HIND3588242,Do your sisters speak English?,2,"[""('Do', 'VB')"", ""('your', 'PRP$')"", ""('sisters', 'NNS')"", ""('speak', 'VBP')"", ""('English', 'NNP')"", ""('?', '.')""]",[]
+34,HIND3588242,Are your sisters speak English?,2,"[""('Are', 'NNP')"", ""('your', 'PRP$')"", ""('sisters', 'NNS')"", ""('speak', 'VBP')"", ""('English', 'NNP')"", ""('?', '.')""]","[""('Are', 'NNP')""]"
+35,HIND3588242,,2,[],[]
+36,HIND4703799,Can I try this skirt on?,1,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('try', 'VB')"", ""('this', 'DT')"", ""('skirt', 'NN')"", ""('on', 'IN')"", ""('?', '.')""]",[]
+37,HIND4703799,Can I try these skirt on?,1,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('try', 'VB')"", ""('these', 'DT')"", ""('skirt', 'NN')"", ""('on', 'IN')"", ""('?', '.')""]","[""('these', 'DT')""]"
+38,HIND4703799,Can I try those skirt on?,1,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('try', 'VB')"", ""('those', 'DT')"", ""('skirt', 'NNS')"", ""('on', 'IN')"", ""('?', '.')""]","[""('skirt', 'NNS')"", ""('those', 'DT')""]"
+39,HIND4703799,,1,[],[]
+40,HIND6557857,We will go out for breakfast.,1,"[""('We', 'PRP')"", ""('will', 'MD')"", ""('go', 'VB')"", ""('out', 'RP')"", ""('for', 'IN')"", ""('breakfast', 'NN')"", ""('.', '.')""]",[]
+41,HIND6557857,We will have out for breakfast.,1,"[""('We', 'PRP')"", ""('will', 'MD')"", ""('have', 'VB')"", ""('out', 'RP')"", ""('for', 'IN')"", ""('breakfast', 'NN')"", ""('.', '.')""]","[""('have', 'VB')""]"
+42,HIND6557857,We will to have out for breakfast.,1,"[""('We', 'PRP')"", ""('will', 'MD')"", ""('to', 'TO')"", ""('have', 'VB')"", ""('out', 'RP')"", ""('for', 'IN')"", ""('breakfast', 'NN')"", ""('.', '.')""]","[""('to', 'TO')"", ""('have', 'VB')""]"
+43,HIND6557857,We will going out for breakfast.,1,"[""('We', 'PRP')"", ""('will', 'MD')"", ""('going', 'VBG')"", ""('out', 'RP')"", ""('for', 'IN')"", ""('breakfast', 'NN')"", ""('.', '.')""]","[""('going', 'VBG')""]"
+44,HIND3938068,Does <default-female-name2> has a daughter?,2,"[""('Does', 'NNP')"", ""('Sarah', 'NNP')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('daughter', 'NN')"", ""('?', '.')""]","[""('has', 'VBZ')""]"
+45,HIND3938068,Does <default-female-name2> have a daughter?,2,"[""('Does', 'NNP')"", ""('Sarah', 'NNP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('daughter', 'NN')"", ""('?', '.')""]",[]
+46,HIND3938068,Does <default-female-name2> is has a daughter?,2,"[""('Does', 'NNP')"", ""('Sarah', 'NNP')"", ""('is', 'VBZ')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('daughter', 'NN')"", ""('?', '.')""]","[""('has', 'VBZ')"", ""('is', 'VBZ')""]"
+47,HIND3938068,,2,[],[]
+48,HIND3585812,Our brothers speak Japanese.,1,"[""('Our', 'PRP$')"", ""('brothers', 'NNS')"", ""('speak', 'VBP')"", ""('Japanese', 'JJ')"", ""('.', '.')""]",[]
+49,HIND3585812,Our brothers speaking Japanese.,1,"[""('Our', 'PRP$')"", ""('brothers', 'NNS')"", ""('speaking', 'VBG')"", ""('Japanese', 'JJ')"", ""('.', '.')""]","[""('speaking', 'VBG')""]"
+50,HIND3585812,Our brothers speaks Japanese.,1,"[""('Our', 'PRP$')"", ""('brothers', 'NNS')"", ""('speaks', 'VBP')"", ""('Japanese', 'JJ')"", ""('.', '.')""]","[""('speaks', 'VBP')""]"
+51,HIND3585812,,1,[],[]
+52,HIND6406308,Congrats on your promotion.,1,"[""('Congrats', 'NNS')"", ""('on', 'IN')"", ""('your', 'PRP$')"", ""('promotion', 'NN')"", ""('.', '.')""]",[]
+53,HIND6406308,Congrats to your promotion.,1,"[""('Congrats', 'NNS')"", ""('to', 'TO')"", ""('your', 'PRP$')"", ""('promotion', 'NN')"", ""('.', '.')""]","[""('to', 'TO')""]"
+54,HIND6406308,Congrats from your promotion.,1,"[""('Congrats', 'NNS')"", ""('from', 'IN')"", ""('your', 'PRP$')"", ""('promotion', 'NN')"", ""('.', '.')""]","[""('from', 'IN')""]"
+55,HIND6406308,,1,[],[]
+56,HIND4516499,<default-male-name2> sits next to me in the class.,1,"[""('John', 'NNP')"", ""('sits', 'VBZ')"", ""('next', 'JJ')"", ""('to', 'TO')"", ""('me', 'PRP')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('class', 'NN')"", ""('.', '.')""]",[]
+57,HIND4516499,<default-male-name2> sits behind to me in the class.,1,"[""('John', 'NNP')"", ""('sits', 'VBZ')"", ""('behind', 'IN')"", ""('to', 'TO')"", ""('me', 'PRP')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('class', 'NN')"", ""('.', '.')""]","[""('behind', 'IN')""]"
+58,HIND4516499,<default-male-name2> sits under to me in the class.,1,"[""('John', 'NNP')"", ""('sits', 'VBZ')"", ""('under', 'IN')"", ""('to', 'TO')"", ""('me', 'PRP')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('class', 'NN')"", ""('.', '.')""]","[""('under', 'IN')""]"
+59,HIND4516499,<default-male-name2> sits in front of to me in the class.,1,"[""('John', 'NNP')"", ""('sits', 'NNS')"", ""('in', 'IN')"", ""('front', 'NN')"", ""('of', 'IN')"", ""('to', 'TO')"", ""('me', 'PRP')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('class', 'NN')"", ""('.', '.')""]","[""('sits', 'NNS')"", ""('of', 'IN')"", ""('front', 'NN')""]"
+60,HIND6389014,I hope you feeling better soon.,3,"[""('I', 'PRP')"", ""('hope', 'VBP')"", ""('you', 'PRP')"", ""('feeling', 'VBG')"", ""('better', 'JJR')"", ""('soon', 'RB')"", ""('.', '.')""]","[""('feeling', 'VBG')"", ""('better', 'JJR')""]"
+61,HIND6389014,I hope you are feeling better soon.,3,"[""('I', 'PRP')"", ""('hope', 'VBP')"", ""('you', 'PRP')"", ""('are', 'VBP')"", ""('feeling', 'VBG')"", ""('better', 'JJR')"", ""('soon', 'RB')"", ""('.', '.')""]","[""('feeling', 'VBG')"", ""('are', 'VBP')"", ""('better', 'JJR')""]"
+62,HIND6389014,I hope you feel better soon.,3,"[""('I', 'PRP')"", ""('hope', 'VBP')"", ""('you', 'PRP')"", ""('feel', 'VBP')"", ""('better', 'RB')"", ""('soon', 'RB')"", ""('.', '.')""]",[]
+63,HIND6389014,I hope you will felt better soon.,3,"[""('I', 'PRP')"", ""('hope', 'VBP')"", ""('you', 'PRP')"", ""('will', 'MD')"", ""('felt', 'VB')"", ""('better', 'RB')"", ""('soon', 'RB')"", ""('.', '.')""]","[""('felt', 'VB')"", ""('will', 'MD')""]"
+64,HIND6560526,Let's have for dinner together.,4,"[""('Let', 'VB')"", '(""\'s"", \'POS\')', ""('have', 'VB')"", ""('for', 'IN')"", ""('dinner', 'NN')"", ""('together', 'RB')"", ""('.', '.')""]","[""('for', 'IN')""]"
+65,HIND6560526,Let's go dinner together.,4,"[""('Let', 'VB')"", '(""\'s"", \'POS\')', ""('go', 'VB')"", ""('dinner', 'NN')"", ""('together', 'RB')"", ""('.', '.')""]","[""('go', 'VB')""]"
+66,HIND6560526,Let's gets dinner together.,4,"[""('Let', 'VB')"", '(""\'s"", \'POS\')', ""('gets', 'VBZ')"", ""('dinner', 'NN')"", ""('together', 'RB')"", ""('.', '.')""]","[""('gets', 'VBZ')""]"
+67,HIND6560526,Let's have dinner together.,4,"[""('Let', 'VB')"", '(""\'s"", \'POS\')', ""('have', 'VB')"", ""('dinner', 'NN')"", ""('together', 'RB')"", ""('.', '.')""]",[]
+68,HIND4827357,Do you want any biscuit?,2,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('want', 'VB')"", ""('any', 'DT')"", ""('biscuit', 'NN')"", ""('?', '.')""]","[""('any', 'DT')""]"
+69,HIND4827357,Do you want a biscuit?,2,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('want', 'VB')"", ""('a', 'DT')"", ""('biscuit', 'NN')"", ""('?', '.')""]",[]
+70,HIND4827357,Do you want an biscuit?,2,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('want', 'VB')"", ""('an', 'DT')"", ""('biscuit', 'NN')"", ""('?', '.')""]","[""('an', 'DT')""]"
+71,HIND4827357,,2,[],[]
+72,HIND4804739,Your childrens are very smart.,2,"[""('Your', 'PRP$')"", ""('childrens', 'NNS')"", ""('are', 'VBP')"", ""('very', 'RB')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('childrens', 'NNS')""]"
+73,HIND4804739,Your children are very smart.,2,"[""('Your', 'PRP$')"", ""('children', 'NNS')"", ""('are', 'VBP')"", ""('very', 'RB')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+74,HIND4804739,Your children is very smart.,2,"[""('Your', 'PRP$')"", ""('children', 'NNS')"", ""('is', 'VBZ')"", ""('very', 'RB')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+75,HIND4804739,Your childs are very smart.,2,"[""('Your', 'PRP$')"", ""('childs', 'NNS')"", ""('are', 'VBP')"", ""('very', 'RB')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('childs', 'NNS')""]"
+76,HIND4260464,Where does <default-female-name> live?,1,"[""('Where', 'WRB')"", ""('does', 'VBZ')"", ""('Sarah', 'NNP')"", ""('live', 'VB')"", ""('?', '.')""]",[]
+77,HIND4260464,Where does <default-female-name> lives?,1,"[""('Where', 'WRB')"", ""('does', 'VBZ')"", ""('Sarah', 'NNP')"", ""('lives', 'NNS')"", ""('?', '.')""]","[""('lives', 'NNS')""]"
+78,HIND4260464,Where does <default-female-name> living?,1,"[""('Where', 'WRB')"", ""('does', 'VBZ')"", ""('Sarah', 'VB')"", ""('living', 'NN')"", ""('?', '.')""]","[""('living', 'NN')"", ""('Sarah', 'VB')""]"
+79,HIND4260464,,1,[],[]
+80,HIND4831247,I want a kg of apples.,1,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('a', 'DT')"", ""('kg', 'NN')"", ""('of', 'IN')"", ""('apples', 'NNS')"", ""('.', '.')""]",[]
+81,HIND4831247,I want an kg of apples.,1,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('an', 'DT')"", ""('kg', 'NN')"", ""('of', 'IN')"", ""('apples', 'NNS')"", ""('.', '.')""]","[""('an', 'DT')""]"
+82,HIND4831247,I want any kg of apples.,1,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('any', 'DT')"", ""('kg', 'NN')"", ""('of', 'IN')"", ""('apples', 'NNS')"", ""('.', '.')""]","[""('any', 'DT')""]"
+83,HIND4831247,,1,[],[]
+84,HIND2910195,I am from France. I is French.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('is', 'VBZ')"", ""('French', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+85,HIND2910195,I am from France. I am Francian.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('Francian', 'JJ')"", ""('.', '.')""]","[""('Francian', 'JJ')""]"
+86,HIND2910195,I am from France. I am French.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('French', 'JJ')"", ""('.', '.')""]",[]
+87,HIND2910195,I am from France. I French.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('French', 'JJ')"", ""('.', '.')""]",[]
+88,HIND4545338,Are there any teachers in the school?,1,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('any', 'DT')"", ""('teachers', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('?', '.')""]",[]
+89,HIND4545338,Is there any teachers in the school?,1,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('any', 'DT')"", ""('teachers', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('?', '.')""]","[""('Is', 'VBZ')""]"
+90,HIND4545338,There is any teachers in the school?,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('any', 'DT')"", ""('teachers', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('?', '.')""]","[""('is', 'VBZ')"", ""('There', 'EX')""]"
+91,HIND4545338,,1,[],[]
+92,HIND4294093,I work at <default-company-name>,1,"[""('I', 'PRP')"", ""('work', 'VBP')"", ""('at', 'IN')"", ""('Microsoft', 'NNP')""]",[]
+93,HIND4294093,I work at a <default-company-name>,1,"[""('I', 'PRP')"", ""('work', 'VBP')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('Microsoft', 'NNP')""]","[""('a', 'DT')""]"
+94,HIND4294093,I work from <default-company-name>,1,"[""('I', 'PRP')"", ""('work', 'VBP')"", ""('from', 'IN')"", ""('Microsoft', 'NNP')""]","[""('from', 'IN')""]"
+95,HIND4294093,I work on <default-company-name>,1,"[""('I', 'PRP')"", ""('work', 'VBP')"", ""('on', 'IN')"", ""('Microsoft', 'NNP')""]","[""('on', 'IN')""]"
+96,HIND4192355,<default-male-name2>''s bag is under the bed.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('under', 'IN')"", ""('the', 'DT')"", ""('bed', 'NN')"", ""('.', '.')""]",[]
+97,HIND4192355,<default-male-name2>''s bag is at the bed.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('bed', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+98,HIND4192355,<default-male-name2>''s bag is in the bed.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('bed', 'NN')"", ""('.', '.')""]","[""('in', 'IN')""]"
+99,HIND4192355,,1,[],[]
+100,HIND4541526,Are there the letter 'f' in the word photograph.,2,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('the', 'DT')"", ""('letter', 'NN')"", '(""\'f"", \'POS\')', '(""\'"", ""\'\'"")', ""('in', 'IN')"", ""('the', 'DT')"", ""('word', 'NN')"", ""('photograph', 'NN')"", ""('.', '.')""]","[""('Are', 'NNP')"", ""('there', 'EX')""]"
+101,HIND4541526,There isn't the letter 'f' in the word photograph.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('the', 'DT')"", ""('letter', 'NN')"", '(""\'f"", \'POS\')', '(""\'"", ""\'\'"")', ""('in', 'IN')"", ""('the', 'DT')"", ""('word', 'NN')"", ""('photograph', 'NN')"", ""('.', '.')""]",[]
+102,HIND4541526,Are the letter 'f' in the word photograph.,2,"[""('Are', 'VBP')"", ""('the', 'DT')"", ""('letter', 'NN')"", '(""\'f"", \'POS\')', '(""\'"", ""\'\'"")', ""('in', 'IN')"", ""('the', 'DT')"", ""('word', 'NN')"", ""('photograph', 'NN')"", ""('.', '.')""]","[""('Are', 'VBP')""]"
+103,HIND4541526,,2,[],[]
+104,HIND3830855,<default-actor-name> <default-actor-surname> have black and white hair.,3,"[""('Tom', 'NNP')"", ""('Cruise', 'NNP')"", ""('have', 'VBP')"", ""('black', 'JJ')"", ""('and', 'CC')"", ""('white', 'JJ')"", ""('hair', 'NN')"", ""('.', '.')""]","[""('have', 'VBP')""]"
+105,HIND3830855,<default-actor-name> <default-actor-surname> has a black and white hair.,3,"[""('Tom', 'NNP')"", ""('Cruise', 'NNP')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('black', 'JJ')"", ""('and', 'CC')"", ""('white', 'JJ')"", ""('hair', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+106,HIND3830855,<default-actor-name> <default-actor-surname> has black and white hair.,3,"[""('Tom', 'NNP')"", ""('Cruise', 'NNP')"", ""('has', 'VBZ')"", ""('black', 'JJ')"", ""('and', 'CC')"", ""('white', 'JJ')"", ""('hair', 'NN')"", ""('.', '.')""]",[]
+107,HIND3830855,,3,[],[]
+108,HIND3789254,Your father is a smart man.,1,"[""('Your', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('smart', 'JJ')"", ""('man', 'NN')"", ""('.', '.')""]",[]
+109,HIND3789254,Your father is smart man.,1,"[""('Your', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('man', 'NN')"", ""('.', '.')""]",[]
+110,HIND3789254,Your father is smarty man.,1,"[""('Your', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('smarty', 'JJ')"", ""('man', 'NN')"", ""('.', '.')""]","[""('smarty', 'JJ')""]"
+111,HIND3789254,,1,[],[]
+112,HIND4747658,How much is this pants for?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('this', 'DT')"", ""('pants', 'NNS')"", ""('for', 'IN')"", ""('?', '.')""]","[""('this', 'DT')"", ""('is', 'VBZ')""]"
+113,HIND4747658,How much are these pants for?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('these', 'DT')"", ""('pants', 'NNS')"", ""('for', 'IN')"", ""('?', '.')""]",[]
+114,HIND4747658,How much is these pants for?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('these', 'DT')"", ""('pants', 'NNS')"", ""('for', 'IN')"", ""('?', '.')""]","[""('is', 'VBZ')""]"
+115,HIND4747658,How much are that pants for?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('that', 'IN')"", ""('pants', 'NNS')"", ""('for', 'IN')"", ""('?', '.')""]","[""('that', 'IN')""]"
+116,HIND4720844,How much bottles of water.,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('bottles', 'NNS')"", ""('of', 'IN')"", ""('water', 'NN')"", ""('.', '.')""]","[""('much', 'JJ')""]"
+117,HIND4720844,How many bottles of water.,2,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bottles', 'NNS')"", ""('of', 'IN')"", ""('water', 'NN')"", ""('.', '.')""]",[]
+118,HIND4720844,How manies bottles of water.,2,"[""('How', 'WRB')"", ""('manies', 'NNS')"", ""('bottles', 'NNS')"", ""('of', 'IN')"", ""('water', 'NN')"", ""('.', '.')""]","[""('manies', 'NNS')""]"
+119,HIND4720844,,2,[],[]
+120,HIND4059388,My red pants fit me well.,1,"[""('My', 'PRP$')"", ""('red', 'JJ')"", ""('pants', 'NNS')"", ""('fit', 'VB')"", ""('me', 'PRP')"", ""('well', 'RB')"", ""('.', '.')""]",[]
+121,HIND4059388,My red pant fit me well.,1,"[""('My', 'PRP$')"", ""('red', 'JJ')"", ""('pant', 'JJ')"", ""('fit', 'NN')"", ""('me', 'PRP')"", ""('well', 'RB')"", ""('.', '.')""]","[""('pant', 'JJ')"", ""('fit', 'NN')""]"
+122,HIND4059388,My red pants are fit me well.,1,"[""('My', 'PRP$')"", ""('red', 'JJ')"", ""('pants', 'NNS')"", ""('are', 'VBP')"", ""('fit', 'JJ')"", ""('me', 'PRP')"", ""('well', 'RB')"", ""('.', '.')""]","[""('are', 'VBP')"", ""('fit', 'JJ')""]"
+123,HIND4059388,,1,[],[]
+124,HIND3945250,Do they have a cat?,1,"[""('Do', 'VBP')"", ""('they', 'PRP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('cat', 'NN')"", ""('?', '.')""]",[]
+125,HIND3945250,Does they have a cat?,1,"[""('Does', 'VBZ')"", ""('they', 'PRP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('cat', 'NN')"", ""('?', '.')""]","[""('Does', 'VBZ')"", ""('have', 'VBP')""]"
+126,HIND3945250,Are they have a cat?,1,"[""('Are', 'VBP')"", ""('they', 'PRP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('cat', 'NN')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('Are', 'VBP')""]"
+127,HIND3945250,,1,[],[]
+128,HIND4306038,<default-female-name2> and <default-female-name> work at a school.,1,"[""('Sarah', 'NNP')"", ""('and', 'CC')"", ""('Sarah', 'NNP')"", ""('work', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]",[]
+129,HIND4306038,<default-female-name> work at a school.,1,"[""('Sarah', 'NNP')"", ""('work', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]",[]
+130,HIND4306038,<default-female-name2> work at a school.,1,"[""('Sarah', 'NNP')"", ""('work', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]",[]
+131,HIND4306038,,1,[],[]
+132,HIND3194056,I dances very well.,2,"[""('I', 'PRP')"", ""('dances', 'VBP')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]","[""('dances', 'VBP')""]"
+133,HIND3194056,I dance very well.,2,"[""('I', 'PRP')"", ""('dance', 'VBP')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]",[]
+134,HIND3194056,I am dance very well.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('dance', 'JJ')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]","[""('dance', 'JJ')"", ""('am', 'VBP')""]"
+135,HIND3194056,I dancing very well.,2,"[""('I', 'PRP')"", ""('dancing', 'VBG')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]","[""('dancing', 'VBG')""]"
+136,HIND3176368,They eats bread.,2,"[""('They', 'PRP')"", ""('eats', 'VBP')"", ""('bread', 'VBP')"", ""('.', '.')""]","[""('eats', 'VBP')"", ""('bread', 'VBP')""]"
+137,HIND3176368,They eat bread.,2,"[""('They', 'PRP')"", ""('eat', 'VBP')"", ""('bread', 'JJ')"", ""('.', '.')""]",[]
+138,HIND3176368,They are eat bread.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('eat', 'JJ')"", ""('bread', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')"", ""('eat', 'JJ')"", ""('bread', 'NN')""]"
+139,HIND3176368,They does eat bread.,2,"[""('They', 'PRP')"", ""('does', 'VBZ')"", ""('eat', 'VB')"", ""('bread', 'NN')"", ""('.', '.')""]","[""('does', 'VBZ')"", ""('eat', 'VB')"", ""('bread', 'NN')""]"
+140,HIND4552926,Are there any windows in the room?,1,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('any', 'DT')"", ""('windows', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('room', 'NN')"", ""('?', '.')""]",[]
+141,HIND4552926,There isn't any windows in the room?,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('any', 'DT')"", ""('windows', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('room', 'NN')"", ""('?', '.')""]","['(""n\'t"", \'RB\')', ""('is', 'VBZ')"", ""('There', 'EX')""]"
+142,HIND4552926,Is there any windows in the room?,1,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('any', 'DT')"", ""('windows', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('room', 'NN')"", ""('?', '.')""]","[""('Is', 'VBZ')""]"
+143,HIND4552926,,1,[],[]
+144,HIND3191070,He drinks water,1,"[""('He', 'PRP')"", ""('drinks', 'VBZ')"", ""('water', 'NN')""]",[]
+145,HIND3191070,He drink water,1,"[""('He', 'PRP')"", ""('drink', 'VBZ')"", ""('water', 'NN')""]","[""('drink', 'VBZ')""]"
+146,HIND3191070,He are drink water,1,"[""('He', 'PRP')"", ""('are', 'VBP')"", ""('drink', 'JJ')"", ""('water', 'NN')""]","[""('drink', 'JJ')"", ""('are', 'VBP')""]"
+147,HIND3191070,He do drink water,1,"[""('He', 'PRP')"", ""('do', 'VB')"", ""('drink', 'VB')"", ""('water', 'NN')""]","[""('do', 'VB')"", ""('drink', 'VB')""]"
+148,HIND4240582,She live next to the mall in <default-city-area>,2,"[""('She', 'PRP')"", ""('live', 'VBP')"", ""('next', 'JJ')"", ""('to', 'TO')"", ""('the', 'DT')"", ""('mall', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')""]","[""('She', 'PRP')""]"
+149,HIND4240582,They live next to the mall in <default-city-area>,2,"[""('They', 'PRP')"", ""('live', 'VBP')"", ""('next', 'JJ')"", ""('to', 'TO')"", ""('the', 'DT')"", ""('mall', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')""]",[]
+150,HIND4240582,He live next to the mall in <default-city-area>,2,"[""('He', 'PRP')"", ""('live', 'VBP')"", ""('next', 'JJ')"", ""('to', 'TO')"", ""('the', 'DT')"", ""('mall', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')""]","[""('He', 'PRP')""]"
+151,HIND4240582,,2,[],[]
+152,HIND3944044,Do <default-male-name3> have a son?,2,"[""('Do', 'NNP')"", ""('John', 'NNP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('son', 'NN')"", ""('?', '.')""]","[""('Do', 'NNP')""]"
+153,HIND3944044,Does <default-male-name3> have a son?,2,"[""('Does', 'NNP')"", ""('John', 'NNP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('son', 'NN')"", ""('?', '.')""]",[]
+154,HIND3944044,Is <default-male-name3> have a son?,2,"[""('Is', 'VBZ')"", ""('John', 'NNP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('son', 'NN')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('Is', 'VBZ')""]"
+155,HIND3944044,,2,[],[]
+156,HIND4267090,Where do they live?,1,"[""('Where', 'WRB')"", ""('do', 'VBP')"", ""('they', 'PRP')"", ""('live', 'VB')"", ""('?', '.')""]",[]
+157,HIND4267090,Where does they live?,1,"[""('Where', 'WRB')"", ""('does', 'VBZ')"", ""('they', 'PRP')"", ""('live', 'VB')"", ""('?', '.')""]","[""('does', 'VBZ')""]"
+158,HIND4267090,Where are they live?,1,"[""('Where', 'WRB')"", ""('are', 'VBP')"", ""('they', 'PRP')"", ""('live', 'VBP')"", ""('?', '.')""]","[""('are', 'VBP')"", ""('live', 'VBP')""]"
+159,HIND4267090,,1,[],[]
+160,HIND4777212,There isn't many tea in the cup.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('many', 'JJ')"", ""('tea', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('cup', 'NN')"", ""('.', '.')""]","[""('many', 'JJ')""]"
+161,HIND4777212,There isn't much tea in the cup.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('much', 'JJ')"", ""('tea', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('cup', 'NN')"", ""('.', '.')""]",[]
+162,HIND4777212,There isn't a tea in the cup.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('a', 'DT')"", ""('tea', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('cup', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+163,HIND4777212,,2,[],[]
+164,HIND4237327,<default-female-name> lives behind my house in <default-city-name1>.,1,"[""('Sarah', 'NNP')"", ""('lives', 'VBZ')"", ""('behind', 'IN')"", ""('my', 'PRP$')"", ""('house', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]",[]
+165,HIND4237327,<default-female-name> does lives behind my house in <default-city-name1>.,1,"[""('Sarah', 'NN')"", ""('does', 'VBZ')"", ""('lives', 'NNS')"", ""('behind', 'IN')"", ""('my', 'PRP$')"", ""('house', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]","[""('Sarah', 'NN')"", ""('lives', 'NNS')"", ""('does', 'VBZ')""]"
+166,HIND4237327,<default-female-name> live behind my house in <default-city-name1>.,1,"[""('Sarah', 'NNP')"", ""('live', 'VBP')"", ""('behind', 'IN')"", ""('my', 'PRP$')"", ""('house', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]","[""('live', 'VBP')""]"
+167,HIND4237327,<default-female-name> is lives behind my house in <default-city-name1>.,1,"[""('Sarah', 'NNP')"", ""('is', 'VBZ')"", ""('lives', 'NNS')"", ""('behind', 'IN')"", ""('my', 'PRP$')"", ""('house', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]","[""('is', 'VBZ')"", ""('lives', 'NNS')""]"
+168,HIND4317489,Where are <default-male-name> work?,3,"[""('Where', 'WRB')"", ""('are', 'VBP')"", ""('John', 'NNP')"", ""('work', 'NN')"", ""('?', '.')""]","[""('work', 'NN')"", ""('are', 'VBP')""]"
+169,HIND4317489,Where is <default-male-name> work?,3,"[""('Where', 'WRB')"", ""('is', 'VBZ')"", ""('John', 'NNP')"", ""('work', 'NN')"", ""('?', '.')""]","[""('is', 'VBZ')"", ""('work', 'NN')""]"
+170,HIND4317489,Where does <default-male-name> work?,3,"[""('Where', 'WRB')"", ""('does', 'VBZ')"", ""('John', 'NNP')"", ""('work', 'VB')"", ""('?', '.')""]",[]
+171,HIND4317489,,3,[],[]
+172,HIND3590736,This is there sister.,2,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('there', 'RB')"", ""('sister', 'JJ')"", ""('.', '.')""]","[""('there', 'RB')"", ""('sister', 'JJ')""]"
+173,HIND3590736,This is their sister.,2,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('their', 'PRP$')"", ""('sister', 'NN')"", ""('.', '.')""]",[]
+174,HIND3590736,This is theirs sister.,2,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('theirs', 'JJ')"", ""('sister', 'NN')"", ""('.', '.')""]","[""('theirs', 'JJ')""]"
+175,HIND3590736,,2,[],[]
+176,HIND4826149,Do you have a children?,3,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('children', 'NNS')"", ""('?', '.')""]","[""('a', 'DT')""]"
+177,HIND4826149,Do you have an children?,3,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('an', 'DT')"", ""('children', 'NNS')"", ""('?', '.')""]","[""('an', 'DT')""]"
+178,HIND4826149,Do you have any children?,3,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('any', 'DT')"", ""('children', 'NNS')"", ""('?', '.')""]",[]
+179,HIND4826149,,3,[],[]
+180,HIND4731992,How many money do you have?,2,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('money', 'NN')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]","[""('many', 'JJ')""]"
+181,HIND4731992,How much money do you have?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('money', 'NN')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]",[]
+182,HIND4731992,,2,[],[]
+183,HIND4731992,,2,[],[]
+184,HIND4828565,Are there a apples in the fridge?,3,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('apples', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('?', '.')""]","[""('a', 'DT')""]"
+185,HIND4828565,Are there an apples in the fridge?,3,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('an', 'DT')"", ""('apples', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('?', '.')""]","[""('an', 'DT')""]"
+186,HIND4828565,Are there any apples in the fridge?,3,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('any', 'DT')"", ""('apples', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('?', '.')""]",[]
+187,HIND4828565,,3,[],[]
+188,HIND2908990,She is from England. She is England.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""('.', '.')"", ""('She', 'PRP')"", ""('is', 'VBZ')"", ""('England', 'NNP')"", ""('.', '.')""]",[]
+189,HIND2908990,She is from England. She are British.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""('.', '.')"", ""('She', 'PRP')"", ""('are', 'VBP')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+190,HIND2908990,She is from England. She is British.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""('.', '.')"", ""('She', 'PRP')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+191,HIND2908990,She is from England. She am British.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""('.', '.')"", ""('She', 'PRP')"", ""('am', 'VBP')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+192,HIND3448548,Look there is <default-male-name3>.,1,"[""('Look', 'VB')"", ""('there', 'EX')"", ""('is', 'VBZ')"", ""('John', 'NNP')"", ""('.', '.')""]",[]
+193,HIND3448548,Look there am <default-male-name3>.,1,"[""('Look', 'VB')"", ""('there', 'EX')"", ""('am', 'VBP')"", ""('John', 'NNP')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+194,HIND3448548,Look there are <default-male-name3>.,1,"[""('Look', 'VB')"", ""('there', 'EX')"", ""('are', 'VBP')"", ""('John', 'NNP')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+195,HIND3448548,,1,[],[]
+196,HIND4677169,I would like some oranges.,1,"[""('I', 'PRP')"", ""('would', 'MD')"", ""('like', 'VB')"", ""('some', 'DT')"", ""('oranges', 'NNS')"", ""('.', '.')""]",[]
+197,HIND4677169,I want like some oranges.,1,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('like', 'IN')"", ""('some', 'DT')"", ""('oranges', 'NNS')"", ""('.', '.')""]","[""('like', 'IN')"", ""('want', 'VBP')""]"
+198,HIND4677169,I have like some oranges.,1,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('like', 'IN')"", ""('some', 'DT')"", ""('oranges', 'NNS')"", ""('.', '.')""]","[""('have', 'VBP')"", ""('like', 'IN')""]"
+199,HIND4677169,I am like some oranges.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('like', 'IN')"", ""('some', 'DT')"", ""('oranges', 'NNS')"", ""('.', '.')""]","[""('like', 'IN')"", ""('am', 'VBP')""]"
+200,HIND3798572,She is smart woman.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('woman', 'NN')"", ""('.', '.')""]",[]
+201,HIND3798572,She is smarty woman.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('smarty', 'JJ')"", ""('woman', 'NN')"", ""('.', '.')""]","[""('smarty', 'JJ')""]"
+202,HIND3798572,She is a smart woman.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('smart', 'JJ')"", ""('woman', 'NN')"", ""('.', '.')""]",[]
+203,HIND3798572,,3,[],[]
+204,HIND2984407,Is she a student?,1,"[""('Is', 'VBZ')"", ""('she', 'PRP')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('?', '.')""]",[]
+205,HIND2984407,Is you a student?,1,"[""('Is', 'VBZ')"", ""('you', 'PRP')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('?', '.')""]","[""('you', 'PRP')""]"
+206,HIND2984407,Is she is a student?,1,"[""('Is', 'VBZ')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('?', '.')""]","[""('is', 'VBZ')""]"
+207,HIND2984407,Does she a student?,1,"[""('Does', 'VBZ')"", ""('she', 'PRP')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('?', '.')""]","[""('Does', 'VBZ')""]"
+208,HIND6356031,I have seen DDLJ fifth times.,2,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('seen', 'VBN')"", ""('DDLJ', 'NNP')"", ""('fifth', 'JJ')"", ""('times', 'NNS')"", ""('.', '.')""]","[""('fifth', 'JJ')""]"
+209,HIND6356031,I have seen DDLJ five times.,2,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('seen', 'VBN')"", ""('DDLJ', 'NNP')"", ""('five', 'CD')"", ""('times', 'NNS')"", ""('.', '.')""]",[]
+210,HIND6356031,I have seen DDLJ fiveth times.,2,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('seen', 'VBN')"", ""('DDLJ', 'NNP')"", ""('fiveth', 'JJ')"", ""('times', 'NNS')"", ""('.', '.')""]","[""('fiveth', 'JJ')""]"
+211,HIND6356031,I have seen DDLJ five time.,2,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('seen', 'VBN')"", ""('DDLJ', 'NNP')"", ""('five', 'CD')"", ""('time', 'NN')"", ""('.', '.')""]","[""('time', 'NN')""]"
+212,HIND4702042,"How much are those pants, the ones displayed here?",2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('those', 'DT')"", ""('pants', 'NNS')"", ""(',', ',')"", ""('the', 'DT')"", ""('ones', 'NNS')"", ""('displayed', 'VBN')"", ""('here', 'RB')"", ""('?', '.')""]","[""('those', 'DT')""]"
+213,HIND4702042,"How much are these pants, the ones displayed here?",2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('these', 'DT')"", ""('pants', 'NNS')"", ""(',', ',')"", ""('the', 'DT')"", ""('ones', 'NNS')"", ""('displayed', 'VBN')"", ""('here', 'RB')"", ""('?', '.')""]",[]
+214,HIND4702042,"How much are this pants, the ones displayed here?",2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('this', 'DT')"", ""('pants', 'NNS')"", ""(',', ',')"", ""('the', 'DT')"", ""('ones', 'NNS')"", ""('displayed', 'VBN')"", ""('here', 'RB')"", ""('?', '.')""]","[""('this', 'DT')""]"
+215,HIND4702042,"How much are that pants, the ones displayed here?",2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('that', 'IN')"", ""('pants', 'NNS')"", ""(',', ',')"", ""('the', 'DT')"", ""('ones', 'NNS')"", ""('displayed', 'VBN')"", ""('here', 'RB')"", ""('?', '.')""]","[""('that', 'IN')""]"
+216,HIND3946503,Do you have a girl-friend?,1,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('girl-friend', 'NN')"", ""('?', '.')""]",[]
+217,HIND3946503,Does you have a girl-friend?,1,"[""('Does', 'NNP')"", ""('you', 'PRP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('girl-friend', 'NN')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('Does', 'NNP')""]"
+218,HIND3946503,Are you have a girl-friend?,1,"[""('Are', 'NNP')"", ""('you', 'PRP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('girl-friend', 'NN')"", ""('?', '.')""]","[""('Are', 'NNP')"", ""('have', 'VBP')""]"
+219,HIND3946503,,1,[],[]
+220,HIND4750362,How much is this house for?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('for', 'IN')"", ""('?', '.')""]",[]
+221,HIND4750362,How much is these house for?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('these', 'DT')"", ""('house', 'NN')"", ""('for', 'IN')"", ""('?', '.')""]","[""('these', 'DT')""]"
+222,HIND4750362,How much is those house for?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('those', 'DT')"", ""('house', 'NN')"", ""('for', 'IN')"", ""('?', '.')""]","[""('those', 'DT')""]"
+223,HIND4750362,How much are this house for?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('are', 'VBP')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('for', 'IN')"", ""('?', '.')""]","[""('are', 'VBP')""]"
+224,HIND4843016,Are a of those shoes <default-female-name>''s?,2,"[""('Are', 'VBP')"", ""('a', 'DT')"", ""('of', 'IN')"", ""('those', 'DT')"", ""('shoes', 'NNS')"", ""('Sarah', 'NNP')"", '(""\'s"", \'POS\')', ""('?', '.')""]","[""('Are', 'VBP')"", ""('a', 'DT')""]"
+225,HIND4843016,Are any of those shoes <default-female-name>''s?,2,"[""('Are', 'NNP')"", ""('any', 'DT')"", ""('of', 'IN')"", ""('those', 'DT')"", ""('shoes', 'NNS')"", ""('Sarah', 'NNP')"", '(""\'s"", \'POS\')', ""('?', '.')""]",[]
+226,HIND4843016,Are the of those shoes <default-female-name>''s?,2,"[""('Are', 'VBP')"", ""('the', 'DT')"", ""('of', 'IN')"", ""('those', 'DT')"", ""('shoes', 'NNS')"", ""('Sarah', 'NNP')"", '(""\'s"", \'POS\')', ""('?', '.')""]","[""('the', 'DT')"", ""('Are', 'VBP')""]"
+227,HIND4843016,,2,[],[]
+228,HIND3195548,They dance very well.,1,"[""('They', 'PRP')"", ""('dance', 'VBP')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]",[]
+229,HIND3195548,They dances very well.,1,"[""('They', 'PRP')"", ""('dances', 'VBP')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]","[""('dances', 'VBP')""]"
+230,HIND3195548,They are dance very well.,1,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('dance', 'JJ')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]","[""('dance', 'JJ')"", ""('are', 'VBP')""]"
+231,HIND3195548,They dancing very well.,1,"[""('They', 'PRP')"", ""('dancing', 'VBG')"", ""('very', 'RB')"", ""('well', 'RB')"", ""('.', '.')""]","[""('dancing', 'VBG')""]"
+232,HIND4539098,Is there a bathroom in this house?,1,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('bathroom', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('?', '.')""]",[]
+233,HIND4539098,There are a bathroom in this house?,1,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('a', 'DT')"", ""('bathroom', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('?', '.')""]","[""('There', 'EX')"", ""('are', 'VBP')""]"
+234,HIND4539098,Is a bathroom in this house?,1,"[""('Is', 'VBZ')"", ""('a', 'DT')"", ""('bathroom', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('?', '.')""]",[]
+235,HIND4539098,,1,[],[]
+236,HIND2983203,Are they from America?,1,"[""('Are', 'VBP')"", ""('they', 'PRP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('?', '.')""]",[]
+237,HIND2983203,Is they from America?,1,"[""('Is', 'VBZ')"", ""('they', 'PRP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('?', '.')""]","[""('Is', 'VBZ')""]"
+238,HIND2983203,Are they are from America?,1,"[""('Are', 'IN')"", ""('they', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('?', '.')""]","[""('Are', 'IN')"", ""('are', 'VBP')""]"
+239,HIND2983203,Do they are from America?,1,"[""('Do', 'IN')"", ""('they', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('?', '.')""]","[""('Do', 'IN')"", ""('are', 'VBP')""]"
+240,HIND4824913,Is there a milk in the fridge?,2,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('milk', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('?', '.')""]","[""('a', 'DT')""]"
+241,HIND4824913,Is there any milk in the fridge?,2,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('any', 'DT')"", ""('milk', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('?', '.')""]",[]
+242,HIND4824913,Is there an milk in the fridge?,2,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('an', 'DT')"", ""('milk', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('?', '.')""]","[""('an', 'DT')""]"
+243,HIND4824913,Is there the milk in the fridge?,2,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('the', 'DT')"", ""('milk', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('?', '.')""]",[]
+244,HIND3185435,Do you drinks water?,2,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('drinks', 'VB')"", ""('water', 'NN')"", ""('?', '.')""]","[""('drinks', 'VB')""]"
+245,HIND3185435,Do you drink water?,2,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('drink', 'VB')"", ""('water', 'NN')"", ""('?', '.')""]",[]
+246,HIND3185435,Do you are drink water?,2,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('are', 'VBP')"", ""('drink', 'JJ')"", ""('water', 'NN')"", ""('?', '.')""]","[""('drink', 'JJ')"", ""('are', 'VBP')""]"
+247,HIND3185435,,2,[],[]
+248,HIND4551145,There aren't a kitchen in this house?,3,"[""('There', 'EX')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('a', 'DT')"", ""('kitchen', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('?', '.')""]","['(""n\'t"", \'RB\')', ""('There', 'EX')"", ""('are', 'VBP')""]"
+249,HIND4551145,There isn't a kitchen in this house?,3,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('a', 'DT')"", ""('kitchen', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('?', '.')""]","['(""n\'t"", \'RB\')', ""('is', 'VBZ')"", ""('There', 'EX')""]"
+250,HIND4551145,Is there a kitchen in this house?,3,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('kitchen', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('?', '.')""]",[]
+251,HIND4551145,,3,[],[]
+252,HIND3160790,He speak English.,3,"[""('He', 'PRP')"", ""('speak', 'VBZ')"", ""('English', 'JJ')"", ""('.', '.')""]","[""('He', 'PRP')"", ""('speak', 'VBZ')""]"
+253,HIND3160790,She speak English.,3,"[""('She', 'PRP')"", ""('speak', 'VBD')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('She', 'PRP')"", ""('speak', 'VBD')""]"
+254,HIND3160790,We speak English.,3,"[""('We', 'PRP')"", ""('speak', 'VBP')"", ""('English', 'JJ')"", ""('.', '.')""]",[]
+255,HIND3160790,Us speak English.,3,"[""('Us', 'NNP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speak', 'JJ')"", ""('Us', 'NNP')""]"
+256,HIND4521472,<default-male-name2> sits between <default-female-name2> and <default-female-name3>.,1,"[""('John', 'NNP')"", ""('sits', 'VBZ')"", ""('between', 'IN')"", ""('Sarah', 'NNP')"", ""('and', 'CC')"", ""('Sarah', 'NNP')"", ""('.', '.')""]",[]
+257,HIND4521472,<default-male-name2> sits in front <default-female-name2> and <default-female-name3>.,1,"[""('John', 'NNP')"", ""('sits', 'NNS')"", ""('in', 'IN')"", ""('front', 'JJ')"", ""('Sarah', 'NNP')"", ""('and', 'CC')"", ""('Sarah', 'NNP')"", ""('.', '.')""]","[""('sits', 'NNS')"", ""('in', 'IN')"", ""('front', 'JJ')""]"
+258,HIND4521472,<default-male-name2> sits next <default-female-name2> and <default-female-name3>.,1,"[""('John', 'NNP')"", ""('sits', 'VBZ')"", ""('next', 'JJ')"", ""('Sarah', 'NNP')"", ""('and', 'CC')"", ""('Sarah', 'NNP')"", ""('.', '.')""]","[""('next', 'JJ')""]"
+259,HIND4521472,,1,[],[]
+260,HIND4146305,My books are in my room.,1,"[""('My', 'PRP$')"", ""('books', 'NNS')"", ""('are', 'VBP')"", ""('in', 'IN')"", ""('my', 'PRP$')"", ""('room', 'NN')"", ""('.', '.')""]",[]
+261,HIND4146305,My books are on my room.,1,"[""('My', 'PRP$')"", ""('books', 'NNS')"", ""('are', 'VBP')"", ""('on', 'IN')"", ""('my', 'PRP$')"", ""('room', 'NN')"", ""('.', '.')""]","[""('on', 'IN')""]"
+262,HIND4146305,My books are at my room.,1,"[""('My', 'PRP$')"", ""('books', 'NNS')"", ""('are', 'VBP')"", ""('at', 'IN')"", ""('my', 'PRP$')"", ""('room', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+263,HIND4146305,,1,[],[]
+264,HIND4808394,Silver are expensive.,2,"[""('Silver', 'WDT')"", ""('are', 'VBP')"", ""('expensive', 'JJ')"", ""('.', '.')""]","[""('Silver', 'WDT')"", ""('are', 'VBP')""]"
+265,HIND4808394,Silver is expensive.,2,"[""('Silver', 'NN')"", ""('is', 'VBZ')"", ""('expensive', 'JJ')"", ""('.', '.')""]",[]
+266,HIND4808394,Silver does expensive.,2,"[""('Silver', 'NN')"", ""('does', 'VBZ')"", ""('expensive', 'JJ')"", ""('.', '.')""]","[""('does', 'VBZ')""]"
+267,HIND4808394,Silver has expensive.,2,"[""('Silver', 'NN')"", ""('has', 'VBZ')"", ""('expensive', 'JJ')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+268,HIND4723908,How much bottles of Pepsi do you have?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('bottles', 'NNS')"", ""('of', 'IN')"", ""('Pepsi', 'NNP')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]","[""('much', 'JJ')""]"
+269,HIND4723908,How many bottles of Pepsi do you have?,2,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bottles', 'NNS')"", ""('of', 'IN')"", ""('Pepsi', 'NNP')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]",[]
+270,HIND4723908,,2,[],[]
+271,HIND4723908,,2,[],[]
+272,HIND3707630,How old your mother?,2,"[""('How', 'WRB')"", ""('old', 'JJ')"", ""('your', 'PRP$')"", ""('mother', 'NN')"", ""('?', '.')""]",[]
+273,HIND3707630,How old is your mother?,2,"[""('How', 'WRB')"", ""('old', 'JJ')"", ""('is', 'VBZ')"", ""('your', 'PRP$')"", ""('mother', 'NN')"", ""('?', '.')""]",[]
+274,HIND3707630,How many years is your mother?,2,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('years', 'NNS')"", ""('is', 'VBZ')"", ""('your', 'PRP$')"", ""('mother', 'NN')"", ""('?', '.')""]","[""('years', 'NNS')"", ""('many', 'JJ')""]"
+275,HIND3707630,How old are your mother?,2,"[""('How', 'WRB')"", ""('old', 'JJ')"", ""('are', 'VBP')"", ""('your', 'PRP$')"", ""('mother', 'NN')"", ""('?', '.')""]","[""('are', 'VBP')""]"
+276,HIND4311119,<default-female-name> and I works at a school.,3,"[""('Sarah', 'NNP')"", ""('and', 'CC')"", ""('I', 'PRP')"", ""('works', 'VBP')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('works', 'VBP')""]"
+277,HIND4311119,<default-female-name> and I are work at a school.,3,"[""('Sarah', 'NNP')"", ""('and', 'CC')"", ""('I', 'PRP')"", ""('are', 'VBP')"", ""('work', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('work', 'NN')"", ""('are', 'VBP')""]"
+278,HIND4311119,<default-female-name> and I work at a school.,3,"[""('Sarah', 'NNP')"", ""('and', 'CC')"", ""('I', 'PRP')"", ""('work', 'VBP')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]",[]
+279,HIND4311119,,3,[],[]
+280,HIND4811695,The shoes are very expensive.,1,"[""('The', 'DT')"", ""('shoes', 'NNS')"", ""('are', 'VBP')"", ""('very', 'RB')"", ""('expensive', 'JJ')"", ""('.', '.')""]",[]
+281,HIND4811695,The shoes is very expensive.,1,"[""('The', 'DT')"", ""('shoes', 'NNS')"", ""('is', 'VBZ')"", ""('very', 'RB')"", ""('expensive', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+282,HIND4811695,The shoes has very expensive.,1,"[""('The', 'DT')"", ""('shoes', 'NNS')"", ""('has', 'VBZ')"", ""('very', 'RB')"", ""('expensive', 'JJ')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+283,HIND4811695,The shoes have very expensive.,1,"[""('The', 'DT')"", ""('shoes', 'NNS')"", ""('have', 'VBP')"", ""('very', 'RB')"", ""('expensive', 'JJ')"", ""('.', '.')""]","[""('have', 'VBP')""]"
+284,HIND4782449,There aren't much water in the glass.,2,"[""('There', 'EX')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('much', 'JJ')"", ""('water', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+285,HIND4782449,There isn't much water in the glass.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('much', 'JJ')"", ""('water', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('.', '.')""]",[]
+286,HIND4782449,There isn't many water in the glass.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('many', 'JJ')"", ""('water', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('.', '.')""]","[""('many', 'JJ')""]"
+287,HIND4782449,There isn't a water in the glass.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('a', 'DT')"", ""('water', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+288,HIND4543855,Their is a bank next to the school.,3,"[""('Their', 'PRP$')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('bank', 'NN')"", ""('next', 'IN')"", ""('to', 'TO')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('Their', 'PRP$')""]"
+289,HIND4543855,There are a bank next to the school.,3,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('a', 'DT')"", ""('bank', 'NN')"", ""('next', 'IN')"", ""('to', 'TO')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+290,HIND4543855,There is a bank next to the school.,3,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('bank', 'NN')"", ""('next', 'IN')"", ""('to', 'TO')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]",[]
+291,HIND4543855,,3,[],[]
+292,HIND3631340,How many airports are in <default-city-name1>?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('airports', 'NNS')"", ""('are', 'VBP')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('?', '.')""]",[]
+293,HIND3631340,How many airports there are in <default-city-name1>?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('airports', 'NNS')"", ""('there', 'EX')"", ""('are', 'VBP')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('?', '.')""]","[""('there', 'EX')""]"
+294,HIND3631340,How many airports are there in <default-city-name1>?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('airports', 'NNS')"", ""('are', 'VBP')"", ""('there', 'RB')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('?', '.')""]",[]
+295,HIND3631340,,3,[],[]
+296,HIND2907790,He is China. He is Chinese.,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('China', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+297,HIND2907790,He from China. He is Chinese.,3,"[""('He', 'PRP')"", ""('from', 'IN')"", ""('China', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+298,HIND2907790,He is from China. He is Chinese.,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('China', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+299,HIND2907790,,3,[],[]
+300,HIND4722201,How much sugar do you have?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('sugar', 'NN')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]",[]
+301,HIND4722201,How many sugar do you have?,1,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('sugar', 'NN')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]","[""('many', 'JJ')""]"
+302,HIND4722201,,1,[],[]
+303,HIND4722201,,1,[],[]
+304,HIND4851442,They don't have a chocolates.,2,"[""('They', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('a', 'DT')"", ""('chocolates', 'NNS')"", ""('.', '.')""]","[""('a', 'DT')""]"
+305,HIND4851442,They don't have any chocolates.,2,"[""('They', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('any', 'DT')"", ""('chocolates', 'NNS')"", ""('.', '.')""]",[]
+306,HIND4851442,They don't have some chocolates.,2,"[""('They', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('some', 'DT')"", ""('chocolates', 'NNS')"", ""('.', '.')""]","[""('some', 'DT')""]"
+307,HIND4851442,,2,[],[]
+308,HIND2954775,He is not China. He is not Chinese.,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('China', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+309,HIND2954775,He is from not China. He is not Chinese.,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('not', 'RB')"", ""('China', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+310,HIND2954775,He is not from China. He is not Chinese.,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('China', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+311,HIND2954775,He is not is from China. He is not Chinese.,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('China', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+312,HIND2961416,"She's isn't from England, she is not British.",3,"[""('She', 'PRP')"", '(""\'s"", \'VBZ\')', ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]","['(""\'s"", \'VBZ\')']"
+313,HIND2961416,"She isn't not from England, she is not British.",3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('not', 'RB')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+314,HIND2961416,"She isn't from England, she is not British.",3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+315,HIND2961416,"She's not is from England, she is not British.",3,"[""('She', 'PRP')"", '(""\'s"", \'VBZ\')', ""('not', 'RB')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]","['(""\'s"", \'VBZ\')']"
+316,HIND4855833,Does she have some sisters?,3,"[""('Does', 'VBZ')"", ""('she', 'PRP')"", ""('have', 'VB')"", ""('some', 'DT')"", ""('sisters', 'NNS')"", ""('?', '.')""]","[""('some', 'DT')""]"
+317,HIND4855833,Does she have a sisters?,3,"[""('Does', 'VBZ')"", ""('she', 'PRP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('sisters', 'NNS')"", ""('?', '.')""]","[""('a', 'DT')""]"
+318,HIND4855833,Does she have any sisters?,3,"[""('Does', 'VBZ')"", ""('she', 'PRP')"", ""('have', 'VB')"", ""('any', 'DT')"", ""('sisters', 'NNS')"", ""('?', '.')""]",[]
+319,HIND4855833,Does she have much sisters?,3,"[""('Does', 'VBZ')"", ""('she', 'PRP')"", ""('have', 'VB')"", ""('much', 'JJ')"", ""('sisters', 'NNS')"", ""('?', '.')""]","[""('much', 'JJ')""]"
+320,HIND3598911,Her wife is smart.,2,"[""('Her', 'PRP$')"", ""('wife', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('Her', 'PRP$')""]"
+321,HIND3598911,His wife is smart.,2,"[""('His', 'PRP$')"", ""('wife', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+322,HIND3598911,She wife is smart.,2,"[""('She', 'PRP')"", ""('wife', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('She', 'PRP')""]"
+323,HIND3598911,,2,[],[]
+324,HIND3924239,<default-female-name3> has two daughters.,1,"[""('Sarah', 'NNP')"", ""('has', 'VBZ')"", ""('two', 'CD')"", ""('daughters', 'NNS')"", ""('.', '.')""]",[]
+325,HIND3924239,<default-female-name3> have two daughters.,1,"[""('Sarah', 'NNS')"", ""('have', 'VBP')"", ""('two', 'CD')"", ""('daughters', 'NNS')"", ""('.', '.')""]","[""('have', 'VBP')"", ""('Sarah', 'NNS')""]"
+326,HIND3924239,<default-female-name3> is have two daughters.,1,"[""('Sarah', 'NNP')"", ""('is', 'VBZ')"", ""('have', 'VBP')"", ""('two', 'CD')"", ""('daughters', 'NNS')"", ""('.', '.')""]","[""('have', 'VBP')"", ""('is', 'VBZ')""]"
+327,HIND3924239,,1,[],[]
+328,HIND4549167,There aren't any students in the school.,1,"[""('There', 'EX')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('any', 'DT')"", ""('students', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]",[]
+329,HIND4549167,There isn't any students in the school.,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('any', 'DT')"", ""('students', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+330,HIND4549167,There is any students in the school.,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('any', 'DT')"", ""('students', 'NNS')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+331,HIND4549167,,1,[],[]
+332,HIND3337124,<phone-number> is don't my number.,2,"[""('phone-number', 'NN')"", ""('is', 'VBZ')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('my', 'PRP$')"", ""('number', 'NN')"", ""('.', '.')""]","[""('do', 'VBP')""]"
+333,HIND3337124,<phone-number> isn't my number.,2,"[""('phone-number', 'NN')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('my', 'PRP$')"", ""('number', 'NN')"", ""('.', '.')""]",[]
+334,HIND3337124,<phone-number> aren't my number.,2,"[""('phone-number', 'NN')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('my', 'PRP$')"", ""('number', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+335,HIND3337124,<phone-number> doesn't my number.,2,"[""('phone-number', 'NN')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('my', 'PRP$')"", ""('number', 'NN')"", ""('.', '.')""]","[""('does', 'VBZ')""]"
+336,HIND4523402,Are there a mall on this street?,3,"[""('Are', 'NNP')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('mall', 'NN')"", ""('on', 'IN')"", ""('this', 'DT')"", ""('street', 'NN')"", ""('?', '.')""]","[""('Are', 'NNP')""]"
+337,HIND4523402,There a mall on this street?,3,"[""('There', 'EX')"", ""('a', 'DT')"", ""('mall', 'NN')"", ""('on', 'IN')"", ""('this', 'DT')"", ""('street', 'NN')"", ""('?', '.')""]","[""('There', 'EX')""]"
+338,HIND4523402,Is there a mall on this street?,3,"[""('Is', 'VBZ')"", ""('there', 'EX')"", ""('a', 'DT')"", ""('mall', 'NN')"", ""('on', 'IN')"", ""('this', 'DT')"", ""('street', 'NN')"", ""('?', '.')""]",[]
+339,HIND4523402,,3,[],[]
+340,HIND4813291,These am my water bottles.,2,"[""('These', 'DT')"", ""('am', 'VBP')"", ""('my', 'PRP$')"", ""('water', 'NN')"", ""('bottles', 'NNS')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+341,HIND4813291,These are my water bottles.,2,"[""('These', 'DT')"", ""('are', 'VBP')"", ""('my', 'PRP$')"", ""('water', 'NN')"", ""('bottles', 'NNS')"", ""('.', '.')""]",[]
+342,HIND4813291,These has my water bottles.,2,"[""('These', 'DT')"", ""('has', 'VBZ')"", ""('my', 'PRP$')"", ""('water', 'NN')"", ""('bottles', 'NNS')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+343,HIND4813291,These is my water bottles.,2,"[""('These', 'DT')"", ""('is', 'VBZ')"", ""('my', 'PRP$')"", ""('water', 'NN')"", ""('bottles', 'NNS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+344,HIND3455653,<default-male-name2>''s bag is heavy.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('heavy', 'JJ')"", ""('.', '.')""]",[]
+345,HIND3455653,<default-male-name2>''s bag am heavy.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('am', 'VBP')"", ""('heavy', 'JJ')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+346,HIND3455653,<default-male-name2>''s bag are heavy.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('are', 'VBP')"", ""('heavy', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+347,HIND3455653,,1,[],[]
+348,HIND3595249,Their brothers are smart.,1,"[""('Their', 'PRP$')"", ""('brothers', 'NNS')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+349,HIND3595249,They brothers are smart.,1,"[""('They', 'PRP')"", ""('brothers', 'NNS')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('They', 'PRP')""]"
+350,HIND3595249,Them brothers are smart.,1,"[""('Them', 'NNP')"", ""('brothers', 'NNS')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('Them', 'NNP')""]"
+351,HIND3595249,There brothers are smart.,1,"[""('There', 'EX')"", ""('brothers', 'NNS')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('There', 'EX')""]"
+352,HIND2911529,I am from China. I am Chinese.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('China', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+353,HIND2911529,I am China. I am Chinese.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('China', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+354,HIND2911529,I from China. I am Chinese.,1,"[""('I', 'PRP')"", ""('from', 'IN')"", ""('China', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+355,HIND2911529,I belong China. I am Chinese.,1,"[""('I', 'PRP')"", ""('belong', 'VBP')"", ""('China', 'NNP')"", ""('.', '.')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('belong', 'VBP')""]"
+356,HIND3801003,I have 2 reds bags.,3,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('2', 'CD')"", ""('reds', 'NNS')"", ""('bags', 'NNS')"", ""('.', '.')""]","[""('reds', 'NNS')""]"
+357,HIND3801003,I have 2 a red bags.,3,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('2', 'CD')"", ""('a', 'DT')"", ""('red', 'JJ')"", ""('bags', 'NN')"", ""('.', '.')""]","[""('bags', 'NN')"", ""('a', 'DT')""]"
+358,HIND3801003,I have 2 red bags.,3,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('2', 'CD')"", ""('red', 'JJ')"", ""('bags', 'NNS')"", ""('.', '.')""]",[]
+359,HIND3801003,,3,[],[]
+360,HIND4719038,How many flowers.,1,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('flowers', 'NNS')"", ""('.', '.')""]",[]
+361,HIND4719038,How much flowers.,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('flowers', 'NNS')"", ""('.', '.')""]","[""('much', 'JJ')""]"
+362,HIND4719038,,1,[],[]
+363,HIND4719038,,1,[],[]
+364,HIND4697665,How much is this ice cream here?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('this', 'DT')"", ""('ice', 'NN')"", ""('cream', 'NN')"", ""('here', 'RB')"", ""('?', '.')""]",[]
+365,HIND4697665,How much is that ice cream here?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('that', 'IN')"", ""('ice', 'NN')"", ""('cream', 'NN')"", ""('here', 'RB')"", ""('?', '.')""]","[""('that', 'IN')""]"
+366,HIND4697665,How much is these ice cream here?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('is', 'VBZ')"", ""('these', 'DT')"", ""('ice', 'JJ')"", ""('cream', 'NN')"", ""('here', 'RB')"", ""('?', '.')""]","[""('ice', 'JJ')"", ""('these', 'DT')""]"
+367,HIND4697665,,1,[],[]
+368,HIND3939522,Does Mr. <default-male-surname> has a car?,2,"[""('Does', 'VBZ')"", ""('Mr.', 'NNP')"", ""('Khan', 'NNP')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('car', 'NN')"", ""('?', '.')""]","[""('has', 'VBZ')""]"
+369,HIND3939522,Does Mr. <default-male-surname> have a car?,2,"[""('Does', 'VBZ')"", ""('Mr.', 'NNP')"", ""('Khan', 'NNP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('car', 'NN')"", ""('?', '.')""]",[]
+370,HIND3939522,Does Mr. <default-male-surname> is has a car?,2,"[""('Does', 'VBZ')"", ""('Mr.', 'NNP')"", ""('Khan', 'NNP')"", ""('is', 'VBZ')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('car', 'NN')"", ""('?', '.')""]","[""('has', 'VBZ')"", ""('is', 'VBZ')""]"
+371,HIND3939522,,2,[],[]
+372,HIND4302343,He works at a school.,1,"[""('He', 'PRP')"", ""('works', 'VBZ')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]",[]
+373,HIND4302343,He work at a school.,1,"[""('He', 'PRP')"", ""('work', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('work', 'NN')""]"
+374,HIND4302343,He is work at a school.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('work', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')"", ""('work', 'NN')""]"
+375,HIND4302343,,1,[],[]
+376,HIND3972054,<default-female-name> doesn''t has two daughters.,2,"[""('Sarah', 'NN')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('has', 'VBZ')"", ""('two', 'CD')"", ""('daughters', 'NNS')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+377,HIND3972054,<default-female-name> doesn''t have two daughters.,2,"[""('Sarah', 'NN')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('two', 'CD')"", ""('daughters', 'NNS')"", ""('.', '.')""]",[]
+378,HIND3972054,<default-female-name> don''t has two daughters.,2,"[""('Sarah', 'NNP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('has', 'VBZ')"", ""('two', 'CD')"", ""('daughters', 'NNS')"", ""('.', '.')""]","[""('Sarah', 'NNP')"", ""('has', 'VBZ')"", ""('do', 'VBP')""]"
+379,HIND3972054,<default-female-name> is not have two daughters.,2,"[""('Sarah', 'NNP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('have', 'VB')"", ""('two', 'CD')"", ""('daughters', 'NNS')"", ""('.', '.')""]","[""('Sarah', 'NNP')"", ""('is', 'VBZ')"", ""('not', 'RB')""]"
+380,HIND2965485,They aren't Chinese.,1,"[""('They', 'PRP')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('Chinese', 'NNP')"", ""('.', '.')""]",[]
+381,HIND2965485,They're aren't Chinese.,1,"[""('They', 'PRP')"", '(""\'re"", \'VBP\')', ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('Chinese', 'NNP')"", ""('.', '.')""]","['(""\'re"", \'VBP\')']"
+382,HIND2965485,They're are not Chinese.,1,"[""('They', 'PRP')"", '(""\'re"", \'VBP\')', ""('are', 'VBP')"", ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('Chinese', 'JJ')"", '(""\'re"", \'VBP\')', ""('not', 'RB')""]"
+383,HIND2965485,,1,[],[]
+384,HIND4848304,He doesn't have a apples.,3,"[""('He', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('a', 'DT')"", ""('apples', 'NNS')"", ""('.', '.')""]","[""('a', 'DT')""]"
+385,HIND4848304,He doesn't have some apples.,3,"[""('He', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('some', 'DT')"", ""('apples', 'NNS')"", ""('.', '.')""]","[""('some', 'DT')""]"
+386,HIND4848304,He doesn't have any apples.,3,"[""('He', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('any', 'DT')"", ""('apples', 'NNS')"", ""('.', '.')""]",[]
+387,HIND4848304,,3,[],[]
+388,HIND2923189,Your American.,3,"[""('Your', 'PRP$')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('Your', 'PRP$')""]"
+389,HIND2923189,Your're American.,3,"[""('Your', 'PRP$')"", '(""\'re"", \'VBP\')', ""('American', 'JJ')"", ""('.', '.')""]","[""('Your', 'PRP$')""]"
+390,HIND2923189,You're American.,3,"[""('You', 'PRP')"", '(""\'re"", \'VBP\')', ""('American', 'JJ')"", ""('.', '.')""]",[]
+391,HIND2923189,Your are American.,3,"[""('Your', 'PRP$')"", ""('are', 'VBP')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('Your', 'PRP$')"", ""('are', 'VBP')""]"
+392,HIND3970797,I don't has two sons.,2,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('has', 'VBZ')"", ""('two', 'CD')"", ""('sons', 'NNS')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+393,HIND3970797,I don't have two sons.,2,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('two', 'CD')"", ""('sons', 'NNS')"", ""('.', '.')""]",[]
+394,HIND3970797,I doesn't have two sons.,2,"[""('I', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('two', 'CD')"", ""('sons', 'NNS')"", ""('.', '.')""]","[""('does', 'VBZ')""]"
+395,HIND3970797,,2,[],[]
+396,HIND3429397,is this your daughter?,1,"[""('is', 'VBZ')"", ""('this', 'DT')"", ""('your', 'PRP$')"", ""('daughter', 'NN')"", ""('?', '.')""]",[]
+397,HIND3429397,am this your daughter?,1,"[""('am', 'VBP')"", ""('this', 'DT')"", ""('your', 'PRP$')"", ""('daughter', 'NN')"", ""('?', '.')""]","[""('am', 'VBP')""]"
+398,HIND3429397,are this your daughter?,1,"[""('are', 'VBP')"", ""('this', 'DT')"", ""('your', 'PRP$')"", ""('daughter', 'NN')"", ""('?', '.')""]","[""('are', 'VBP')""]"
+399,HIND3429397,,1,[],[]
+400,HIND4319927,Do you works at <default-company-name>?,2,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('works', 'VB')"", ""('at', 'IN')"", ""('Microsoft', 'NNP')"", ""('?', '.')""]","[""('works', 'VB')""]"
+401,HIND4319927,Do you work at <default-company-name>?,2,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('work', 'VB')"", ""('at', 'IN')"", ""('Microsoft', 'NNP')"", ""('?', '.')""]",[]
+402,HIND4319927,Do you working at <default-company-name>?,2,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('working', 'VBG')"", ""('at', 'IN')"", ""('Microsoft', 'NNP')"", ""('?', '.')""]","[""('Do', 'VBP')"", ""('working', 'VBG')""]"
+403,HIND4319927,,2,[],[]
+404,HIND4728596,How much pairs of shoes do you have?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('pairs', 'NN')"", ""('of', 'IN')"", ""('shoes', 'NNS')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]","[""('much', 'JJ')"", ""('pairs', 'NN')""]"
+405,HIND4728596,How many pairs of shoes do you have?,2,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('pairs', 'NNS')"", ""('of', 'IN')"", ""('shoes', 'NNS')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]",[]
+406,HIND4728596,How manies pairs of shoes do you have?,2,"[""('How', 'WRB')"", ""('manies', 'NNS')"", ""('pairs', 'VBP')"", ""('of', 'IN')"", ""('shoes', 'NNS')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]","[""('manies', 'NNS')"", ""('pairs', 'VBP')""]"
+407,HIND4728596,Hows many pairs of shoes do you have?,2,"[""('Hows', 'NNP')"", ""('many', 'JJ')"", ""('pairs', 'NNS')"", ""('of', 'IN')"", ""('shoes', 'NNS')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]","[""('Hows', 'NNP')""]"
+408,HIND4187444,<default-male-name>''s bag is in the room.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('room', 'NN')"", ""('.', '.')""]",[]
+409,HIND4187444,<default-male-name>''s bag is at the room.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('room', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+410,HIND4187444,<default-male-name>''s bag is on the room.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('on', 'IN')"", ""('the', 'DT')"", ""('room', 'NN')"", ""('.', '.')""]","[""('on', 'IN')""]"
+411,HIND4187444,,1,[],[]
+412,HIND3584594,Our brother speak Japanese.,3,"[""('Our', 'PRP$')"", ""('brother', 'NN')"", ""('speak', 'JJ')"", ""('Japanese', 'JJ')"", ""('.', '.')""]","[""('speak', 'JJ')""]"
+413,HIND3584594,Our brother speaking Japanese.,3,"[""('Our', 'PRP$')"", ""('brother', 'NN')"", ""('speaking', 'VBG')"", ""('Japanese', 'JJ')"", ""('.', '.')""]","[""('speaking', 'VBG')""]"
+414,HIND3584594,Our brother speaks Japanese.,3,"[""('Our', 'PRP$')"", ""('brother', 'NN')"", ""('speaks', 'VBZ')"", ""('Japanese', 'JJ')"", ""('.', '.')""]",[]
+415,HIND3584594,,3,[],[]
+416,HIND4830024,Do you have a black skirt?,1,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('black', 'JJ')"", ""('skirt', 'NN')"", ""('?', '.')""]",[]
+417,HIND4830024,Do you have the black skirt?,1,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('the', 'DT')"", ""('black', 'JJ')"", ""('skirt', 'NN')"", ""('?', '.')""]","[""('the', 'DT')""]"
+418,HIND4830024,Do you have an black skirt?,1,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('an', 'DT')"", ""('black', 'JJ')"", ""('skirt', 'NN')"", ""('?', '.')""]","[""('an', 'DT')""]"
+419,HIND4830024,,1,[],[]
+420,HIND2964044,Your not American.,3,"[""('Your', 'PRP$')"", ""('not', 'RB')"", ""('American', 'NNP')"", ""('.', '.')""]","[""('Your', 'PRP$')"", ""('American', 'NNP')""]"
+421,HIND2964044,Your're not American.,3,"[""('Your', 'PRP$')"", '(""\'re"", \'VBP\')', ""('not', 'RB')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('Your', 'PRP$')""]"
+422,HIND2964044,You're not American.,3,"[""('You', 'PRP')"", '(""\'re"", \'VBP\')', ""('not', 'RB')"", ""('American', 'JJ')"", ""('.', '.')""]",[]
+423,HIND2964044,Your aren't American.,3,"[""('Your', 'PRP$')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('American', 'NNP')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('Your', 'PRP$')"", ""('American', 'NNP')"", ""('are', 'VBP')""]"
+424,HIND4844271,Are a of your sisters married?,3,"[""('Are', 'VBP')"", ""('a', 'DT')"", ""('of', 'IN')"", ""('your', 'PRP$')"", ""('sisters', 'NNS')"", ""('married', 'VBN')"", ""('?', '.')""]","[""('Are', 'VBP')"", ""('a', 'DT')""]"
+425,HIND4844271,Are many of your sisters married?,3,"[""('Are', 'NNP')"", ""('many', 'JJ')"", ""('of', 'IN')"", ""('your', 'PRP$')"", ""('sisters', 'NNS')"", ""('married', 'VBN')"", ""('?', '.')""]","[""('many', 'JJ')""]"
+426,HIND4844271,Are any of your sisters married?,3,"[""('Are', 'NNP')"", ""('any', 'DT')"", ""('of', 'IN')"", ""('your', 'PRP$')"", ""('sisters', 'NNS')"", ""('married', 'VBN')"", ""('?', '.')""]",[]
+427,HIND4844271,,3,[],[]
+428,HIND2921474,They're Chinese.,1,"[""('They', 'PRP')"", '(""\'re"", \'VBP\')', ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+429,HIND2921474,They're are Chinese.,1,"[""('They', 'PRP')"", '(""\'re"", \'VBP\')', ""('are', 'VBP')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+430,HIND2921474,They's Chinese.,1,"[""('They', 'PRP')"", '(""\'s"", \'POS\')', ""('Chinese', 'NNP')"", ""('.', '.')""]","['(""\'s"", \'POS\')', ""('Chinese', 'NNP')""]"
+431,HIND2921474,Their Chinese.,1,"[""('Their', 'PRP$')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('Their', 'PRP$')""]"
+432,HIND4768215,I want a sugar.,3,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('a', 'DT')"", ""('sugar', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+433,HIND4768215,I want few sugar.,3,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('few', 'JJ')"", ""('sugar', 'NN')"", ""('.', '.')""]","[""('few', 'JJ')""]"
+434,HIND4768215,I want some sugar.,3,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('some', 'DT')"", ""('sugar', 'NN')"", ""('.', '.')""]",[]
+435,HIND4768215,I want many sugar.,3,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('many', 'JJ')"", ""('sugar', 'NN')"", ""('.', '.')""]","[""('many', 'JJ')""]"
+436,HIND4600462,Siddhivinayak is a famous beach in Mumbai.,3,"[""('Siddhivinayak', 'NNP')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('famous', 'JJ')"", ""('beach', 'NN')"", ""('in', 'IN')"", ""('Mumbai', 'NNP')"", ""('.', '.')""]","[""('beach', 'NN')""]"
+437,HIND4600462,Siddhivinayak is a famous temple in Delhi.,3,"[""('Siddhivinayak', 'NNP')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('famous', 'JJ')"", ""('temple', 'NN')"", ""('in', 'IN')"", ""('Delhi', 'NNP')"", ""('.', '.')""]","[""('Delhi', 'NNP')""]"
+438,HIND4600462,Siddhivinayak is a famous temple in Mumbai.,3,"[""('Siddhivinayak', 'NNP')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('famous', 'JJ')"", ""('temple', 'NN')"", ""('in', 'IN')"", ""('Mumbai', 'NNP')"", ""('.', '.')""]",[]
+439,HIND4600462,,3,[],[]
+440,HIND4781128,There is some water in the glass.,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('some', 'DT')"", ""('water', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('.', '.')""]",[]
+441,HIND4781128,There is few water in the glass.,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('few', 'JJ')"", ""('water', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('.', '.')""]","[""('few', 'JJ')""]"
+442,HIND4781128,There is a water in the glass.,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('water', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+443,HIND4781128,,1,[],[]
+444,HIND3942793,Do they have a dog?,1,"[""('Do', 'VBP')"", ""('they', 'PRP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('dog', 'NN')"", ""('?', '.')""]",[]
+445,HIND3942793,Do they has a dog?,1,"[""('Do', 'VBP')"", ""('they', 'PRP')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('dog', 'NN')"", ""('?', '.')""]","[""('has', 'VBZ')""]"
+446,HIND3942793,Do they are have a dog?,1,"[""('Do', 'IN')"", ""('they', 'PRP')"", ""('are', 'VBP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('dog', 'NN')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('Do', 'IN')"", ""('are', 'VBP')""]"
+447,HIND3942793,,1,[],[]
+448,HIND3715965,I am in my thirty.,4,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('in', 'IN')"", ""('my', 'PRP$')"", ""('thirty', 'NN')"", ""('.', '.')""]","[""('thirty', 'NN')""]"
+449,HIND3715965,I am in my thirtieth.,4,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('in', 'IN')"", ""('my', 'PRP$')"", ""('thirtieth', 'NN')"", ""('.', '.')""]","[""('thirtieth', 'NN')""]"
+450,HIND3715965,I am in my thirty two.,4,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('in', 'IN')"", ""('my', 'PRP$')"", ""('thirty', 'NN')"", ""('two', 'CD')"", ""('.', '.')""]","[""('thirty', 'NN')"", ""('two', 'CD')""]"
+451,HIND3715965,I am in my thirties.,4,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('in', 'IN')"", ""('my', 'PRP$')"", ""('thirties', 'NNS')"", ""('.', '.')""]",[]
+452,HIND4717643,How many tea.,2,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('tea', 'NN')"", ""('.', '.')""]","[""('many', 'JJ')""]"
+453,HIND4717643,How much tea.,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('tea', 'NN')"", ""('.', '.')""]",[]
+454,HIND4717643,,2,[],[]
+455,HIND4717643,,2,[],[]
+456,HIND3799802,This is red bag.,2,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('red', 'JJ')"", ""('bag', 'NN')"", ""('.', '.')""]",[]
+457,HIND3799802,This is a red bag.,2,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('red', 'JJ')"", ""('bag', 'NN')"", ""('.', '.')""]",[]
+458,HIND3799802,This is reds bag.,2,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('reds', 'JJ')"", ""('bag', 'NN')"", ""('.', '.')""]","[""('reds', 'JJ')""]"
+459,HIND3799802,,2,[],[]
+460,HIND2916926,"He is from France, He're French.",3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""(',', ',')"", ""('He', 'PRP')"", '(""\'re"", \'VBP\')', ""('French', 'JJ')"", ""('.', '.')""]","['(""\'re"", \'VBP\')']"
+461,HIND2916926,"He is from France, He's is French.",3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""(',', ',')"", ""('He', 'PRP')"", '(""\'s"", \'VBZ\')', ""('is', 'VBZ')"", ""('French', 'JJ')"", ""('.', '.')""]",[]
+462,HIND2916926,"He is from France, He's French.",3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""(',', ',')"", ""('He', 'PRP')"", '(""\'s"", \'VBZ\')', ""('French', 'JJ')"", ""('.', '.')""]",[]
+463,HIND2916926,"He is from France, Hes's French.",3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""(',', ',')"", ""('Hes', 'NNP')"", '(""\'s"", \'POS\')', ""('French', 'NNP')"", ""('.', '.')""]","[""('Hes', 'NNP')"", '(""\'s"", \'POS\')', ""('French', 'NNP')""]"
+464,HIND3854247,I hear with my eyes.,3,"[""('I', 'PRP')"", ""('hear', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('eyes', 'NNS')"", ""('.', '.')""]","[""('hear', 'VBP')""]"
+465,HIND3854247,I run with my eyes.,3,"[""('I', 'PRP')"", ""('run', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('eyes', 'NNS')"", ""('.', '.')""]","[""('run', 'VBP')""]"
+466,HIND3854247,I see with my eyes.,3,"[""('I', 'PRP')"", ""('see', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('eyes', 'NNS')"", ""('.', '.')""]",[]
+467,HIND3854247,,3,[],[]
+468,HIND4852732,There is a rice in the fridge.,3,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('rice', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+469,HIND4852732,There is the rice in the fridge.,3,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('the', 'DT')"", ""('rice', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('.', '.')""]",[]
+470,HIND4852732,There is some rice in the fridge.,3,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('some', 'DT')"", ""('rice', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('.', '.')""]",[]
+471,HIND4852732,There is any rice in the fridge.,3,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('any', 'DT')"", ""('rice', 'NN')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('fridge', 'NN')"", ""('.', '.')""]","[""('any', 'DT')""]"
+472,HIND3947706,Have you have siblings?,3,"[""('Have', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VBP')"", ""('siblings', 'NNS')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('Have', 'VBP')""]"
+473,HIND3947706,Does you have siblings?,3,"[""('Does', 'NNP')"", ""('you', 'PRP')"", ""('have', 'VBP')"", ""('siblings', 'NNS')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('Does', 'NNP')""]"
+474,HIND3947706,Do you have siblings?,3,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('siblings', 'NNS')"", ""('?', '.')""]",[]
+475,HIND3947706,,3,[],[]
+476,HIND4775929,How much juice are there in the glass?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('juice', 'NN')"", ""('are', 'VBP')"", ""('there', 'RB')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('?', '.')""]","[""('are', 'VBP')""]"
+477,HIND4775929,How much juice is there in the glass?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('juice', 'NN')"", ""('is', 'VBZ')"", ""('there', 'RB')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('?', '.')""]",[]
+478,HIND4775929,How much juices are there in the glass?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('juices', 'NNS')"", ""('are', 'VBP')"", ""('there', 'RB')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('glass', 'NN')"", ""('?', '.')""]","[""('juices', 'NNS')"", ""('are', 'VBP')""]"
+479,HIND4775929,,2,[],[]
+480,HIND4599114,Marine drive is a famous park in Mumbai.,2,"[""('Marine', 'NNP')"", ""('drive', 'NN')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('famous', 'JJ')"", ""('park', 'NN')"", ""('in', 'IN')"", ""('Mumbai', 'NNP')"", ""('.', '.')""]","[""('park', 'NN')""]"
+481,HIND4599114,Marine drive is a famous street in Mumbai.,2,"[""('Marine', 'NNP')"", ""('drive', 'NN')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('famous', 'JJ')"", ""('street', 'NN')"", ""('in', 'IN')"", ""('Mumbai', 'NNP')"", ""('.', '.')""]",[]
+482,HIND4599114,Marine drive is a famous hospital in Mumbai.,2,"[""('Marine', 'NNP')"", ""('drive', 'NN')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('famous', 'JJ')"", ""('hospital', 'NN')"", ""('in', 'IN')"", ""('Mumbai', 'NNP')"", ""('.', '.')""]","[""('hospital', 'NN')""]"
+483,HIND4599114,,2,[],[]
+484,HIND3423630,<default-male-name2>''s bag is heavy.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('heavy', 'JJ')"", ""('.', '.')""]",[]
+485,HIND3423630,<default-male-name2>''s bag am heavy.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('am', 'VBP')"", ""('heavy', 'JJ')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+486,HIND3423630,<default-male-name2>''s bag are heavy.,1,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('are', 'VBP')"", ""('heavy', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+487,HIND3423630,,1,[],[]
+488,HIND3634128,How many cars you have?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('cars', 'NNS')"", ""('you', 'PRP')"", ""('have', 'VBP')"", ""('?', '.')""]","[""('have', 'VBP')""]"
+489,HIND3634128,How many cars you has?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('cars', 'NNS')"", ""('you', 'PRP')"", ""('has', 'VBZ')"", ""('?', '.')""]","[""('has', 'VBZ')""]"
+490,HIND3634128,How many cars do you have?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('cars', 'NNS')"", ""('do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('?', '.')""]",[]
+491,HIND3634128,,3,[],[]
+492,HIND3411029,Excuse me! Is you a teacher?,3,"[""('Excuse', 'IN')"", ""('me', 'PRP')"", ""('!', '.')"", ""('Is', 'VBZ')"", ""('you', 'PRP')"", ""('a', 'DT')"", ""('teacher', 'NN')"", ""('?', '.')""]","[""('Is', 'VBZ')""]"
+493,HIND3411029,Excuse me! Am you a teacher?,3,"[""('Excuse', 'IN')"", ""('me', 'PRP')"", ""('!', '.')"", ""('Am', 'NNP')"", ""('you', 'PRP')"", ""('a', 'DT')"", ""('teacher', 'NN')"", ""('?', '.')""]","[""('Am', 'NNP')""]"
+494,HIND3411029,Excuse me! Are you a teacher?,3,"[""('Excuse', 'IN')"", ""('me', 'PRP')"", ""('!', '.')"", ""('Are', 'NNP')"", ""('you', 'PRP')"", ""('a', 'DT')"", ""('teacher', 'NN')"", ""('?', '.')""]",[]
+495,HIND3411029,Excuse me! Do you a teacher?,3,"[""('Excuse', 'IN')"", ""('me', 'PRP')"", ""('!', '.')"", ""('Do', 'VB')"", ""('you', 'PRP')"", ""('a', 'DT')"", ""('teacher', 'NN')"", ""('?', '.')""]","[""('Do', 'VB')""]"
+496,HIND3973267,<default-male-name> doesn''t has a dog.,2,"[""('John', 'NNP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('has', 'VBZ')"", ""('a', 'DT')"", ""('dog', 'NN')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+497,HIND3973267,<default-male-name> doesn''t have a dog.,2,"[""('John', 'NNP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('a', 'DT')"", ""('dog', 'NN')"", ""('.', '.')""]",[]
+498,HIND3973267,<default-male-name> don''t has a dog.,2,"[""('John', 'NNP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('has', 'VBZ')"", ""('a', 'DT')"", ""('dog', 'NN')"", ""('.', '.')""]","[""('has', 'VBZ')"", ""('do', 'VBP')""]"
+499,HIND3973267,<default-male-name> is not have a dog.,2,"[""('John', 'NNP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('dog', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')"", ""('not', 'RB')""]"
+500,HIND3535222,My brother and sister is smart.,2,"[""('My', 'PRP$')"", ""('brother', 'NN')"", ""('and', 'CC')"", ""('sister', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+501,HIND3535222,My brother and sister are smart.,2,"[""('My', 'PRP$')"", ""('brother', 'NN')"", ""('and', 'CC')"", ""('sister', 'NN')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+502,HIND3535222,My brother and sister am smart.,2,"[""('My', 'PRP$')"", ""('brother', 'NN')"", ""('and', 'CC')"", ""('sister', 'NN')"", ""('am', 'VBP')"", ""('smart', 'RB')"", ""('.', '.')""]","[""('am', 'VBP')"", ""('smart', 'RB')""]"
+503,HIND3535222,,2,[],[]
+504,HIND4186197,<default-male-name>''s bag is in the table.,3,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('table', 'NN')"", ""('.', '.')""]","[""('in', 'IN')""]"
+505,HIND4186197,<default-male-name>''s bag is at the table.,3,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('table', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+506,HIND4186197,<default-male-name>''s bag is on the table.,3,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('on', 'IN')"", ""('the', 'DT')"", ""('table', 'NN')"", ""('.', '.')""]",[]
+507,HIND4186197,,3,[],[]
+508,HIND3226147,She don't speak English.,2,"[""('She', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('do', 'VBP')""]"
+509,HIND3226147,She doesn't speak English.,2,"[""('She', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+510,HIND3226147,She is not speak English.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('is', 'VBZ')"", ""('not', 'RB')""]"
+511,HIND3226147,,2,[],[]
+512,HIND2906274,They are from America. They is Chinese.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('They', 'PRP')"", ""('is', 'VBZ')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')"", ""('Chinese', 'JJ')""]"
+513,HIND2906274,They are from America. They are American.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('They', 'PRP')"", ""('are', 'VBP')"", ""('American', 'JJ')"", ""('.', '.')""]",[]
+514,HIND2906274,They are from America. They are Indian.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('They', 'PRP')"", ""('are', 'VBP')"", ""('Indian', 'JJ')"", ""('.', '.')""]","[""('Indian', 'JJ')""]"
+515,HIND2906274,They are from America. They have American.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('They', 'PRP')"", ""('have', 'VBP')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('have', 'VBP')""]"
+516,HIND2918718,"She's is from England, she is British.",3,"[""('She', 'PRP')"", '(""\'s"", \'VBZ\')', ""('is', 'VBZ')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+517,HIND2918718,"She'm from England, she is British.",3,"[""('She', 'PRP')"", '(""\'m"", \'VBP\')', ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]","['(""\'m"", \'VBP\')']"
+518,HIND2918718,"She's from England, she is British.",3,"[""('She', 'PRP')"", '(""\'s"", \'VBZ\')', ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+519,HIND2918718,"She're from England, she is British.",3,"[""('She', 'PRP')"", '(""\'re"", \'VBP\')', ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]","['(""\'re"", \'VBP\')']"
+520,HIND4765552,Can I have a milk?,3,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('milk', 'NN')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('a', 'DT')""]"
+521,HIND4765552,Can I have few milk?,3,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VBP')"", ""('few', 'JJ')"", ""('milk', 'NN')"", ""('?', '.')""]","[""('few', 'JJ')"", ""('have', 'VBP')""]"
+522,HIND4765552,Can I have some milk?,3,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VB')"", ""('some', 'DT')"", ""('milk', 'NN')"", ""('?', '.')""]",[]
+523,HIND4765552,,3,[],[]
+524,HIND3867136,I hear with my hands.,3,"[""('I', 'PRP')"", ""('hear', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('hands', 'NNS')"", ""('.', '.')""]","[""('hear', 'VBP')""]"
+525,HIND3867136,I see with my hands.,3,"[""('I', 'PRP')"", ""('see', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('hands', 'NNS')"", ""('.', '.')""]","[""('see', 'VBP')""]"
+526,HIND3867136,I eat with my hands.,3,"[""('I', 'PRP')"", ""('eat', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('hands', 'NNS')"", ""('.', '.')""]",[]
+527,HIND3867136,,3,[],[]
+528,HIND2962773,They're not Chinese.,1,"[""('They', 'PRP')"", '(""\'re"", \'VBP\')', ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+529,HIND2962773,They're are not Chinese.,1,"[""('They', 'PRP')"", '(""\'re"", \'VBP\')', ""('are', 'VBP')"", ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+530,HIND2962773,They's not Chinese.,1,"[""('They', 'PRP')"", '(""\'s"", \'VBZ\')', ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","['(""\'s"", \'VBZ\')']"
+531,HIND2962773,They aren't not Chinese.,1,"[""('They', 'PRP')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('not', 'RB')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('are', 'VBP')""]"
+532,HIND4103463,I cook at the kitchen.,3,"[""('I', 'PRP')"", ""('cook', 'VBP')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('kitchen', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+533,HIND4103463,I cook on the kitchen.,3,"[""('I', 'PRP')"", ""('cook', 'VBP')"", ""('on', 'IN')"", ""('the', 'DT')"", ""('kitchen', 'NN')"", ""('.', '.')""]","[""('on', 'IN')""]"
+534,HIND4103463,I cook in the kitchen.,3,"[""('I', 'PRP')"", ""('cook', 'VBP')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('kitchen', 'NN')"", ""('.', '.')""]",[]
+535,HIND4103463,,3,[],[]
+536,HIND2867061,I am from a city in <state-name>.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')"", ""('.', '.')""]",[]
+537,HIND2867061,I am for a city in <state-name>.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('for', 'IN')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')"", ""('.', '.')""]","[""('for', 'IN')""]"
+538,HIND2867061,I am come from a city in <state-name>.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('come', 'VBN')"", ""('from', 'IN')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')"", ""('.', '.')""]","[""('come', 'VBN')""]"
+539,HIND2867061,I am belong to a city in <state-name>.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('belong', 'RB')"", ""('to', 'TO')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')"", ""('.', '.')""]","[""('to', 'TO')"", ""('belong', 'RB')""]"
+540,HIND2967252,My name isn''t <female-name2>.,1,"[""('My', 'PRP$')"", ""('name', 'NN')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('Sarah', 'NNP')"", ""('.', '.')""]",[]
+541,HIND2967252,My name is not is <female-name2>.,1,"[""('My', 'PRP$')"", ""('name', 'NN')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('is', 'VBZ')"", ""('Sarah', 'NNP')"", ""('.', '.')""]","[""('not', 'RB')""]"
+542,HIND2967252,My name isn''t not <female-name2>.,1,"[""('My', 'PRP$')"", ""('name', 'NN')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('not', 'RB')"", ""('Sarah', 'NNP')"", ""('.', '.')""]","[""('not', 'RB')""]"
+543,HIND2967252,,1,[],[]
+544,HIND3823736,My bag is a white.,3,"[""('My', 'PRP$')"", ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('white', 'JJ')"", ""('.', '.')""]","[""('a', 'DT')""]"
+545,HIND3823736,My bag is the white.,3,"[""('My', 'PRP$')"", ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('the', 'DT')"", ""('white', 'JJ')"", ""('.', '.')""]","[""('the', 'DT')""]"
+546,HIND3823736,My bag is white.,3,"[""('My', 'PRP$')"", ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('white', 'JJ')"", ""('.', '.')""]",[]
+547,HIND3823736,,3,[],[]
+548,HIND4816466,Those women am very pretty.,2,"[""('Those', 'DT')"", ""('women', 'NNS')"", ""('am', 'VBP')"", ""('very', 'RB')"", ""('pretty', 'RB')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+549,HIND4816466,Those women are very pretty.,2,"[""('Those', 'DT')"", ""('women', 'NNS')"", ""('are', 'VBP')"", ""('very', 'RB')"", ""('pretty', 'RB')"", ""('.', '.')""]",[]
+550,HIND4816466,Those women has very pretty.,2,"[""('Those', 'DT')"", ""('women', 'NNS')"", ""('has', 'VBZ')"", ""('very', 'RB')"", ""('pretty', 'RB')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+551,HIND4816466,Those women is very pretty.,2,"[""('Those', 'DT')"", ""('women', 'NNS')"", ""('is', 'VBZ')"", ""('very', 'RB')"", ""('pretty', 'RB')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+552,HIND3940944,Do you have a boy-friend?,1,"[""('Do', 'VBP')"", ""('you', 'PRP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('boy-friend', 'NN')"", ""('?', '.')""]",[]
+553,HIND3940944,Do you has a boy-friend?,1,"[""('Do', 'NNP')"", ""('you', 'PRP')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('boy-friend', 'NN')"", ""('?', '.')""]","[""('Do', 'NNP')"", ""('has', 'VBZ')""]"
+554,HIND3940944,Do you are have a boy-friend?,1,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('are', 'VBP')"", ""('have', 'VB')"", ""('a', 'DT')"", ""('boy-friend', 'NN')"", ""('?', '.')""]","[""('Do', 'VB')"", ""('are', 'VBP')""]"
+555,HIND3940944,,1,[],[]
+556,HIND4602479,There are many famous beaches in Delhi.,2,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('many', 'JJ')"", ""('famous', 'JJ')"", ""('beaches', 'NNS')"", ""('in', 'IN')"", ""('Delhi', 'NNP')"", ""('.', '.')""]","[""('beaches', 'NNS')""]"
+557,HIND4602479,There are many famous restaurants in Delhi.,2,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('many', 'JJ')"", ""('famous', 'JJ')"", ""('restaurants', 'NNS')"", ""('in', 'IN')"", ""('Delhi', 'NNP')"", ""('.', '.')""]",[]
+558,HIND4602479,There are many famous park in Delhi.,2,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('many', 'JJ')"", ""('famous', 'JJ')"", ""('park', 'NN')"", ""('in', 'IN')"", ""('Delhi', 'NNP')"", ""('.', '.')""]","[""('park', 'NN')""]"
+559,HIND4602479,,2,[],[]
+560,HIND3615323,How many bags are them ?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bags', 'NNS')"", ""('are', 'VBP')"", ""('them', 'PRP')"", ""('?', '.')""]","[""('them', 'PRP')""]"
+561,HIND3615323,How many bags are their ?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bags', 'NNS')"", ""('are', 'VBP')"", ""('their', 'PRP$')"", ""('?', '.')""]","[""('their', 'PRP$')""]"
+562,HIND3615323,How many bags are there ?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bags', 'NNS')"", ""('are', 'VBP')"", ""('there', 'RB')"", ""('?', '.')""]",[]
+563,HIND3615323,,3,[],[]
+564,HIND3142214,They speak English.,1,"[""('They', 'PRP')"", ""('speak', 'VBP')"", ""('English', 'JJ')"", ""('.', '.')""]",[]
+565,HIND3142214,They speaks English.,1,"[""('They', 'PRP')"", ""('speaks', 'VBP')"", ""('English', 'JJ')"", ""('.', '.')""]","[""('speaks', 'VBP')""]"
+566,HIND3142214,They are speak English.,1,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speak', 'JJ')"", ""('are', 'VBP')""]"
+567,HIND3142214,They are speaks English.,1,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('speaks', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speaks', 'JJ')"", ""('are', 'VBP')""]"
+568,HIND4846703,He has a apples.,3,"[""('He', 'PRP')"", ""('has', 'VBZ')"", ""('a', 'DT')"", ""('apples', 'NNS')"", ""('.', '.')""]","[""('a', 'DT')""]"
+569,HIND4846703,He has any apples.,3,"[""('He', 'PRP')"", ""('has', 'VBZ')"", ""('any', 'DT')"", ""('apples', 'NNS')"", ""('.', '.')""]","[""('any', 'DT')""]"
+570,HIND4846703,He has some apples.,3,"[""('He', 'PRP')"", ""('has', 'VBZ')"", ""('some', 'DT')"", ""('apples', 'NNS')"", ""('.', '.')""]",[]
+571,HIND4846703,,3,[],[]
+572,HIND2932196,We are not teachers.,1,"[""('We', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('teachers', 'NNS')"", ""('.', '.')""]",[]
+573,HIND2932196,We is not teachers.,1,"[""('We', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('teachers', 'NNS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+574,HIND2932196,We am not teachers.,1,"[""('We', 'PRP')"", ""('am', 'VBP')"", ""('not', 'RB')"", ""('teachers', 'NNS')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+575,HIND2932196,We are not a teachers.,1,"[""('We', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('a', 'DT')"", ""('teachers', 'NNS')"", ""('.', '.')""]","[""('a', 'DT')""]"
+576,HIND4857128,She doesn't have a ideas for the project.,2,"[""('She', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('a', 'DT')"", ""('ideas', 'NNS')"", ""('for', 'IN')"", ""('the', 'DT')"", ""('project', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+577,HIND4857128,She doesn't have any ideas for the project.,2,"[""('She', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('any', 'DT')"", ""('ideas', 'NNS')"", ""('for', 'IN')"", ""('the', 'DT')"", ""('project', 'NN')"", ""('.', '.')""]",[]
+578,HIND4857128,She doesn't have some ideas for the project.,2,"[""('She', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('have', 'VB')"", ""('some', 'DT')"", ""('ideas', 'NNS')"", ""('for', 'IN')"", ""('the', 'DT')"", ""('project', 'NN')"", ""('.', '.')""]","[""('some', 'DT')""]"
+579,HIND4857128,,2,[],[]
+580,HIND4219132,<default-male-name> is house is behind the airport.,3,"[""('John', 'NNP')"", ""('is', 'VBZ')"", ""('house', 'NN')"", ""('is', 'VBZ')"", ""('behind', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]",[]
+581,HIND4219132,<default-male-name> house is behind the airport.,3,"[""('John', 'NNP')"", ""('house', 'NN')"", ""('is', 'VBZ')"", ""('behind', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]",[]
+582,HIND4219132,<default-male-name>''s house is behind the airport.,3,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('house', 'NN')"", ""('is', 'VBZ')"", ""('behind', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]",[]
+583,HIND4219132,,3,[],[]
+584,HIND4547227,There isn't five rooms in this house.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('five', 'CD')"", ""('rooms', 'NNS')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('is', 'VBZ')""]"
+585,HIND4547227,There are five rooms in this house.,2,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('five', 'CD')"", ""('rooms', 'NNS')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]",[]
+586,HIND4547227,There is five rooms in this house.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('five', 'CD')"", ""('rooms', 'NNS')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+587,HIND4547227,,2,[],[]
+588,HIND2953467,<male-name2> is not from America. He not American.,2,"[""('John', 'NNP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('not', 'RB')"", ""('American', 'NNP')"", ""('.', '.')""]","[""('American', 'NNP')""]"
+589,HIND2953467,<male-name2> is not from America. He is not American.,2,"[""('John', 'NNP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('American', 'JJ')"", ""('.', '.')""]",[]
+590,HIND2953467,<male-name2> is not from America. He''s not is American.,2,"[""('John', 'NNP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", '(""\'s"", \'VBZ\')', ""('not', 'RB')"", ""('is', 'VBZ')"", ""('American', 'JJ')"", ""('.', '.')""]","['(""\'s"", \'VBZ\')']"
+591,HIND2953467,<male-name2> is not from America. He don''t American.,2,"[""('John', 'NNP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('America', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('American', 'NNP')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('do', 'VBP')"", ""('American', 'NNP')""]"
+592,HIND4216601,Japan is capital is Tokyo.,3,"[""('Japan', 'NNP')"", ""('is', 'VBZ')"", ""('capital', 'NN')"", ""('is', 'VBZ')"", ""('Tokyo', 'NNP')"", ""('.', '.')""]",[]
+593,HIND4216601,Japan of capital is Tokyo.,3,"[""('Japan', 'NNP')"", ""('of', 'IN')"", ""('capital', 'NN')"", ""('is', 'VBZ')"", ""('Tokyo', 'NNP')"", ""('.', '.')""]","[""('of', 'IN')""]"
+594,HIND4216601,Japan's capital is Tokyo.,3,"[""('Japan', 'NNP')"", '(""\'s"", \'POS\')', ""('capital', 'NN')"", ""('is', 'VBZ')"", ""('Tokyo', 'NNP')"", ""('.', '.')""]",[]
+595,HIND4216601,,3,[],[]
+596,HIND3570279,This is her sister.,1,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('her', 'PRP$')"", ""('sister', 'NN')"", ""('.', '.')""]",[]
+597,HIND3570279,This is hers sister.,1,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('hers', 'NNS')"", ""('sister', 'RBR')"", ""('.', '.')""]","[""('hers', 'NNS')"", ""('sister', 'RBR')""]"
+598,HIND3570279,This is she sister.,1,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('she', 'PRP')"", ""('sister', 'NN')"", ""('.', '.')""]","[""('she', 'PRP')""]"
+599,HIND3570279,,1,[],[]
+600,HIND3923032,I has two sons.,2,"[""('I', 'PRP')"", ""('has', 'VBZ')"", ""('two', 'CD')"", ""('sons', 'NNS')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+601,HIND3923032,I have two sons.,2,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('two', 'CD')"", ""('sons', 'NNS')"", ""('.', '.')""]",[]
+602,HIND3923032,I am have two sons.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('have', 'VBP')"", ""('two', 'CD')"", ""('sons', 'NNS')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+603,HIND3923032,,2,[],[]
+604,HIND4787804,Can I have a rice.,3,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VBP')"", ""('a', 'DT')"", ""('rice', 'NN')"", ""('.', '.')""]","[""('have', 'VBP')"", ""('a', 'DT')""]"
+605,HIND4787804,Can I have many rice.,3,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VBP')"", ""('many', 'JJ')"", ""('rice', 'NN')"", ""('.', '.')""]","[""('have', 'VBP')"", ""('many', 'JJ')""]"
+606,HIND4787804,Can I have some rice.,3,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VB')"", ""('some', 'DT')"", ""('rice', 'NN')"", ""('.', '.')""]",[]
+607,HIND4787804,Can I have few rice.,3,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VBP')"", ""('few', 'JJ')"", ""('rice', 'NN')"", ""('.', '.')""]","[""('few', 'JJ')"", ""('have', 'VBP')""]"
+608,HIND2846973,What's up?,1,"[""('What', 'WP')"", '(""\'s"", \'VBZ\')', ""('up', 'RP')"", ""('?', '.')""]",[]
+609,HIND2846973,What're up?,1,"[""('What', 'WP')"", '(""\'re"", \'VBP\')', ""('up', 'RP')"", ""('?', '.')""]","['(""\'re"", \'VBP\')']"
+610,HIND2846973,What up?,1,"[""('What', 'WP')"", ""('up', 'RP')"", ""('?', '.')""]",[]
+611,HIND2846973,How's up?,1,"[""('How', 'WRB')"", '(""\'s"", \'VBZ\')', ""('up', 'RP')"", ""('?', '.')""]","[""('How', 'WRB')""]"
+612,HIND4163976,She is sitting in the chair.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('sitting', 'VBG')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('chair', 'NN')"", ""('.', '.')""]","[""('in', 'IN')""]"
+613,HIND4163976,She is sitting at the chair.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('sitting', 'VBG')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('chair', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+614,HIND4163976,She is sitting on the chair.,3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('sitting', 'VBG')"", ""('on', 'IN')"", ""('the', 'DT')"", ""('chair', 'NN')"", ""('.', '.')""]",[]
+615,HIND4163976,,3,[],[]
+616,HIND3869273,I hear with my feet.,2,"[""('I', 'PRP')"", ""('hear', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('feet', 'NNS')"", ""('.', '.')""]","[""('hear', 'VBP')""]"
+617,HIND3869273,I walk with my feet.,2,"[""('I', 'PRP')"", ""('walk', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('feet', 'NNS')"", ""('.', '.')""]",[]
+618,HIND3869273,I see with my feet.,2,"[""('I', 'PRP')"", ""('see', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('feet', 'NNS')"", ""('.', '.')""]","[""('see', 'VBP')""]"
+619,HIND3869273,,2,[],[]
+620,HIND4215319,My father's bag is under the bed.,1,"[""('My', 'PRP$')"", ""('father', 'NN')"", '(""\'s"", \'POS\')', ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('under', 'IN')"", ""('the', 'DT')"", ""('bed', 'NN')"", ""('.', '.')""]",[]
+621,HIND4215319,My father is bag is under the bed.,1,"[""('My', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('bag', 'VBN')"", ""('is', 'VBZ')"", ""('under', 'IN')"", ""('the', 'DT')"", ""('bed', 'NN')"", ""('.', '.')""]","[""('bag', 'VBN')""]"
+622,HIND4215319,My father has bag is under the bed.,1,"[""('My', 'PRP$')"", ""('father', 'NN')"", ""('has', 'VBZ')"", ""('bag', 'VBN')"", ""('is', 'VBZ')"", ""('under', 'IN')"", ""('the', 'DT')"", ""('bed', 'NN')"", ""('.', '.')""]","[""('has', 'VBZ')"", ""('bag', 'VBN')""]"
+623,HIND4215319,,1,[],[]
+624,HIND3663335,There are threeteen cars at the airport.,3,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('threeteen', 'JJ')"", ""('cars', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]","[""('threeteen', 'JJ')""]"
+625,HIND3663335,There are one cars at the airport.,3,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('one', 'CD')"", ""('cars', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]","[""('one', 'CD')""]"
+626,HIND3663335,There are thirteen cars at the airport.,3,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('thirteen', 'JJ')"", ""('cars', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]",[]
+627,HIND3663335,,3,[],[]
+628,HIND3787519,Your father is a smart.,2,"[""('Your', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('smart', 'NN')"", ""('.', '.')""]","[""('smart', 'NN')"", ""('a', 'DT')""]"
+629,HIND3787519,Your father is smart.,2,"[""('Your', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+630,HIND3787519,Your father is smarty.,2,"[""('Your', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('smarty', 'JJ')"", ""('.', '.')""]","[""('smarty', 'JJ')""]"
+631,HIND3787519,,2,[],[]
+632,HIND4675838,Can I has some milk please?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('has', 'VBZ')"", ""('some', 'DT')"", ""('milk', 'NN')"", ""('please', 'VB')"", ""('?', '.')""]","[""('has', 'VBZ')""]"
+633,HIND4675838,Can I have some milk please?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('have', 'VB')"", ""('some', 'DT')"", ""('milk', 'NN')"", ""('please', 'VB')"", ""('?', '.')""]",[]
+634,HIND4675838,Can I am have some milk please?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('have', 'VBP')"", ""('some', 'DT')"", ""('milk', 'NN')"", ""('please', 'VB')"", ""('?', '.')""]","[""('have', 'VBP')"", ""('am', 'VBP')""]"
+635,HIND4675838,Can I having some milk please?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('having', 'VBG')"", ""('some', 'DT')"", ""('milk', 'NN')"", ""('please', 'VB')"", ""('?', '.')""]","[""('having', 'VBG')""]"
+636,HIND4444506,London has noisy neighborhoods.,1,"[""('London', 'NNP')"", ""('has', 'VBZ')"", ""('noisy', 'VBN')"", ""('neighborhoods', 'NNS')"", ""('.', '.')""]",[]
+637,HIND4444506,London has noise neighborhoods.,1,"[""('London', 'NNP')"", ""('has', 'VBZ')"", ""('noise', 'VBN')"", ""('neighborhoods', 'NNS')"", ""('.', '.')""]","[""('noise', 'VBN')""]"
+638,HIND4444506,London has noisely neighborhoods.,1,"[""('London', 'NNP')"", ""('has', 'VBZ')"", ""('noisely', 'RB')"", ""('neighborhoods', 'NNS')"", ""('.', '.')""]","[""('noisely', 'RB')""]"
+639,HIND4444506,London has is noisy neighborhoods.,1,"[""('London', 'NNP')"", ""('has', 'VBZ')"", ""('is', 'VBZ')"", ""('noisy', 'VBN')"", ""('neighborhoods', 'NNS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+640,HIND3259172,They are not my friends.,1,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('my', 'PRP$')"", ""('friends', 'NNS')"", ""('.', '.')""]",[]
+641,HIND3259172,They do not my friends.,1,"[""('They', 'PRP')"", ""('do', 'VBP')"", ""('not', 'RB')"", ""('my', 'PRP$')"", ""('friends', 'NNS')"", ""('.', '.')""]","[""('do', 'VBP')""]"
+642,HIND3259172,They is not my friends.,1,"[""('They', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('my', 'PRP$')"", ""('friends', 'NNS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+643,HIND3259172,,1,[],[]
+644,HIND2981978,Is you <male-name2>?,3,"[""('Is', 'VBZ')"", ""('you', 'PRP')"", ""('John', 'NNP')"", ""('?', '.')""]","[""('Is', 'VBZ')""]"
+645,HIND2981978,Are you the <male-name2>?,3,"[""('Are', 'NNP')"", ""('you', 'PRP')"", ""('the', 'DT')"", ""('John', 'NNP')"", ""('?', '.')""]","[""('the', 'DT')""]"
+646,HIND2981978,Are you <male-name2>?,3,"[""('Are', 'NNP')"", ""('you', 'PRP')"", ""('John', 'NNP')"", ""('?', '.')""]",[]
+647,HIND2981978,Do you <male-name2>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('John', 'NNP')"", ""('?', '.')""]","[""('Do', 'VB')""]"
+648,HIND3081674,Me speak <language-name3>.,2,"[""('Me', 'NNP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speak', 'JJ')"", ""('Me', 'NNP')""]"
+649,HIND3081674,I speak <language-name3>.,2,"[""('I', 'PRP')"", ""('speak', 'VBP')"", ""('English', 'JJ')"", ""('.', '.')""]",[]
+650,HIND3081674,I am speak <language-name3>.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speak', 'JJ')"", ""('am', 'VBP')""]"
+651,HIND3081674,I does speak <language-name3>.,2,"[""('I', 'PRP')"", ""('does', 'VBZ')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speak', 'JJ')"", ""('does', 'VBZ')""]"
+652,HIND3597681,Her husband is smart.,1,"[""('Her', 'PRP$')"", ""('husband', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+653,HIND3597681,His husband is smart.,1,"[""('His', 'PRP$')"", ""('husband', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('His', 'PRP$')""]"
+654,HIND3597681,She husband is smart.,1,"[""('She', 'PRP')"", ""('husband', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('She', 'PRP')""]"
+655,HIND3597681,,1,[],[]
+656,HIND3115349,I speaks a little <language-name2>.,2,"[""('I', 'PRP')"", ""('speaks', 'VBP')"", ""('a', 'DT')"", ""('little', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speaks', 'VBP')""]"
+657,HIND3115349,I speak a little <language-name2>.,2,"[""('I', 'PRP')"", ""('speak', 'VBP')"", ""('a', 'DT')"", ""('little', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+658,HIND3115349,I am speaking a little <language-name2>.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('speaking', 'VBG')"", ""('a', 'DT')"", ""('little', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speaking', 'VBG')"", ""('am', 'VBP')""]"
+659,HIND3115349,I am speak a little <language-name2>.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('speak', 'VB')"", ""('a', 'DT')"", ""('little', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'VB')"", ""('am', 'VBP')""]"
+660,HIND4814628,am Hindi easy?,4,"[""('am', 'VBP')"", ""('Hindi', 'NNP')"", ""('easy', 'NN')"", ""('?', '.')""]","[""('easy', 'NN')"", ""('am', 'VBP')""]"
+661,HIND4814628,are Hindi easy?,4,"[""('are', 'VBP')"", ""('Hindi', 'NNP')"", ""('easy', 'JJ')"", ""('?', '.')""]","[""('are', 'VBP')""]"
+662,HIND4814628,has Hindi easy?,4,"[""('has', 'VBZ')"", ""('Hindi', 'VBN')"", ""('easy', 'JJ')"", ""('?', '.')""]","[""('has', 'VBZ')"", ""('Hindi', 'VBN')""]"
+663,HIND4814628,is Hindi easy?,4,"[""('is', 'VBZ')"", ""('Hindi', 'NNP')"", ""('easy', 'JJ')"", ""('?', '.')""]",[]
+664,HIND4536122,There is a bookstore near my house.,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('bookstore', 'NN')"", ""('near', 'IN')"", ""('my', 'PRP$')"", ""('house', 'NN')"", ""('.', '.')""]",[]
+665,HIND4536122,There are a bookstore near my house.,1,"[""('There', 'EX')"", ""('are', 'VBP')"", ""('a', 'DT')"", ""('bookstore', 'NN')"", ""('near', 'IN')"", ""('my', 'PRP$')"", ""('house', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+666,HIND4536122,Is a bookstore near my house.,1,"[""('Is', 'VBZ')"", ""('a', 'DT')"", ""('bookstore', 'NN')"", ""('near', 'IN')"", ""('my', 'PRP$')"", ""('house', 'NN')"", ""('.', '.')""]","[""('Is', 'VBZ')""]"
+667,HIND4536122,,1,[],[]
+668,HIND4264130,Where do Mr. and Mrs. <default-female-surname> live?,1,"[""('Where', 'WRB')"", ""('do', 'VB')"", ""('Mr.', 'NNP')"", ""('and', 'CC')"", ""('Mrs.', 'NNP')"", ""('Khan', 'NNP')"", ""('live', 'VB')"", ""('?', '.')""]",[]
+669,HIND4264130,Where do Mr. and Mrs. <default-female-surname> lives?,1,"[""('Where', 'WRB')"", ""('do', 'VB')"", ""('Mr.', 'NNP')"", ""('and', 'CC')"", ""('Mrs.', 'NNP')"", ""('Khan', 'NNP')"", ""('lives', 'VBZ')"", ""('?', '.')""]","[""('lives', 'VBZ')""]"
+670,HIND4264130,Where do Mr. and Mrs. <default-female-surname> living?,1,"[""('Where', 'WRB')"", ""('do', 'VB')"", ""('Mr.', 'NNP')"", ""('and', 'CC')"", ""('Mrs.', 'NNP')"", ""('Khan', 'NNP')"", ""('living', 'NN')"", ""('?', '.')""]","[""('living', 'NN')""]"
+671,HIND4264130,,1,[],[]
+672,HIND3891789,I hear with my nose.,2,"[""('I', 'PRP')"", ""('hear', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('nose', 'NN')"", ""('.', '.')""]","[""('hear', 'VBP')""]"
+673,HIND3891789,I smell with my nose.,2,"[""('I', 'PRP')"", ""('smell', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('nose', 'NN')"", ""('.', '.')""]",[]
+674,HIND3891789,I see with my nose.,2,"[""('I', 'PRP')"", ""('see', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('nose', 'NN')"", ""('.', '.')""]","[""('see', 'VBP')""]"
+675,HIND3891789,,2,[],[]
+676,HIND3236414,I don't eats bread.,3,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('eats', 'VB')"", ""('bread', 'NN')"", ""('.', '.')""]","[""('eats', 'VB')""]"
+677,HIND3236414,I don't drinks bread.,3,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('drinks', 'VB')"", ""('bread', 'NN')"", ""('.', '.')""]","[""('drinks', 'VB')""]"
+678,HIND3236414,I don't eat bread.,3,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('eat', 'VB')"", ""('bread', 'NN')"", ""('.', '.')""]",[]
+679,HIND3236414,,3,[],[]
+680,HIND3388128,Turn the door.,2,"[""('Turn', 'VB')"", ""('the', 'DT')"", ""('door', 'NN')"", ""('.', '.')""]","[""('Turn', 'VB')""]"
+681,HIND3388128,Close the door.,2,"[""('Close', 'RB')"", ""('the', 'DT')"", ""('door', 'NN')"", ""('.', '.')""]",[]
+682,HIND3388128,Turn off the door.,2,"[""('Turn', 'VB')"", ""('off', 'RP')"", ""('the', 'DT')"", ""('door', 'NN')"", ""('.', '.')""]","[""('Turn', 'VB')"", ""('off', 'RP')""]"
+683,HIND3388128,,2,[],[]
+684,HIND3080217,I speak <language-name2>.,1,"[""('I', 'PRP')"", ""('speak', 'VBP')"", ""('English', 'JJ')"", ""('.', '.')""]",[]
+685,HIND3080217,I speaks <language-name2>.,1,"[""('I', 'PRP')"", ""('speaks', 'VBP')"", ""('English', 'JJ')"", ""('.', '.')""]","[""('speaks', 'VBP')""]"
+686,HIND3080217,I am speak <language-name2>.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speak', 'JJ')"", ""('am', 'VBP')""]"
+687,HIND3080217,I speaking <language-name2>.,1,"[""('I', 'PRP')"", ""('speaking', 'VBG')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('English', 'NNP')"", ""('speaking', 'VBG')""]"
+688,HIND3608529,How many car.,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('car', 'NN')"", ""('.', '.')""]","[""('car', 'NN')""]"
+689,HIND3608529,How many is cars.,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('is', 'VBZ')"", ""('cars', 'NNS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+690,HIND3608529,How many cars.,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('cars', 'NNS')"", ""('.', '.')""]",[]
+691,HIND3608529,,3,[],[]
+692,HIND4193568,<default-male-name3>''s house is under the airport.,3,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('house', 'NN')"", ""('is', 'VBZ')"", ""('under', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]","[""('under', 'IN')""]"
+693,HIND4193568,<default-male-name3>''s house is on the airport.,3,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('house', 'NN')"", ""('is', 'VBZ')"", ""('on', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]","[""('on', 'IN')""]"
+694,HIND4193568,<default-male-name3>''s house is behind the airport.,3,"[""('John', 'NNP')"", '(""\'s"", \'POS\')', ""('house', 'NN')"", ""('is', 'VBZ')"", ""('behind', 'IN')"", ""('the', 'DT')"", ""('airport', 'NN')"", ""('.', '.')""]",[]
+695,HIND4193568,,3,[],[]
+696,HIND4678601,"I would like a red roses, please.",4,"[""('I', 'PRP')"", ""('would', 'MD')"", ""('like', 'VB')"", ""('a', 'DT')"", ""('red', 'JJ')"", ""('roses', 'NNS')"", ""(',', ',')"", ""('please', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+697,HIND4678601,"I would like little red roses, please.",4,"[""('I', 'PRP')"", ""('would', 'MD')"", ""('like', 'VB')"", ""('little', 'JJ')"", ""('red', 'JJ')"", ""('roses', 'NNS')"", ""(',', ',')"", ""('please', 'NN')"", ""('.', '.')""]","[""('little', 'JJ')""]"
+698,HIND4678601,"I would like am red roses, please.",4,"[""('I', 'PRP')"", ""('would', 'MD')"", ""('like', 'VB')"", ""('am', 'VBP')"", ""('red', 'JJ')"", ""('roses', 'NNS')"", ""(',', ',')"", ""('please', 'NN')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+699,HIND4678601,"I would like some red roses, please.",4,"[""('I', 'PRP')"", ""('would', 'MD')"", ""('like', 'VB')"", ""('some', 'DT')"", ""('red', 'JJ')"", ""('roses', 'NNS')"", ""(',', ',')"", ""('please', 'NN')"", ""('.', '.')""]",[]
+700,HIND4806419,The news are good today.,2,"[""('The', 'DT')"", ""('news', 'NN')"", ""('are', 'VBP')"", ""('good', 'JJ')"", ""('today', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+701,HIND4806419,The news is good today.,2,"[""('The', 'DT')"", ""('news', 'NN')"", ""('is', 'VBZ')"", ""('good', 'JJ')"", ""('today', 'NN')"", ""('.', '.')""]",[]
+702,HIND4806419,,2,[],[]
+703,HIND4806419,,2,[],[]
+704,HIND4623619,I buy clothes at a mall.,1,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('clothes', 'NNS')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('mall', 'NN')"", ""('.', '.')""]",[]
+705,HIND4623619,I buy clothes at a book store.,1,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('clothes', 'NNS')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('book', 'NN')"", ""('store', 'NN')"", ""('.', '.')""]","[""('store', 'NN')"", ""('book', 'NN')""]"
+706,HIND4623619,I buy clothes at a grocery store.,1,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('clothes', 'NNS')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('grocery', 'NN')"", ""('store', 'NN')"", ""('.', '.')""]","[""('store', 'NN')"", ""('grocery', 'NN')""]"
+707,HIND4623619,I buy clothes at a fish market.,1,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('clothes', 'NNS')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('fish', 'JJ')"", ""('market', 'NN')"", ""('.', '.')""]","[""('fish', 'JJ')"", ""('market', 'NN')""]"
+708,HIND4162314,I sleep in my bed.,3,"[""('I', 'PRP')"", ""('sleep', 'VBP')"", ""('in', 'IN')"", ""('my', 'PRP$')"", ""('bed', 'NN')"", ""('.', '.')""]","[""('in', 'IN')""]"
+709,HIND4162314,I sleep at my bed.,3,"[""('I', 'PRP')"", ""('sleep', 'VBP')"", ""('at', 'IN')"", ""('my', 'PRP$')"", ""('bed', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+710,HIND4162314,I sleep on my bed.,3,"[""('I', 'PRP')"", ""('sleep', 'VBP')"", ""('on', 'IN')"", ""('my', 'PRP$')"", ""('bed', 'NN')"", ""('.', '.')""]",[]
+711,HIND4162314,,3,[],[]
+712,HIND4774666,How much sugar is there in the cup?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('sugar', 'NN')"", ""('is', 'VBZ')"", ""('there', 'RB')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('cup', 'NN')"", ""('?', '.')""]",[]
+713,HIND4774666,How much sugars is there in the cup?,1,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('sugars', 'NNS')"", ""('is', 'VBZ')"", ""('there', 'RB')"", ""('in', 'IN')"", ""('the', 'DT')"", ""('cup', 'NN')"", ""('?', '.')""]","[""('sugars', 'NNS')""]"
+714,HIND4774666,,1,[],[]
+715,HIND4774666,,1,[],[]
+716,HIND4716214,How much oranges?,2,"[""('How', 'WRB')"", ""('much', 'JJ')"", ""('oranges', 'NNS')"", ""('?', '.')""]","[""('much', 'JJ')""]"
+717,HIND4716214,How many oranges?,2,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('oranges', 'NNS')"", ""('?', '.')""]",[]
+718,HIND4716214,,2,[],[]
+719,HIND4716214,,2,[],[]
+720,HIND3613882,How many bags is there?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bags', 'NNS')"", ""('is', 'VBZ')"", ""('there', 'RB')"", ""('?', '.')""]","[""('is', 'VBZ')""]"
+721,HIND3613882,How many bags has there?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bags', 'NNS')"", ""('has', 'VBZ')"", ""('there', 'RB')"", ""('?', '.')""]","[""('has', 'VBZ')""]"
+722,HIND3613882,How many bags are there?,3,"[""('How', 'WRB')"", ""('many', 'JJ')"", ""('bags', 'NNS')"", ""('are', 'VBP')"", ""('there', 'RB')"", ""('?', '.')""]",[]
+723,HIND3613882,,3,[],[]
+724,HIND2955982,"She is not from England, she is British not.",3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('not', 'RB')"", ""('.', '.')""]",[]
+725,HIND2955982,"She is not from England, she are not British.",3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+726,HIND2955982,"She is not from England, she is not British.",3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+727,HIND2955982,"She is not from England, she am not British.",3,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('England', 'NNP')"", ""(',', ',')"", ""('she', 'PRP')"", ""('am', 'VBP')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+728,HIND4766888,I drink milk.,1,"[""('I', 'PRP')"", ""('drink', 'VBP')"", ""('milk', 'NN')"", ""('.', '.')""]",[]
+729,HIND4766888,I drink milks.,1,"[""('I', 'PRP')"", ""('drink', 'VBP')"", ""('milks', 'NNS')"", ""('.', '.')""]","[""('milks', 'NNS')""]"
+730,HIND4766888,I drink a milk.,1,"[""('I', 'PRP')"", ""('drink', 'VBP')"", ""('a', 'DT')"", ""('milk', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+731,HIND4766888,,1,[],[]
+732,HIND4810214,The water are very hot.,2,"[""('The', 'DT')"", ""('water', 'NN')"", ""('are', 'VBP')"", ""('very', 'RB')"", ""('hot', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+733,HIND4810214,The water is very hot.,2,"[""('The', 'DT')"", ""('water', 'NN')"", ""('is', 'VBZ')"", ""('very', 'RB')"", ""('hot', 'JJ')"", ""('.', '.')""]",[]
+734,HIND4810214,The water has very hot.,2,"[""('The', 'DT')"", ""('water', 'NN')"", ""('has', 'VBZ')"", ""('very', 'RB')"", ""('hot', 'JJ')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+735,HIND4810214,The water have very hot.,2,"[""('The', 'DT')"", ""('water', 'NN')"", ""('have', 'VBP')"", ""('very', 'RB')"", ""('hot', 'JJ')"", ""('.', '.')""]","[""('have', 'VBP')""]"
+736,HIND4113604,There is one kitchen at this house.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('one', 'CD')"", ""('kitchen', 'NN')"", ""('at', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+737,HIND4113604,There is one kitchen in this house.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('one', 'CD')"", ""('kitchen', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]",[]
+738,HIND4113604,There is one kitchen on this house.,2,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('one', 'CD')"", ""('kitchen', 'NN')"", ""('on', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]","[""('on', 'IN')""]"
+739,HIND4113604,,2,[],[]
+740,HIND3215026,They don't speak English.,1,"[""('They', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+741,HIND3215026,They doesn't speak English.,1,"[""('They', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('does', 'VBZ')""]"
+742,HIND3215026,They are not speak English.,1,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('not', 'RB')"", ""('are', 'VBP')""]"
+743,HIND3215026,,1,[],[]
+744,HIND3806388,My bag is very big.,1,"[""('My', 'PRP$')"", ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('very', 'RB')"", ""('big', 'JJ')"", ""('.', '.')""]",[]
+745,HIND3806388,My bag is a very big.,1,"[""('My', 'PRP$')"", ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('very', 'RB')"", ""('big', 'JJ')"", ""('.', '.')""]","[""('a', 'DT')""]"
+746,HIND3806388,My bag is big very.,1,"[""('My', 'PRP$')"", ""('bag', 'NN')"", ""('is', 'VBZ')"", ""('big', 'JJ')"", ""('very', 'RB')"", ""('.', '.')""]",[]
+747,HIND3806388,,1,[],[]
+748,HIND4650140,My mother buys milk at a florist.,3,"[""('My', 'PRP$')"", ""('mother', 'NN')"", ""('buys', 'VBZ')"", ""('milk', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('florist', 'NN')"", ""('.', '.')""]","[""('florist', 'NN')""]"
+749,HIND4650140,My mother buys milk at a butcher''s shop.,3,"[""('My', 'PRP$')"", ""('mother', 'NN')"", ""('buys', 'VBZ')"", ""('milk', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('butcher', 'NN')"", '(""\'s"", \'POS\')', ""('shop', 'NN')"", ""('.', '.')""]","['(""\'s"", \'POS\')', ""('shop', 'NN')"", ""('butcher', 'NN')""]"
+750,HIND4650140,My mother buys milk at a dairy.,3,"[""('My', 'PRP$')"", ""('mother', 'NN')"", ""('buys', 'VBZ')"", ""('milk', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('dairy', 'NN')"", ""('.', '.')""]",[]
+751,HIND4650140,My mother buys milk at a fish market.,3,"[""('My', 'PRP$')"", ""('mother', 'NN')"", ""('buys', 'VBZ')"", ""('milk', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('fish', 'JJ')"", ""('market', 'NN')"", ""('.', '.')""]","[""('fish', 'JJ')"", ""('market', 'NN')""]"
+752,HIND3738514,She is many pretty.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('many', 'JJ')"", ""('pretty', 'RB')"", ""('.', '.')""]","[""('many', 'JJ')""]"
+753,HIND3738514,She is very pretty.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('very', 'RB')"", ""('pretty', 'RB')"", ""('.', '.')""]",[]
+754,HIND3738514,She is a lot pretty.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('a', 'DT')"", ""('lot', 'NN')"", ""('pretty', 'RB')"", ""('.', '.')""]","[""('lot', 'NN')"", ""('a', 'DT')""]"
+755,HIND3738514,She is too pretty.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('too', 'RB')"", ""('pretty', 'RB')"", ""('.', '.')""]","[""('too', 'RB')""]"
+756,HIND2930320,I is not a student.,2,"[""('I', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+757,HIND2930320,I am not a student.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('not', 'RB')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('.', '.')""]",[]
+758,HIND2930320,I are not a student.,2,"[""('I', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+759,HIND2930320,I don't a student.,2,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('a', 'DT')"", ""('student', 'NN')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('do', 'VBP')""]"
+760,HIND4259070,Where do she live?,2,"[""('Where', 'WRB')"", ""('do', 'VB')"", ""('she', 'PRP')"", ""('live', 'VB')"", ""('?', '.')""]","[""('do', 'VB')""]"
+761,HIND4259070,Where does she live?,2,"[""('Where', 'WRB')"", ""('does', 'VBZ')"", ""('she', 'PRP')"", ""('live', 'VB')"", ""('?', '.')""]",[]
+762,HIND4259070,Where is she live?,2,"[""('Where', 'WRB')"", ""('is', 'VBZ')"", ""('she', 'PRP')"", ""('live', 'JJ')"", ""('?', '.')""]","[""('is', 'VBZ')"", ""('live', 'JJ')""]"
+763,HIND4259070,,2,[],[]
+764,HIND4769656,I want some waters.,2,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('some', 'DT')"", ""('waters', 'NNS')"", ""('.', '.')""]","[""('waters', 'NNS')""]"
+765,HIND4769656,I want some water.,2,"[""('I', 'PRP')"", ""('want', 'VBP')"", ""('some', 'DT')"", ""('water', 'NN')"", ""('.', '.')""]",[]
+766,HIND4769656,,2,[],[]
+767,HIND4769656,,2,[],[]
+768,HIND4635115,I buy chips at the book store.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('chips', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('book', 'NN')"", ""('store', 'NN')"", ""('.', '.')""]","[""('book', 'NN')""]"
+769,HIND4635115,I buy chips at the shoe store.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('chips', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('shoe', 'NN')"", ""('store', 'NN')"", ""('.', '.')""]","[""('shoe', 'NN')""]"
+770,HIND4635115,I buy chips at the temple.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('chips', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('temple', 'NN')"", ""('.', '.')""]","[""('temple', 'NN')""]"
+771,HIND4635115,I buy chips at the grocery store.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('chips', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('grocery', 'NN')"", ""('store', 'NN')"", ""('.', '.')""]",[]
+772,HIND3239032,They don't drink water.,1,"[""('They', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('drink', 'VB')"", ""('water', 'NN')"", ""('.', '.')""]",[]
+773,HIND3239032,They don't drinks water.,1,"[""('They', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('drinks', 'VB')"", ""('water', 'NN')"", ""('.', '.')""]","[""('drinks', 'VB')""]"
+774,HIND3239032,They don't are drink water.,1,"[""('They', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('are', 'VBP')"", ""('drink', 'JJ')"", ""('water', 'NN')"", ""('.', '.')""]","[""('drink', 'JJ')"", ""('are', 'VBP')""]"
+775,HIND3239032,,1,[],[]
+776,HIND2887669,We are <country-nationality>.,1,"[""('We', 'PRP')"", ""('are', 'VBP')"", ""('Indians', 'NNPS')"", ""('.', '.')""]",[]
+777,HIND2887669,We is <country-nationality>.,1,"[""('We', 'PRP')"", ""('is', 'VBZ')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+778,HIND2887669,We am <country-nationality>.,1,"[""('We', 'PRP')"", ""('am', 'VBP')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+779,HIND2887669,We have <country-nationality>.,1,"[""('We', 'PRP')"", ""('have', 'VBP')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('have', 'VBP')""]"
+780,HIND4633341,I buy vegetables at the shoe store.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('vegetables', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('shoe', 'NN')"", ""('store', 'NN')"", ""('.', '.')""]","[""('shoe', 'NN')"", ""('store', 'NN')""]"
+781,HIND4633341,I buy vegetables at the book store.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('vegetables', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('book', 'NN')"", ""('store', 'NN')"", ""('.', '.')""]","[""('store', 'NN')"", ""('book', 'NN')""]"
+782,HIND4633341,I buy vegetables at the school.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('vegetables', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('school', 'NN')"", ""('.', '.')""]","[""('school', 'NN')""]"
+783,HIND4633341,I buy vegetables at the vegetable market.,4,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('vegetables', 'NNS')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('vegetable', 'JJ')"", ""('market', 'NN')"", ""('.', '.')""]",[]
+784,HIND3381229,Turn off a music.,3,"[""('Turn', 'NNP')"", ""('off', 'RP')"", ""('a', 'DT')"", ""('music', 'NN')"", ""('.', '.')""]","[""('Turn', 'NNP')"", ""('a', 'DT')""]"
+785,HIND3381229,Turn off an music.,3,"[""('Turn', 'NNP')"", ""('off', 'RP')"", ""('an', 'DT')"", ""('music', 'NN')"", ""('.', '.')""]","[""('Turn', 'NNP')"", ""('an', 'DT')""]"
+786,HIND3381229,Turn off the music.,3,"[""('Turn', 'VB')"", ""('off', 'RP')"", ""('the', 'DT')"", ""('music', 'NN')"", ""('.', '.')""]",[]
+787,HIND3381229,Turn off to the music.,3,"[""('Turn', 'VB')"", ""('off', 'RP')"", ""('to', 'TO')"", ""('the', 'DT')"", ""('music', 'NN')"", ""('.', '.')""]","[""('to', 'TO')""]"
+788,HIND4641984,I buy medicine at a fish market.,3,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('medicine', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('fish', 'JJ')"", ""('market', 'NN')"", ""('.', '.')""]","[""('fish', 'JJ')"", ""('market', 'NN')""]"
+789,HIND4641984,I buy medicine at a bookstore.,3,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('medicine', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('bookstore', 'NN')"", ""('.', '.')""]","[""('bookstore', 'NN')""]"
+790,HIND4641984,I buy medicine at a medical store.,3,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('medicine', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('medical', 'JJ')"", ""('store', 'NN')"", ""('.', '.')""]",[]
+791,HIND4641984,I buy medicine at a university.,3,"[""('I', 'PRP')"", ""('buy', 'VBP')"", ""('medicine', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('university', 'NN')"", ""('.', '.')""]","[""('university', 'NN')""]"
+792,HIND3732179,They is smart.,2,"[""('They', 'PRP')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+793,HIND3732179,They are smart.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+794,HIND3732179,They have smart.,2,"[""('They', 'PRP')"", ""('have', 'VBP')"", ""('smart', 'VBN')"", ""('.', '.')""]","[""('have', 'VBP')"", ""('smart', 'VBN')""]"
+795,HIND3732179,They are a smart.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('a', 'DT')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('a', 'DT')""]"
+796,HIND2897118,He is British.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+797,HIND2897118,He does British.,1,"[""('He', 'PRP')"", ""('does', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('does', 'VBZ')""]"
+798,HIND2897118,He are British.,1,"[""('He', 'PRP')"", ""('are', 'VBP')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+799,HIND2897118,He is the British.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('the', 'DT')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('the', 'DT')""]"
+800,HIND3434034,"No, She is my grand-daughter!",1,"[""('No', 'DT')"", ""(',', ',')"", ""('She', 'PRP')"", ""('is', 'VBZ')"", ""('my', 'PRP$')"", ""('grand-daughter', 'NN')"", ""('!', '.')""]",[]
+801,HIND3434034,"No, She am my grand-daughter!",1,"[""('No', 'DT')"", ""(',', ',')"", ""('She', 'PRP')"", ""('am', 'VBP')"", ""('my', 'PRP$')"", ""('grand-daughter', 'NN')"", ""('!', '.')""]","[""('am', 'VBP')""]"
+802,HIND3434034,"No, She are my grand-daughter!",1,"[""('No', 'DT')"", ""(',', ',')"", ""('She', 'PRP')"", ""('are', 'VBP')"", ""('my', 'PRP$')"", ""('grand-daughter', 'NN')"", ""('!', '.')""]","[""('are', 'VBP')""]"
+803,HIND3434034,,1,[],[]
+804,HIND2940306,She am not <female-name2>.,2,"[""('She', 'PRP')"", ""('am', 'VBP')"", ""('not', 'RB')"", ""('Sarah', 'NNP')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+805,HIND2940306,She is not <female-name2>.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('Sarah', 'NNP')"", ""('.', '.')""]",[]
+806,HIND2940306,She not is <female-name2>.,2,"[""('She', 'PRP')"", ""('not', 'RB')"", ""('is', 'VBZ')"", ""('Sarah', 'NNP')"", ""('.', '.')""]",[]
+807,HIND2940306,She is not the <female-name2>.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('the', 'DT')"", ""('Sarah', 'NNP')"", ""('.', '.')""]","[""('the', 'DT')""]"
+808,HIND3216707,We don't speaks English.,3,"[""('We', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('speaks', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speaks', 'VB')""]"
+809,HIND3216707,We don't are speak English.,3,"[""('We', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('are', 'VBP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('are', 'VBP')""]"
+810,HIND3216707,We don't speak English.,3,"[""('We', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+811,HIND3216707,,3,[],[]
+812,HIND2959977,He is not from France. He're not French,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", '(""\'re"", \'VBP\')', ""('not', 'RB')"", ""('French', 'JJ')""]","['(""\'re"", \'VBP\')']"
+813,HIND2959977,He is not from France. He's isn't French,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", '(""\'s"", \'VBZ\')', ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('French', 'JJ')""]","['(""n\'t"", \'RB\')']"
+814,HIND2959977,He is not from France. He's not French,3,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('France', 'NNP')"", ""('.', '.')"", ""('He', 'PRP')"", '(""\'s"", \'VBZ\')', ""('not', 'RB')"", ""('French', 'JJ')""]",[]
+815,HIND2959977,,3,[],[]
+816,HIND4297844,You are an engineer. You works at a factory.,2,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('an', 'DT')"", ""('engineer', 'NN')"", ""('.', '.')"", ""('You', 'PRP')"", ""('works', 'VBZ')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('factory', 'NN')"", ""('.', '.')""]","[""('works', 'VBZ')""]"
+817,HIND4297844,You are an engineer. You work at a factory.,2,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('an', 'DT')"", ""('engineer', 'NN')"", ""('.', '.')"", ""('You', 'PRP')"", ""('work', 'VBP')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('factory', 'NN')"", ""('.', '.')""]",[]
+818,HIND4297844,You are an engineer. You are work at a factory.,2,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('an', 'DT')"", ""('engineer', 'NN')"", ""('.', '.')"", ""('You', 'PRP')"", ""('are', 'VBP')"", ""('work', 'VBN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('factory', 'NN')"", ""('.', '.')""]","[""('work', 'VBN')""]"
+819,HIND4297844,,2,[],[]
+820,HIND3445990,The weather is nice today.,1,"[""('The', 'DT')"", ""('weather', 'NN')"", ""('is', 'VBZ')"", ""('nice', 'JJ')"", ""('today', 'NN')"", ""('.', '.')""]",[]
+821,HIND3445990,The weather am nice today.,1,"[""('The', 'DT')"", ""('weather', 'NN')"", ""('am', 'VBP')"", ""('nice', 'JJ')"", ""('today', 'NN')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+822,HIND3445990,The weather are nice today.,1,"[""('The', 'DT')"", ""('weather', 'NN')"", ""('are', 'VBP')"", ""('nice', 'JJ')"", ""('today', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+823,HIND3445990,,1,[],[]
+824,HIND3853037,I hears with my ears.,3,"[""('I', 'PRP')"", ""('hears', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('ears', 'NNS')"", ""('.', '.')""]","[""('hears', 'VBP')""]"
+825,HIND3853037,I watch with my ears.,3,"[""('I', 'PRP')"", ""('watch', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('ears', 'NNS')"", ""('.', '.')""]","[""('watch', 'VBP')""]"
+826,HIND3853037,I hear with my ears.,3,"[""('I', 'PRP')"", ""('hear', 'VBP')"", ""('with', 'IN')"", ""('my', 'PRP$')"", ""('ears', 'NNS')"", ""('.', '.')""]",[]
+827,HIND3853037,,3,[],[]
+828,HIND3702456,I is sixteen.,2,"[""('I', 'PRP')"", ""('is', 'VBZ')"", ""('sixteen', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+829,HIND3702456,I am sixteen.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('sixteen', 'JJ')"", ""('.', '.')""]",[]
+830,HIND3702456,I am years sixteen.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('years', 'NNS')"", ""('sixteen', 'JJ')"", ""('.', '.')""]","[""('years', 'NNS')""]"
+831,HIND3702456,I am old sixteen.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('old', 'JJ')"", ""('sixteen', 'NN')"", ""('.', '.')""]","[""('sixteen', 'NN')"", ""('old', 'JJ')""]"
+832,HIND2894499,She am Chinese.,2,"[""('She', 'PRP')"", ""('am', 'VBP')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+833,HIND2894499,She is Chinese.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('Chinese', 'JJ')"", ""('.', '.')""]",[]
+834,HIND2894499,She are Chinese.,2,"[""('She', 'PRP')"", ""('are', 'VBP')"", ""('Chinese', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+835,HIND2894499,She is the Chinese.,2,"[""('She', 'PRP')"", ""('is', 'VBZ')"", ""('the', 'DT')"", ""('Chinese', 'NNPS')"", ""('.', '.')""]","[""('the', 'DT')"", ""('Chinese', 'NNPS')""]"
+836,HIND4292878,I works at a hospital.,2,"[""('I', 'PRP')"", ""('works', 'VBP')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('hospital', 'NN')"", ""('.', '.')""]","[""('works', 'VBP')""]"
+837,HIND4292878,I work at a hospital.,2,"[""('I', 'PRP')"", ""('work', 'VBP')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('hospital', 'NN')"", ""('.', '.')""]",[]
+838,HIND4292878,I am work at a hospital.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('work', 'NN')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('hospital', 'NN')"", ""('.', '.')""]","[""('work', 'NN')"", ""('am', 'VBP')""]"
+839,HIND4292878,I am working at a hospital.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('working', 'VBG')"", ""('at', 'IN')"", ""('a', 'DT')"", ""('hospital', 'NN')"", ""('.', '.')""]","[""('working', 'VBG')"", ""('am', 'VBP')""]"
+840,HIND3450346,I is not hungry.,2,"[""('I', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('hungry', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+841,HIND3450346,I am not hungry.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('not', 'RB')"", ""('hungry', 'JJ')"", ""('.', '.')""]",[]
+842,HIND3450346,I are not hungry.,2,"[""('I', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('hungry', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+843,HIND3450346,,2,[],[]
+844,HIND3413892,I is <default-female-name> <default-female-surname>.,2,"[""('I', 'PRP')"", ""('is', 'VBZ')"", ""('Sarah', 'NNP')"", ""('Khan', 'NNP')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+845,HIND3413892,I am <default-female-name> <default-female-surname>.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('Sarah', 'NNP')"", ""('Khan', 'NNP')"", ""('.', '.')""]",[]
+846,HIND3413892,I are <default-female-name> <default-female-surname>.,2,"[""('I', 'PRP')"", ""('are', 'VBP')"", ""('Sarah', 'NNP')"", ""('Khan', 'NNP')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+847,HIND3413892,,2,[],[]
+848,HIND2868262,You am from <country-name>.,3,"[""('You', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+849,HIND2868262,You is from <country-name>.,3,"[""('You', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+850,HIND2868262,You are from <country-name>.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]",[]
+851,HIND2868262,You are come from <country-name>.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('come', 'VBN')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","[""('come', 'VBN')""]"
+852,HIND2821804,What is yours name?,2,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('yours', 'VBN')"", ""('name', 'NN')"", ""('?', '.')""]","[""('yours', 'VBN')""]"
+853,HIND2821804,What is your name?,2,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('your', 'PRP$')"", ""('name', 'NN')"", ""('?', '.')""]",[]
+854,HIND2821804,What is you name?,2,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('you', 'PRP')"", ""('name', 'NN')"", ""('?', '.')""]","[""('you', 'PRP')""]"
+855,HIND2821804,What is you're name?,2,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('you', 'PRP')"", '(""\'re"", \'VBP\')', ""('name', 'NN')"", ""('?', '.')""]","[""('you', 'PRP')"", '(""\'re"", \'VBP\')']"
+856,HIND4234826,You live in a village in <default-city-name2>.,1,"[""('You', 'PRP')"", ""('live', 'VBP')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('village', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]",[]
+857,HIND4234826,You is in a village in <default-city-name2>.,1,"[""('You', 'PRP')"", ""('is', 'VBZ')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('village', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+858,HIND4234826,You lives in a village in <default-city-name2>.,1,"[""('You', 'PRP')"", ""('lives', 'VBZ')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('village', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]","[""('lives', 'VBZ')""]"
+859,HIND4234826,You are live in a village in <default-city-name2>.,1,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('live', 'JJ')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('village', 'NN')"", ""('in', 'IN')"", ""('Jaipur', 'NNP')"", ""('.', '.')""]","[""('live', 'JJ')"", ""('are', 'VBP')""]"
+860,HIND2865851,I am from <country-name>.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]",[]
+861,HIND2865851,I is from <country-name>.,1,"[""('I', 'PRP')"", ""('is', 'VBZ')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+862,HIND2865851,I are from <country-name>.,1,"[""('I', 'PRP')"", ""('are', 'VBP')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+863,HIND2865851,I am come from <country-name>.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('come', 'VBN')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","[""('come', 'VBN')""]"
+864,HIND3318161,What is your phone number?,1,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('your', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]",[]
+865,HIND3318161,What am your phone number?,1,"[""('What', 'WP')"", ""('am', 'VBP')"", ""('your', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]","[""('am', 'VBP')""]"
+866,HIND3318161,What are your phone number?,1,"[""('What', 'WP')"", ""('are', 'VBP')"", ""('your', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]","[""('are', 'VBP')""]"
+867,HIND3318161,What does your phone number?,1,"[""('What', 'WP')"", ""('does', 'VBZ')"", ""('your', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]","[""('does', 'VBZ')""]"
+868,HIND2834714,I am a student.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('a', 'DT')"", ""('student', 'NN')"", ""('.', '.')""]",[]
+869,HIND2834714,I am are student.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('are', 'VBP')"", ""('student', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+870,HIND2834714,I am is student.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('is', 'VBZ')"", ""('student', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+871,HIND2834714,I am the student.,1,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('the', 'DT')"", ""('student', 'NN')"", ""('.', '.')""]","[""('the', 'DT')""]"
+872,HIND2903741,They is American.,2,"[""('They', 'PRP')"", ""('is', 'VBZ')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+873,HIND2903741,They are American.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('American', 'JJ')"", ""('.', '.')""]",[]
+874,HIND2903741,They am American.,2,"[""('They', 'PRP')"", ""('am', 'VBP')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+875,HIND2903741,They are the American.,2,"[""('They', 'PRP')"", ""('are', 'VBP')"", ""('the', 'DT')"", ""('American', 'NNP')"", ""('.', '.')""]","[""('the', 'DT')"", ""('American', 'NNP')""]"
+876,HIND3729250,My father are smart.,2,"[""('My', 'PRP$')"", ""('father', 'NN')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+877,HIND3729250,My father is smart.,2,"[""('My', 'PRP$')"", ""('father', 'NN')"", ""('is', 'VBZ')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+878,HIND3729250,My father am smart.,2,"[""('My', 'PRP$')"", ""('father', 'NN')"", ""('am', 'VBP')"", ""('smart', 'RB')"", ""('.', '.')""]","[""('am', 'VBP')"", ""('smart', 'RB')""]"
+879,HIND3729250,My father has smart.,2,"[""('My', 'PRP$')"", ""('father', 'NN')"", ""('has', 'VBZ')"", ""('smart', 'VBN')"", ""('.', '.')""]","[""('has', 'VBZ')"", ""('smart', 'VBN')""]"
+880,HIND2856974,You is fine.,3,"[""('You', 'PRP')"", ""('is', 'VBZ')"", ""('fine', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+881,HIND2856974,You are the fine.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('the', 'DT')"", ""('fine', 'JJ')"", ""('.', '.')""]","[""('the', 'DT')""]"
+882,HIND2856974,You are fine.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('fine', 'JJ')"", ""('.', '.')""]",[]
+883,HIND2856974,You has fine.,3,"[""('You', 'PRP')"", ""('has', 'VBZ')"", ""('fine', 'VBN')"", ""('.', '.')""]","[""('has', 'VBZ')"", ""('fine', 'VBN')""]"
+884,HIND3094237,Are you speak <country-language-name>?,2,"[""('Are', 'NNP')"", ""('you', 'PRP')"", ""('speak', 'VBP')"", ""('English', 'JJ')"", ""('?', '.')""]","[""('English', 'JJ')"", ""('Are', 'NNP')"", ""('speak', 'VBP')""]"
+885,HIND3094237,Do you speak <country-language-name>?,2,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('speak', 'VB')"", ""('English', 'NNP')"", ""('?', '.')""]",[]
+886,HIND3094237,Is you speak <country-language-name>?,2,"[""('Is', 'VBZ')"", ""('you', 'PRP')"", ""('speak', 'VBP')"", ""('English', 'JJ')"", ""('?', '.')""]","[""('English', 'JJ')"", ""('Is', 'VBZ')"", ""('speak', 'VBP')""]"
+887,HIND3094237,Does you speak <country-language-name>?,2,"[""('Does', 'NNP')"", ""('you', 'PRP')"", ""('speak', 'VB')"", ""('English', 'NNP')"", ""('?', '.')""]","[""('Does', 'NNP')""]"
+888,HIND3319535,What is your phone number?,1,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('your', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]",[]
+889,HIND3319535,What is you phone number?,1,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('you', 'PRP')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]","[""('you', 'PRP')""]"
+890,HIND3319535,What is you're phone number?,1,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('you', 'PRP')"", '(""\'re"", \'VBP\')', ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]","[""('you', 'PRP')"", '(""\'re"", \'VBP\')']"
+891,HIND3319535,What is mine phone number?,1,"[""('What', 'WP')"", ""('is', 'VBZ')"", ""('mine', 'JJ')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('?', '.')""]","[""('mine', 'JJ')""]"
+892,HIND2945154,He is not British.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+893,HIND2945154,He not is British.,1,"[""('He', 'PRP')"", ""('not', 'RB')"", ""('is', 'VBZ')"", ""('British', 'JJ')"", ""('.', '.')""]",[]
+894,HIND2945154,He is not the British.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('the', 'DT')"", ""('British', 'JJ')"", ""('.', '.')""]","[""('the', 'DT')""]"
+895,HIND2945154,,1,[],[]
+896,HIND3514921,I has one sister.,2,"[""('I', 'PRP')"", ""('has', 'VBZ')"", ""('one', 'CD')"", ""('sister', 'NN')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+897,HIND3514921,I have one sister.,2,"[""('I', 'PRP')"", ""('have', 'VBP')"", ""('one', 'CD')"", ""('sister', 'NN')"", ""('.', '.')""]",[]
+898,HIND3514921,I is one sister.,2,"[""('I', 'PRP')"", ""('is', 'VBZ')"", ""('one', 'CD')"", ""('sister', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+899,HIND3514921,,2,[],[]
+900,HIND2939102,You don't my friend.,3,"[""('You', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('my', 'PRP$')"", ""('friend', 'NN')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('do', 'VBP')""]"
+901,HIND2939102,You is not my friend.,3,"[""('You', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('my', 'PRP$')"", ""('friend', 'NN')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+902,HIND2939102,You are not my friend.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('my', 'PRP$')"", ""('friend', 'NN')"", ""('.', '.')""]",[]
+903,HIND2939102,You aren't not my friend.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", '(""n\'t"", \'RB\')', ""('not', 'RB')"", ""('my', 'PRP$')"", ""('friend', 'NN')"", ""('.', '.')""]","['(""n\'t"", \'RB\')']"
+904,HIND3591966,Theirs children are smart.,2,"[""('Theirs', 'NNP')"", ""('children', 'NNS')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]","[""('Theirs', 'NNP')""]"
+905,HIND3591966,Their children are smart.,2,"[""('Their', 'PRP$')"", ""('children', 'NNS')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+906,HIND3591966,Their are children are smart.,2,"[""('Their', 'PRP$')"", ""('are', 'VBP')"", ""('children', 'NNS')"", ""('are', 'VBP')"", ""('smart', 'JJ')"", ""('.', '.')""]",[]
+907,HIND3591966,,2,[],[]
+908,HIND3271525,We are nots from <foreigncountry-name>.,3,"[""('We', 'PRP')"", ""('are', 'VBP')"", ""('nots', 'JJ')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","[""('nots', 'JJ')""]"
+909,HIND3271525,We are don''t from <foreigncountry-name>.,3,"[""('We', 'PRP')"", ""('are', 'VBP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('do', 'VBP')""]"
+910,HIND3271525,We are not from <foreigncountry-name>.,3,"[""('We', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]",[]
+911,HIND3271525,,3,[],[]
+912,HIND3269632,You are not from <foreigncountry-name>.,1,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('not', 'RB')"", ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]",[]
+913,HIND3269632,You are doesn''t from <foreigncountry-name>.,1,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('does', 'VBZ')""]"
+914,HIND3269632,You are don''t from <foreigncountry-name>.,1,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('from', 'IN')"", ""('India', 'NNP')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('do', 'VBP')""]"
+915,HIND3269632,,1,[],[]
+916,HIND4682942,Can I am help you?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('am', 'VBP')"", ""('help', 'VB')"", ""('you', 'PRP')"", ""('?', '.')""]","[""('am', 'VBP')""]"
+917,HIND4682942,Can I help you?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('help', 'VB')"", ""('you', 'PRP')"", ""('?', '.')""]",[]
+918,HIND4682942,Can I helps you?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('helps', 'VB')"", ""('you', 'PRP')"", ""('?', '.')""]","[""('helps', 'VB')""]"
+919,HIND4682942,Can I helping you?,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('helping', 'VBG')"", ""('you', 'PRP')"", ""('?', '.')""]","[""('helping', 'VBG')""]"
+920,HIND2886389,I is <country-nationality>.,2,"[""('I', 'PRP')"", ""('is', 'VBZ')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+921,HIND2886389,I am <country-nationality>.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('Indians', 'NNPS')"", ""('.', '.')""]",[]
+922,HIND2886389,I are <country-nationality>.,2,"[""('I', 'PRP')"", ""('are', 'VBP')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+923,HIND2886389,I has <country-nationality>.,2,"[""('I', 'PRP')"", ""('has', 'VBZ')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+924,HIND2900051,It am <country-nationality>.,2,"[""('It', 'PRP')"", ""('am', 'VBP')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+925,HIND2900051,It is <country-nationality>.,2,"[""('It', 'PRP')"", ""('is', 'VBZ')"", ""('Indians', 'NNPS')"", ""('.', '.')""]",[]
+926,HIND2900051,It are <country-nationality>.,2,"[""('It', 'PRP')"", ""('are', 'VBP')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+927,HIND2900051,It is the <country-nationality>.,2,"[""('It', 'PRP')"", ""('is', 'VBZ')"", ""('the', 'DT')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('the', 'DT')""]"
+928,HIND3257123,He is not my friend.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('not', 'RB')"", ""('my', 'PRP$')"", ""('friend', 'NN')"", ""('.', '.')""]",[]
+929,HIND3257123,He is doesn't my friend.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('my', 'PRP$')"", ""('friend', 'NN')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('does', 'VBZ')""]"
+930,HIND3257123,He is don't my friend.,1,"[""('He', 'PRP')"", ""('is', 'VBZ')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('my', 'PRP$')"", ""('friend', 'NN')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('do', 'VBP')""]"
+931,HIND3257123,,1,[],[]
+932,HIND3739722,I am many intelligent.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('many', 'JJ')"", ""('intelligent', 'NN')"", ""('.', '.')""]","[""('intelligent', 'NN')"", ""('many', 'JJ')""]"
+933,HIND3739722,I am a lot of intelligent.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('a', 'DT')"", ""('lot', 'NN')"", ""('of', 'IN')"", ""('intelligent', 'NN')"", ""('.', '.')""]","[""('of', 'IN')"", ""('intelligent', 'NN')"", ""('lot', 'NN')"", ""('a', 'DT')""]"
+934,HIND3739722,I am very intelligent.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('very', 'RB')"", ""('intelligent', 'JJ')"", ""('.', '.')""]",[]
+935,HIND3739722,I am a lot intelligent.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('a', 'DT')"", ""('lot', 'NN')"", ""('intelligent', 'NN')"", ""('.', '.')""]","[""('intelligent', 'NN')"", ""('lot', 'NN')"", ""('a', 'DT')""]"
+936,HIND3129354,I isn''t speak English.,2,"[""('I', 'PRP')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('is', 'VBZ')""]"
+937,HIND3129354,I don''t speak English.,2,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+938,HIND3129354,I am not speak English.,2,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('not', 'RB')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('not', 'RB')"", ""('am', 'VBP')""]"
+939,HIND3129354,I doesn''t speak English.,2,"[""('I', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('does', 'VBZ')""]"
+940,HIND3593192,This are their sister.,3,"[""('This', 'DT')"", ""('are', 'VBP')"", ""('their', 'PRP$')"", ""('sister', 'NN')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+941,HIND3593192,This am their sister.,3,"[""('This', 'DT')"", ""('am', 'VBP')"", ""('their', 'PRP$')"", ""('sister', 'NN')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+942,HIND3593192,This is their sister.,3,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('their', 'PRP$')"", ""('sister', 'NN')"", ""('.', '.')""]",[]
+943,HIND3593192,,3,[],[]
+944,HIND4145072,My books are on the table.,1,"[""('My', 'PRP$')"", ""('books', 'NNS')"", ""('are', 'VBP')"", ""('on', 'IN')"", ""('the', 'DT')"", ""('table', 'NN')"", ""('.', '.')""]",[]
+945,HIND4145072,My books are it the table.,1,"[""('My', 'PRP$')"", ""('books', 'NNS')"", ""('are', 'VBP')"", ""('it', 'PRP')"", ""('the', 'DT')"", ""('table', 'NN')"", ""('.', '.')""]","[""('it', 'PRP')""]"
+946,HIND4145072,My books are at the table.,1,"[""('My', 'PRP$')"", ""('books', 'NNS')"", ""('are', 'VBP')"", ""('at', 'IN')"", ""('the', 'DT')"", ""('table', 'NN')"", ""('.', '.')""]","[""('at', 'IN')""]"
+947,HIND4145072,,1,[],[]
+948,HIND2813798,My name is <name>.,1,"[""('My', 'PRP$')"", ""('name', 'NN')"", ""('is', 'VBZ')"", ""('John', 'NNP')"", ""('.', '.')""]",[]
+949,HIND2813798,My name am <name>.,1,"[""('My', 'PRP$')"", ""('name', 'NN')"", ""('am', 'VBP')"", ""('John', 'NNP')"", ""('.', '.')""]","[""('am', 'VBP')""]"
+950,HIND2813798,My name has <name>.,1,"[""('My', 'PRP$')"", ""('name', 'NN')"", ""('has', 'VBZ')"", ""('John', 'NNP')"", ""('.', '.')""]","[""('has', 'VBZ')""]"
+951,HIND2813798,My name is the <name>.,1,"[""('My', 'PRP$')"", ""('name', 'NN')"", ""('is', 'VBZ')"", ""('the', 'DT')"", ""('John', 'NNP')"", ""('.', '.')""]","[""('the', 'DT')""]"
+952,HIND2971872,I isn''t <male-name3>.,3,"[""('I', 'PRP')"", ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('John', 'NNP')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('is', 'VBZ')""]"
+953,HIND2971872,I amn''t <male-name3>.,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", '(""n\'t"", \'RB\')', ""('John', 'NNP')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('am', 'VBP')""]"
+954,HIND2971872,I''m not <male-name3>.,3,"[""('I', 'PRP')"", '(""\'m"", \'VBP\')', ""('not', 'RB')"", ""('John', 'NNP')"", ""('.', '.')""]",[]
+955,HIND2971872,,3,[],[]
+956,HIND2947649,It''s not the <country-nationality>.,2,"[""('It', 'PRP')"", '(""\'s"", \'VBZ\')', ""('not', 'RB')"", ""('the', 'DT')"", ""('Indians', 'NNPS')"", ""('.', '.')""]","[""('the', 'DT')""]"
+957,HIND2947649,It''s not <country-nationality>.,2,"[""('It', 'PRP')"", '(""\'s"", \'VBZ\')', ""('not', 'RB')"", ""('Indians', 'NNPS')"", ""('.', '.')""]",[]
+958,HIND2947649,It''s isn''t <country-nationality>.,2,"[""('It', 'PRP')"", '(""\'s"", \'VBZ\')', ""('is', 'VBZ')"", '(""n\'t"", \'RB\')', ""('Indians', 'NNPS')"", ""('.', '.')""]","['(""n\'t"", \'RB\')', ""('is', 'VBZ')""]"
+959,HIND2947649,,2,[],[]
+960,HIND4684262,Can I help your?.,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('help', 'VB')"", ""('your', 'PRP$')"", ""('?', '.')"", ""('.', '.')""]","[""('your', 'PRP$')""]"
+961,HIND4684262,Can I help you?.,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('help', 'VB')"", ""('you', 'PRP')"", ""('?', '.')"", ""('.', '.')""]",[]
+962,HIND4684262,Can I help yours?.,2,"[""('Can', 'MD')"", ""('I', 'PRP')"", ""('help', 'VB')"", ""('yours', 'VB')"", ""('?', '.')"", ""('.', '.')""]","[""('yours', 'VB')""]"
+963,HIND4684262,,2,[],[]
+964,HIND2893090,You are the American.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('the', 'DT')"", ""('American', 'NNP')"", ""('.', '.')""]","[""('the', 'DT')"", ""('American', 'NNP')""]"
+965,HIND2893090,You is American.,3,"[""('You', 'PRP')"", ""('is', 'VBZ')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('is', 'VBZ')""]"
+966,HIND2893090,You are American.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('American', 'JJ')"", ""('.', '.')""]",[]
+967,HIND2893090,You are a American.,3,"[""('You', 'PRP')"", ""('are', 'VBP')"", ""('a', 'DT')"", ""('American', 'JJ')"", ""('.', '.')""]","[""('a', 'DT')""]"
+968,HIND3116674,Do you speaks <language-name2>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('speaks', 'VB')"", ""('English', 'NNP')"", ""('?', '.')""]","[""('speaks', 'VB')""]"
+969,HIND3116674,Do you is <language-name2>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('is', 'VBZ')"", ""('English', 'JJ')"", ""('?', '.')""]","[""('English', 'JJ')"", ""('is', 'VBZ')""]"
+970,HIND3116674,Do you speak <language-name2>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('speak', 'VB')"", ""('English', 'NNP')"", ""('?', '.')""]",[]
+971,HIND3116674,,3,[],[]
+972,HIND4112375,There is one kitchen in this house.,1,"[""('There', 'EX')"", ""('is', 'VBZ')"", ""('one', 'CD')"", ""('kitchen', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]",[]
+973,HIND4112375,Are is one kitchen in this house.,1,"[""('Are', 'NNP')"", ""('is', 'VBZ')"", ""('one', 'CD')"", ""('kitchen', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]","[""('Are', 'NNP')""]"
+974,HIND4112375,Here is one kitchen in this house.,1,"[""('Here', 'RB')"", ""('is', 'VBZ')"", ""('one', 'CD')"", ""('kitchen', 'NN')"", ""('in', 'IN')"", ""('this', 'DT')"", ""('house', 'NN')"", ""('.', '.')""]","[""('Here', 'RB')""]"
+975,HIND4112375,,1,[],[]
+976,HIND3096025,Do you speaks <country-language-name>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('speaks', 'VB')"", ""('English', 'NNP')"", ""('?', '.')""]","[""('speaks', 'VB')""]"
+977,HIND3096025,Do you is speak <country-language-name>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('is', 'VBZ')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('?', '.')""]","[""('speak', 'JJ')"", ""('is', 'VBZ')""]"
+978,HIND3096025,Do you speak <country-language-name>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('speak', 'VB')"", ""('English', 'NNP')"", ""('?', '.')""]",[]
+979,HIND3096025,Do you are speak <country-language-name>?,3,"[""('Do', 'VB')"", ""('you', 'PRP')"", ""('are', 'VBP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('?', '.')""]","[""('speak', 'JJ')"", ""('are', 'VBP')""]"
+980,HIND4231486,I lives in a city in <default-state-name>,3,"[""('I', 'PRP')"", ""('lives', 'VBZ')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')""]","[""('lives', 'VBZ')""]"
+981,HIND4231486,I be live in a city in <default-state-name>,3,"[""('I', 'PRP')"", ""('be', 'VB')"", ""('live', 'VBN')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')""]","[""('live', 'VBN')"", ""('be', 'VB')""]"
+982,HIND4231486,I live in a city in <default-state-name>,3,"[""('I', 'PRP')"", ""('live', 'VBP')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')""]",[]
+983,HIND4231486,I am live in a city in <default-state-name>,3,"[""('I', 'PRP')"", ""('am', 'VBP')"", ""('live', 'JJ')"", ""('in', 'IN')"", ""('a', 'DT')"", ""('city', 'NN')"", ""('in', 'IN')"", ""('Rajasthan', 'NNP')""]","[""('live', 'JJ')"", ""('am', 'VBP')""]"
+984,HIND3246606,I don't dances.,3,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('dances', 'NNS')"", ""('.', '.')""]","[""('dances', 'NNS')""]"
+985,HIND3246606,I don't am dance.,3,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('am', 'VBP')"", ""('dance', 'NN')"", ""('.', '.')""]","[""('dance', 'NN')"", ""('am', 'VBP')""]"
+986,HIND3246606,I don't dance.,3,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('dance', 'VB')"", ""('.', '.')""]",[]
+987,HIND3246606,,3,[],[]
+988,HIND3328888,My phone number has <phone-number>.,2,"[""('My', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('has', 'VBZ')"", ""('phone-number', 'NN')"", ""('.', '.')""]","[""('has', 'VBZ')"", ""('phone-number', 'NN')""]"
+989,HIND3328888,My phone number is <phone-number>.,2,"[""('My', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('is', 'VBZ')"", ""('phone-number', 'JJ')"", ""('.', '.')""]",[]
+990,HIND3328888,My phone number does <phone-number>.,2,"[""('My', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('does', 'VBZ')"", ""('phone-number', 'JJ')"", ""('.', '.')""]","[""('does', 'VBZ')""]"
+991,HIND3328888,My phone number are <phone-number>.,2,"[""('My', 'PRP$')"", ""('phone', 'NN')"", ""('number', 'NN')"", ""('are', 'VBP')"", ""('phone-number', 'JJ')"", ""('.', '.')""]","[""('are', 'VBP')""]"
+992,HIND3113994,I speak few English.,3,"[""('I', 'PRP')"", ""('speak', 'VBP')"", ""('few', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('few', 'JJ')""]"
+993,HIND3113994,I speak somewhat English.,3,"[""('I', 'PRP')"", ""('speak', 'VBP')"", ""('somewhat', 'RB')"", ""('English', 'JJ')"", ""('.', '.')""]","[""('English', 'JJ')"", ""('somewhat', 'RB')""]"
+994,HIND3113994,I speak a little English.,3,"[""('I', 'PRP')"", ""('speak', 'VBP')"", ""('a', 'DT')"", ""('little', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+995,HIND3113994,I speak a few English.,3,"[""('I', 'PRP')"", ""('speak', 'VBP')"", ""('a', 'DT')"", ""('few', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('few', 'JJ')""]"
+996,HIND3131013,I don't speak English.,1,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+997,HIND3131013,I don't am speak English.,1,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('am', 'VBP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('am', 'VBP')""]"
+998,HIND3131013,I don't is speak English.,1,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('is', 'VBZ')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('is', 'VBZ')""]"
+999,HIND3131013,I don't speaks English.,1,"[""('I', 'PRP')"", ""('do', 'VBP')"", '(""n\'t"", \'RB\')', ""('speaks', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speaks', 'VB')""]"
+1000,HIND3832595,<default-actor-name> <default-actor-surname> has black and white hair.,1,"[""('Tom', 'NNP')"", ""('Cruise', 'NNP')"", ""('has', 'VBZ')"", ""('black', 'JJ')"", ""('and', 'CC')"", ""('white', 'JJ')"", ""('hair', 'NN')"", ""('.', '.')""]",[]
+1001,HIND3832595,<default-actor-name> <default-actor-surname> has black and white hairs.,1,"[""('Tom', 'NNP')"", ""('Cruise', 'NNP')"", ""('has', 'VBZ')"", ""('black', 'JJ')"", ""('and', 'CC')"", ""('white', 'JJ')"", ""('hairs', 'NNS')"", ""('.', '.')""]","[""('hairs', 'NNS')""]"
+1002,HIND3832595,<default-actor-name> <default-actor-surname> has black and white a hair.,1,"[""('Tom', 'NNP')"", ""('Cruise', 'NNP')"", ""('has', 'VBZ')"", ""('black', 'JJ')"", ""('and', 'CC')"", ""('white', 'JJ')"", ""('a', 'DT')"", ""('hair', 'NN')"", ""('.', '.')""]","[""('a', 'DT')""]"
+1003,HIND3832595,,1,[],[]
+1004,HIND3224413,She doesn''t speaks <language-name2>.,3,"[""('She', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('speaks', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speaks', 'VB')""]"
+1005,HIND3224413,She doesn''t are speak <language-name2>.,3,"[""('She', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('are', 'VBP')"", ""('speak', 'JJ')"", ""('English', 'NNP')"", ""('.', '.')""]","[""('speak', 'JJ')"", ""('are', 'VBP')""]"
+1006,HIND3224413,She doesn''t speak <language-name2>.,3,"[""('She', 'PRP')"", ""('does', 'VBZ')"", '(""n\'t"", \'RB\')', ""('speak', 'VB')"", ""('English', 'NNP')"", ""('.', '.')""]",[]
+1007,HIND3224413,,3,[],[]
+1008,HIND3571510,This is me car.,3,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('me', 'PRP')"", ""('car', 'NN')"", ""('.', '.')""]","[""('me', 'PRP')""]"
+1009,HIND3571510,This is mine car.,3,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('mine', 'JJ')"", ""('car', 'NN')"", ""('.', '.')""]","[""('mine', 'JJ')""]"
+1010,HIND3571510,This is my car.,3,"[""('This', 'DT')"", ""('is', 'VBZ')"", ""('my', 'PRP$')"", ""('car', 'NN')"", ""('.', '.')""]",[]
+1011,HIND3571510,,3,[],[]
