@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException
 import time
 import random
 import csv
@@ -21,6 +22,14 @@ def human_type(element, text):
     for char in text:
         time.sleep(0.2),
         element.send_keys(char)
+
+#Function to check whether element exists or not       
+def if_exists(css_selector):
+    try:
+        driver.find_element_by_css_selector(css_selector)
+    except NoSuchElementException:
+        return False
+    return True
 
 driver = webdriver.Firefox()
 print('Loading Grammarly...')
@@ -67,11 +76,14 @@ for i,text in enumerate(texts):
 		Elem = WebDriverWait(driver, 4).until(EC.presence_of_element_located((By.CSS_SELECTOR, "span._ed4374-buttonWrapper:nth-child(1)")))
 		print('Error Found')
 		driver.find_element_by_css_selector('span._ed4374-buttonWrapper:nth-child(1)').click()
-		error = driver.find_element_by_css_selector('._8da58b-plainTextTitle').text
+		if if_exists('._8da58b-plainTextTitle'):
+			error = driver.find_element_by_css_selector('._8da58b-plainTextTitle').text
+		elif if_exists('._ed4374-plainTextTitle'):
+			error = driver.find_element_by_css_selector('._ed4374-plainTextTitle').text
 		print('Error is "' + error + '"')
 	except TimeoutException:
 		print(error)
-	row = [i+344, text, error]
+	row = [i+1691, text, error]
 
 	with open('errors.csv', 'a') as csvFile:
 	    writer = csv.writer(csvFile)
