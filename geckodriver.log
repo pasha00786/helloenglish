@@ -4081,3 +4081,6 @@ console.error: BroadcastService:
 1544181829718	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
 1544181829720	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
 1544181829721	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1544184420617	Marionette	INFO	Stopped listening on port 36258
+[Parent 18201, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tnGkuX/firefox-64.0~b14+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 18201, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-tnGkuX/firefox-64.0~b14+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363

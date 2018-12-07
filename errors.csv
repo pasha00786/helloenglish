@@ -4068,3 +4068,212 @@ SNo,Options,Error
 4056,['Are you doing anything tomorrow?'],No error found
 4057,['Are you do anything tomorrow?'],No error found
 4058,['Do you doing anything tomorrow?'],Incorrect verb form after do or does
+4059,['Do you do anything tomorrow?'],No error found
+4060,['I am go to the bank with my father on Sunday.'],Incorrect verb form
+4061,['I am going to the bank with my father on Sunday.'],No error found
+4062,['I will going to the bank with my father on Sunday.'],Incorrect verb form after modal
+4063,['I going to the bank with my father on Sunday.'],Missing verb
+4064,['I am going to quit smoking.'],No error found
+4065,['I am go quit smoking.'],Incorrect verb form
+4066,['I am going to quitting smoking.'],No error found
+4067,['I will going to quit smoking.'],Incorrect verb form after modal
+4068,['I am going to work hard from now on.'],No error found
+4069,['I am work hard from now on.'],Incorrect verb form
+4070,['I am going to working hard from now on.'],No error found
+4071,['I am go to work hard from now on.'],Incorrect verb form
+4072,"[""You're pass the exam.""]",Incorrect verb form
+4073,"[""You're going to passing the exam.""]",No error found
+4074,"[""You'll going to pass the exam.""]",Incorrect verb form after modal
+4075,"[""You're going to pass the exam.""]",No error found
+4076,"['If they keep on wasting time like this', "" then they're going to fail.""]",Missing comma after introductory clause
+4077,"['If they keep on wasting time like this', "" then they're fail.""]",Incorrect verb form
+4078,"['If they keep on wasting time like this', ' then they going to fail.']",Missing comma after introductory clause
+4079,"['If they keep on wasting time like this', "" then they'll going to fail.""]",Incorrect verb form after modal
+4080,['Are you going to hire someone?'],No error found
+4081,['Are you hire someone?'],No error found
+4082,['Do you going to hire someone?'],Incorrect verb form after do or does
+4083,['Will you going to hire someone?'],Missing comma(s)
+4084,['The meeting is going to start at 11.'],No error found
+4085,['The meeting is start at 11.'],Incorrect verb form
+4086,['The meeting will be going to start at 11.'],No error found
+4087,['The meeting is going to starting at 11.'],No error found
+4088,['She got presents so it was her birthday.'],Missing comma in compound sentence
+4089,['She got presents because it was her birthday.'],No error found
+4090,['She got presents but it was her birthday.'],Missing comma in compound sentence
+4091,['She got presents then it was her birthday.'],No error found
+4092,['We came in early today because we had a meeting.'],No error found
+4093,['We came in early today so we had a meeting.'],Missing comma in compound sentence
+4094,['We came in early today but we had a meeting.'],Missing comma in compound sentence
+4095,"[""We came in early today that's why we had a meeting.""]",No error found
+4096,['Neha did not like the movie because she turned the TV off.'],No error found
+4097,['Neha did not like the movie then she turned the TV off.'],No error found
+4098,['Neha did not like the movie but she turned the TV off.'],Missing comma in compound sentence
+4099,['Neha did not like the movie so she turned the TV off.'],Missing comma in compound sentence
+4100,"['My sister was awake', ' because I could come inside.']",No error found
+4101,"['My sister was awake', ' then I could come inside.']",No error found
+4102,"['My sister was awake', ' but I could come inside.']",Missing comma in compound sentence
+4103,"['My sister was awake', ' so I could come inside.']",Missing comma in compound sentence
+4104,"[""I don't like Shalini"", ' so I did not call her.']",Missing comma in compound sentence
+4105,"[""I don't like Shalini"", ' because I did not call her.']",No error found
+4106,"[""I don't like Shalini"", ' that I did not call her.']",No error found
+4107,"[""I don't like Shalini"", ' then I did not call her.']",No error found
+4108,['He won the race so he was hard working.'],Missing comma in compound sentence
+4109,['He won the race because he was hard working.'],No error found
+4110,['He won the race then he was hard working.'],Possibly confused word
+4111,['He won the race but he was hard working.'],Repeated word
+4112,"['She invited us for the party', ' so we are good friends.']",Confused preposition
+4113,"['She invited us for the party', ' but we are good friends.']",Confused preposition
+4114,"['She invited us for the party', ' because we are good friends.']",Confused preposition
+4115,"['She invited us for the party', ' that we are good friends.']",Confused preposition
+4116,['She bought a gift for her.'],No error found
+4117,['She bought a gift for herself.'],No error found
+4118,['She bought a gift for myself.'],Incorrect usage of reflexive pronoun
+4119,['She bought a gift for yourselves.'],No error found
+4120,['She thinks very highly of her.'],No error found
+4121,['She thinks very highly of herself.'],No error found
+4122,['She thinks very highly of herselves.'],Misspelled word
+4123,['She thinks very highly of hers.'],No error found
+4124,"[""He couldn't understand himself.""]",No error found
+4125,"[""He couldn't understand him.""]",No error found
+4126,"[""He couldn't understand his.""]",No error found
+4127,"[""He couldn't understand he.""]",Subject instead of object pronoun
+4128,['They must force themselves to work hard.'],No error found
+4129,['They must force ourselves to work hard.'],No error found
+4130,['They must force yourselves to work hard.'],No error found
+4131,['They must force theyselves to work hard.'],Misspelled word
+4132,['I have cut herself.'],No error found
+4133,['I have cut yourselves.'],No error found
+4134,['I have cut himself.'],No error found
+4135,['I have cut myself.'],No error found
+4136,['The library is past the supermarket.'],No error found
+4137,['The library is next the supermarket.'],Missing preposition
+4138,['The library is left to the supermarket.'],Passive voice
+4139,['The library is behind the supermarket.'],No error found
+4140,['The gas station is behind the street.'],No error found
+4141,['The gas station is past the street.'],No error found
+4142,['The gas station is next to the street.'],No error found
+4143,['The gas station is across the street.'],No error found
+4144,['The museum is away from the trees.'],No error found
+4145,['The museum is situated among the trees.'],Passive voice
+4146,['The museum is around the trees.'],No error found
+4147,['The museum is beyond the trees.'],No error found
+4148,['I am going to spend a month in the mountains.'],No error found
+4149,['I go to spend a month in the mountains.'],No error found
+4150,['I am go to spend a month in the mountains.'],Incorrect verb form
+4151,['I will going to spend a month in the mountains.'],Incorrect verb form after modal
+4152,"[""It's raining tomorrow.""]",No error found
+4153,['It will rain tomorrow.'],No error found
+4154,['It is probably going to rain tomorrow.'],No error found
+4155,['It will probably raining tomorrow.'],Incorrect verb form after modal
+4156,['We going to picnic tonight.'],Missing article
+4157,['We will going for a picnic tonight.'],Missing verb
+4158,['We go for a picnic tonight.'],Missing verb
+4159,['We are going for a picnic tonight.'],No error found
+4160,['I am not going to meet you again.'],No error found
+4161,['I am going to meet you again.'],No error found
+4162,['I am not go to meet you again.'],Incorrect verb form
+4163,['I will not going to meet you again'],No error found
+4164,"['We go to have coffee after the lecture', ' tomorrow.']",No error found
+4165,"['We will going to have coffee after the lecture', ' tomorrow.']",Incorrect verb form after modal
+4166,"['We will having coffee after the lecture', ' tomorrow.']",Incorrect verb form after modal
+4167,"['We will have coffee after the lecture', ' tomorrow.']",No error found
+4168,['We went yesterday to the cinema.'],No error found
+4169,['We yesterday went to the cinema.'],No error found
+4170,['We went to the cinema yesterday.'],No error found
+4171,['All three options are correct.'],No error found
+4172,['She goes every Sunday to the cinema'],No error found
+4173,['She goes to the cinema every Sunday.'],No error found
+4174,['She every Sunday goes to the cinema.'],No error found
+4175,['All three options are correct.'],No error found
+4176,['I seldom am at the cinema.'],No error found
+4177,['I am at the cinema seldom.'],No error found
+4178,['I am seldom at the cinema.'],No error found
+4179,['All three are correct'],No error found
+4180,['I have no idea how long does it take to get there.'],No error found
+4181,['Do you know how long it is taking to get to the university from here?'],No error found
+4182,['I wonder how long it takes to get there.'],No error found
+4183,['Would you mind telling us how long does it take to get there?'],No error found
+4184,['Have you decided whether or not are you going to buy a new car?'],No error found
+4185,['Does anyone know why Carol was absent from class yesterday?'],No error found
+4186,['I wish I knew what is the time now.'],No error found
+4187,['Do you know where are they going to stay while they are visiting Vancouver?'],No error found
+4188,['Does anyone know is the test tomorrow going to be very difficult?'],Possibly confused word
+4189,"['Can you remember what the name of the author who wrote \\""The Old Man and the Sea\\"" was?']",No error found
+4190,['Have they decided how long are they going to stay in Hawaii?'],No error found
+4191,"['Excuse me. Could you tell me what is the time', ' please?']",Missing comma before please
+4192,['Are you aware of the reason why is he not in class today?'],No error found
+4193,['Could you tell me when the next train is supposed to arrive?'],No error found
+4194,['I wish I knew where is the best place in Victoria to buy shoes.'],No error found
+4195,"[""Does anyone know what is the colour of an eagle's egg?""]",Inversion
+4196,['Please tell me what did he say about my project.'],No error found
+4197,['I was wondering are they going to get married.'],No error found
+4198,['Do you know what the weather is supposed to be like on the weekend?'],No error found
+4199,"[""Let's ask the teacher how can we prepare for the final exam.""]",No error found
+4200,['I was wondering if you knew what time is it.'],Uncertainty
+4201,['Please tell me what your plans are after you graduate.'],No error found
+4202,['Have you decided what are you going to order from the menu?'],No error found
+4203,['Have you any idea how long will it take to finish the project?'],No error found
+4204,['Do you know if many people are coming to the party?'],No error found
+4205,['Have you decided when are you returning to your country?'],No error found
+4206,['I wonder what should I buy my girlfriend for her birthday?'],Inversion
+4207,"[""Let's find out when is the first available flight to Toronto.""]",No error found
+4208,"[""Does anyone know what is the colour of an eagle's egg?""]",Inversion
+4209,"[""Does anyone know why was today's meeting postponed until next week?""]",Inversion
+4210,['I wish I knew where I left my glasses.'],No error found
+4211,['Do you know he will be there?'],No error found
+4212,"[""Does anyone know what the topic of today's lecture is?""]",No error found
+4213,['Can anyone recollect what did we learn about coordinate conjunctions in class yesterday?'],No error found
+4214,['Have you decided will you accept the offer or not accept it?'],No error found
+4215,"[""Do you know how often should I water this plant? I don't want it to die.""]",Inversion
+4216,['Do you know whether or not they are going to have a large wedding?'],No error found
+4217,['Do you know where are they going to stay while they are visiting Vancouver?'],No error found
+4218,['I wonder why is the cafeteria so crowded today?'],No error found
+4219,['We need to find out can they deliver the new furniture on Friday.'],No error found
+4220,"['Excuse me. Could you tell me what is the time', ' please?']",Missing comma before please
+4221,"[""Let's find out when is the first available flight to Toronto.""]",No error found
+4222,['Can you tell me how to get to your apartment from the train station?'],No error found
+4223,"[""I'm not sure what time are we supposed to meet them at the restaurant.""]",No error found
+4224,"[""I'd like to know what made him so angry.""]",No error found
+4225,"[""I'm not sure what time are we supposed to meet them at the restaurant.""]",No error found
+4226,['Could you please tell me when will you be ready to leave?'],Inversion
+4227,['Could you please show me how does this new copy machine work?'],No error found
+4228,['This pie is delicious. Could you tell me how to make it?'],No error found
+4229,"['That man is familiar', "" but I can't remember where did I meet him.""]",Missing comma in compound sentence
+4230,"[""I've seen this movie before"", "" but I can't remember how does it end.""]",Missing comma in compound sentence
+4231,"[""Let's ask the teacher how can we prepare for the final exam.""]",No error found
+4232,['Can you tell me why are you packing so many things for such a short trip?'],No error found
+4233,"[""Let's ask the teacher how can we prepare for the final exam.""]",No error found
+4234,"[""Let's find out how much it would cost to remodel our kitchen.""]",No error found
+4235,"[""Let's find out how much would it cost to remodel our kitchen.""]",No error found
+4236,"[""I've never eaten at this restaurant. Can you tell me what should I order?""]",Inversion
+4237,['I wonder how much will it cost to take a taxi home after the annual office party.'],Inversion
+4238,"[""I've never eaten this before. Do you know what is in it?""]",No error found
+4239,"[""I can't remember what time does this coffee shop close.""]",No error found
+4240,['We need to find out can they deliver the new furniture on Friday.'],No error found
+4241,"[""I can't decide what I should wear to the graduation ceremony.""]",No error found
+4242,['Could you please show me how does this new copy machine work?'],No error found
+4243,['I wonder how much will it cost to take a taxi home after the annual office party.'],Inversion
+4244,"[""I don't know whether they are planning to join us for the hike or not.""]",No error found
+4245,"[""I can't remember what time does this coffee shop close.""]",No error found
+4246,"[""I haven't seen Ken for a long time. I wonder how is he doing these days.""]",Inversion
+4247,['Could you please tell me when will you be ready to leave?'],Inversion
+4248,['Do you remember when did your friend from Brazil arrive in this country?'],No error found
+4249,['Have you any idea how long will it take to finish the project?'],No error found
+4250,['I was wondering how long you two have known each other.'],No error found
+4251,"['That man is familiar', "" but I can't remember where did I meet him.""]",Missing comma in compound sentence
+4252,"[""Let's ask him if he knows the way to the train station.""]",No error found
+4253,"[""Do you know how often should I water this plant? I don't want it to die.""]",Inversion
+4254,['Can you remember how long did it take us to get here from the airport?'],No error found
+4255,['Can you tell me why are you packing so many things for such a short trip?'],No error found
+4256,"[""I'd like to know why did the car not start this morning.""]",No error found
+4257,['Could you tell me which of these two watches do you like the best?'],No error found
+4258,['I wonder whether we will have enough time to visit all the places we want to see during our trip to Europe.'],No error found
+4259,['I wonder what time did he leave?'],No error found
+4260,['She got presents so it was her birthday.'],Missing comma in compound sentence
+4261,['She got presents because it was her birthday.'],No error found
+4262,['She got presents but it was her birthday.'],Missing comma in compound sentence
+4263,['She got presents then it was her birthday.'],No error found
+4264,['We came in early today because we had a meeting.'],No error found
+4265,['We came in early today so we had a meeting.'],Missing comma in compound sentence
+4266,['We came in early today but we had a meeting.'],Missing comma in compound sentence
+4267,"[""We came in early today that''s why we had a meeting.""]",Misspelled word
