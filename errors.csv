@@ -4038,3 +4038,33 @@ SNo,Options,Error
 4026,['Did you reach on time?'],No error found
 4027,['Will you reach on time?'],No error found
 4028,['I will not work.'],No error found
+4029,['I will work.'],No error found
+4030,['I not will work.'],No error found
+4031,['I will not do work.'],No error found
+4032,['I will go not outside.'],No error found
+4033,"[""I don't will go outside.""]",Do with modal verb
+4034,['I am not will go outside.'],No error found
+4035,['I will not go outside.'],No error found
+4036,['I will answer the phone.'],No error found
+4037,"[""I won't answer the phone.""]",No error found
+4038,"[""I will won't answer the phone.""]",Two modal verbs in one clause
+4039,['I will do not answer the phone.'],No error found
+4040,"[""They have lived in Paris for so many years - they will don't want to leave.""]",Incomplete comparison
+4041,['They have lived in Paris for so many years - they will want to leave.'],Incomplete comparison
+4042,"[""They have lived in Paris for so many years - they won't want to leave.""]",Incomplete comparison
+4043,['They have lived in Paris for so many years - they not will want to leave.'],Incomplete comparison
+4044,"['I will do stay at home', "" it's raining outside.""]",Squinting modifier
+4045,"['I will stay at home', "" it's raining outside.""]",Squinting modifier
+4046,"['I am not will stay at home', "" it's raining outside.""]",Squinting modifier
+4047,"['I will not stay at home', "" it's raining outside.""]",Squinting modifier
+4048,['What are you do tomorrow evening?'],No error found
+4049,['What do you do tomorrow evening?'],No error found
+4050,['What are you doing tomorrow evening?'],No error found
+4051,['What do you doing tomorrow evening?'],No error found
+4052,['I am not doing anything this evening.'],No error found
+4053,['I am not do anything this evening.'],No error found
+4054,"[""I don't do anything this evening.""]",No error found
+4055,['I not doing anything this evening.'],Missing verb
+4056,['Are you doing anything tomorrow?'],No error found
+4057,['Are you do anything tomorrow?'],No error found
+4058,['Do you doing anything tomorrow?'],Incorrect verb form after do or does
