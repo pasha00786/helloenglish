@@ -53,7 +53,7 @@ myElem = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CSS_
 print ("Loading dashboard...")
 
 #Opening dashboard
-driver.get("https://app.grammarly.com/docs/411840307")
+driver.get("https://app.grammarly.com/docs/415065638")
 print('Setting up environment...')
 newElem = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CSS_SELECTOR, "._ff9902-score")))
 print('Clearing pre-filled text...')
@@ -76,13 +76,19 @@ for i,text in enumerate(texts):
 	print('Looking for any possible grammatical error...')
 	error = 'No error found'
 	try:
-		Elem = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "span._ed4374-buttonWrapper:nth-child(1)")))
+		Elem = WebDriverWait(driver, 7).until(EC.presence_of_element_located((By.CSS_SELECTOR, "span._ed4374-buttonWrapper:nth-child(1)")))
 		print('Error Found')
+		time.sleep(0.1)
 		if if_exists('span._ed4374-buttonWrapper:nth-child(3)'):
 			driver.find_element_by_css_selector('span._ed4374-buttonWrapper:nth-child(2)').click()
-			error = driver.find_element_by_css_selector('._8da58b-plainTextTitle').text
-			if len(error) > 14:
-				error = error[0:15]
+			if if_exists('._8da58b-plainTextTitle'):
+				error = driver.find_element_by_css_selector('._8da58b-plainTextTitle').text
+				if len(error) > 14:
+					error = error[0:15]
+			elif if_exists('._ed4374-plainTextTitle'):
+				error = driver.find_element_by_css_selector('._ed4374-plainTextTitle').text
+				if len(error) > 13:
+					error = error[0:12]
 		else:
 			driver.find_element_by_css_selector('span._ed4374-buttonWrapper:nth-child(1)').click()
 			if if_exists('._8da58b-plainTextTitle'):
@@ -92,7 +98,7 @@ for i,text in enumerate(texts):
 		print('Error is "' + error + '"')
 	except TimeoutException:
 		print(error)
-	row = [i+1175, text, error]
+	row = [i+3686, text, error]
 
 	with open('errors.csv', 'a') as csvFile:
 	    writer = csv.writer(csvFile)
