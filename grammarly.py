@@ -17,8 +17,8 @@ import random
 import csv
 
 #credentials
-user = 'anik.samanta@iitkgp.ac.in'
-pas = 'atdc@iitkgp2017'
+user = ''
+pas = ''
 
 #Function that simulates human typing
 def human_type(element, text):
