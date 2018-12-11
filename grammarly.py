@@ -59,7 +59,7 @@ newElem = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CSS
 print('Clearing pre-filled text...')
 
 #List of Query Text
-with open('buffer.csv', 'r') as f:
+with open('questions_rest.csv', 'r') as f:
   reader = csv.reader(f)
   texts = list(reader)
 count = len(texts)
@@ -98,7 +98,7 @@ for i,text in enumerate(texts):
 		print('Error is "' + error + '"')
 	except TimeoutException:
 		print(error)
-	row = [i+1705, text, error]
+	row = [i+1, text, error]
 
 	with open('errors.csv', 'a') as csvFile:
 	    writer = csv.writer(csvFile)
